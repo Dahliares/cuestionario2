@@ -1,0 +1,11 @@
+<div class="accordion-section">
+  <div class="accordion-header" (click)="toggleSection()">
+    {{ title }}
+    <span [class]="isOpen ? 'arrow-down' : 'arrow-right'">&#9660;</span>
+  </div>
+  <div *ngIf="isOpen" class="accordion-content">
+    <!-- Contenido de la sección -->
+    <app-cuestionario></app-cuestionario>
+    <ng-content></ng-content>
+  </div>
+</div>

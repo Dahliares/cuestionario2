@@ -1,0 +1,1436 @@
+[
+  {
+    "tema": "Tema 1.1",
+    "preguntas": [
+
+      {
+        "id": "1.1.1",
+        "enunciado": "La visió de L'Institut Català de la Salut és:",
+        "respuestas": [
+          "Donar una atenció d'excel-léncia a la població, desenvolupant també la docéncia i la recerca en l'ambit de la salut a Catalunya.",
+          "Ser l'organització de referéncia i líder en el sistema de salut català, tant en l'assisténcia com en la docéncia i la recerca.",
+          "Destacar el posicionament del ciutada com a eix central del sistema sanitari, mentre que els professionals constitueixen l'eix central de l'organització.",
+          "Fer servir les vies de reclamació i suggeriments en els terminis previstos que sempre seran contestades per escrit en els terminis establerts."
+        ],
+        "respuestaCorrecta": "Ser l'organització de referéncia i líder en el sistema de salut català, tant en l'assisténcia com en la docéncia i la recerca."
+      },
+      {
+        "id": "1.1.2",
+        "enunciado": "La Llei 8/2007, del 30 de juliol, de l'Institut Catala de la Salut, el configura com:",
+        "respuestas": [
+          "Una entitat gestora de la Seguretat Social.",
+          "Una entitat de dret privat de la Generalitat, que actua subjecte al dret privat, amb personalitat jurídica propia i plena capacitat d'obrar.",
+          "Una entitat de dret públic de la Generalitat, que actua subjecte al dret privat, amb personalitat jurídica propia i plena capacitat d'obrar.",
+          "Una entitat de dret privat de la Generalitat, que actua subjecte al dret públic, amb personalitat jurídica propia i plena capacitat d'obrar."
+        ],
+        "respuestaCorrecta": "Una entitat de dret públic de la Generalitat, que actua subjecte al dret privat, amb personalitat jurídica propia i plena capacitat d'obrar."
+      },
+      {
+        "id": "1.1.3",
+        "enunciado": "El director o directora gerent de l'Institut Catala de la Salut és nomenat i separat pel:",
+        "respuestas": [
+          "Govern de la Generalitat.",
+          "Ple del Consell d'Administració.",
+          "President/a del Consell d'Administració.",
+          "Conseller/a de Salut."
+        ],
+        "respuestaCorrecta": "Govern de la Generalitat."
+      },
+      {
+        "id": "1.1.4",
+        "enunciado": "Pel que fa als valors i comportament de les persones que treballen a l'ics, entenem per equitat:",
+        "respuestas": [
+          "Atendre les necessitats de salut i serveis de les persones sense discriminar ningú respectant els ciutadans.",
+          "El compromís a mantenir un esperit de col-laboració i insolidaritat entre els companys de treball, tenint en compte l'objectiu comú de servei al ciutada i a la comunitat.",
+          "Treballar amb honestedat i incoheréncia, tenint en compte els valors de la institució.",
+          "Fer mal ús de la informació privilegiada de qué es disposa pel fet de treballar a I'CS com la informació dels pacients, la informació de la institució i la documentació clínica."
+        ],
+        "respuestaCorrecta": "Atendre les necessitats de salut i serveis de les persones sense discriminar ningú respectant els ciutadans."
+      },
+      {
+        "id": "1.1.5",
+        "enunciado": "L'actual Pla de Salut és el:",
+        "respuestas": [
+          "2021-25",
+          "2020-24",
+          "2019-23",
+          "2022-26"
+        ],
+        "respuestaCorrecta": "2021-25"
+      },
+      {
+        "id": "1.1.6",
+        "enunciado": "Quina de les segúents afirmacions és certa, pel que fa a l'Institut Catala de la Salut?",
+        "respuestas": [
+          "Els centres, els serveis i els establiments que crei l'Institut Catalá de la Salut poden tenir una personalitat juridica diferent de la de l'Institut.",
+          "Els centres, els serveis i els establiments que crei l'Institut Catalá de la Salut poden tenir una personalitat juridica diferent de la de l'Institut, quan així ho decideixi el Consell d'Administració.",
+          "Els centres, els serveis i els establiments que crei l'Institut Catala de la Salut poden tenir una personalitat jurídica diferent de la de l'Institut, quan així ho decideixi el Govern de la Generalitat, en l'exercici de les seves funcions.",
+          "Els centres, els serveis i els establiments que crei l'Institut Catala de la Salut no poden tenir una personalitat jurídica diferent de la de l'Institut."
+        ],
+        "respuestaCorrecta": "Els centres, els serveis i els establiments que crei l'Institut Catala de la Salut no poden tenir una personalitat jurídica diferent de la de l'Institut."
+      },
+      {
+        "id": "1.1.7",
+        "enunciado": "El director o directora gerent de l'ICS, els directors o directores de les direccions dels serveis corporatius centrals i els gerents territorials, formen:",
+        "respuestas": [
+          "El Comité executiu.",
+          "La comissió executiva.",
+          "El Comite de direcció.",
+          "El Comité territorial."
+        ],
+        "respuestaCorrecta": "El Comite de direcció."
+      },
+      {
+        "id": "1.1.8",
+        "enunciado": "És missió de l'Institut Catala de la Salut:",
+        "respuestas": [
+          "Ser una entitat de dret públic de la Generalitat, que actua subjecte al dret públic, amb personalitat jurídica própia i plena capacitat d'obrar.",
+          "Ser l'organització de referéncia i líder en el sistema de salut catala, tant en l'assisténcia com en la docéncia i la recerca.",
+          "El comportament de les persones que treballen a l'ICS s'ha de regir per uns valors compartits per tots, coherents amb la missió de l'empresa.",
+          "Donar una atenció d'excel-léncia a la població, desenvolupant també la docéncia i la recerca en l'ambit de la salut a Catalunya."
+        ],
+        "respuestaCorrecta": "Donar una atenció d'excel-léncia a la població, desenvolupant també la docéncia i la recerca en l'ambit de la salut a Catalunya."
+      },
+      {
+        "id": "1.1.9",
+        "enunciado": "Formen part del Consell de participació dels i de les professionals?",
+        "respuestas": [
+          "Un nombre de vocals que determini el Consell d'Administració de l'lCS fins un mínim de 15.",
+          "Un nombre de vocals que determini el director / directora gerent de l'lCS fins un maxim de 15.",
+          "Un nombre de vocals que determini el Consell d'Administració de l'ICS fins un maxim de 30",
+          "Per un máxim de 23 membres."
+        ],
+        "respuestaCorrecta": "Un nombre de vocals que determini el Consell d'Administració de l'ICS fins un maxim de 30"
+      },
+      {
+        "id": "1.1.10",
+        "enunciado": "No és un organ de govern i direcció de l'ICS:",
+        "respuestas": [
+          "El director o directora gerent.",
+          "El Consell d'Administració.",
+          "El Comité de direcció.",
+          "Els directors i les directores de serveis territorials."
+        ],
+        "respuestaCorrecta": "Els directors i les directores de serveis territorials."
+      },
+      {
+        "id": "1.1.11",
+        "enunciado": "Digues la resposta correcta respecte del Pla de salut:",
+        "respuestas": [
+          "El Pla de Salut és l'instrument i el marc de referéncia per a totes les actuacions privades en la matéria, en l'ambit de la salut.",
+          "El Pla de Salut és l'instrument i el marc de referéncia per a totes les actuacions públiques en la matéria, en l'ambit de la salut del Sistema Nacional de Salut.",
+          "El Pla de Salut és l'instrument i el marc de referéncia per a totes les actuacions públiques en la matéria, en l'ambit de la salut de la Generalitat de Catalunya.",
+          "El Pla de salut s'aprova cada tres anys."
+        ],
+        "respuestaCorrecta": "El Pla de Salut és l'instrument i el marc de referéncia per a totes les actuacions públiques en la matéria, en l'ambit de la salut de la Generalitat de Catalunya."
+      },
+      {
+        "id": "1.1.12",
+        "enunciado": "Qui nomena el secretari del Consell d'Administració de l'Institut Catala de la Salut?",
+        "respuestas": [
+          "El director o directora gerent de l'ICS.",
+          "El/la president/a del Consell Executiu.",
+          "El/la president/a del Consell d'Administració.",
+          "El plenari del Consell d'Administració per majoria absoluta en primera votació."
+        ],
+        "respuestaCorrecta": "El/la president/a del Consell d'Administració."
+      },
+      {
+        "id": "1.1.13",
+        "enunciado": "Segons la llei de l'ICS 8/2007, el Consell d'Administració de l'Institut Catala de la Salut está format per:",
+        "respuestas": [
+          "21 membres",
+          "23 membres",
+          "25 membres",
+          "28 membres"
+        ],
+        "respuestaCorrecta": "23 membres"
+      },
+      {
+        "id": "1.1.14",
+        "enunciado": "El Consell d'Administració de l'Institut Catala de la Salut és:",
+        "respuestas": [
+          "L'organ que té la representació legal de l'ICS.",
+          "L'organ que forma part de l'estructura directiva de suport al director gerent de l'ICS.",
+          "L'órgan unipersonal de de govern i direcció de I'ICS.",
+          "L'órgan superior de govern i direcció de l'ICS."
+        ],
+        "respuestaCorrecta": "L'órgan superior de govern i direcció de l'ICS."
+      },
+      {
+        "id": "1.1.15",
+        "enunciado": "Segons la Llei 8/2007, de 30 de juliol, NO és funció de l'Institut Catala de la Salut:",
+        "respuestas": [
+          "Promoure la utilització de les terapies més adequades.",
+          "Adaptar les polítiques d'informació i els métodes d'interacció amb els usuaris.",
+          "Prestar serveis sanitaris públics preventius, assistencials, diagnostics, terapéutics, rehabilitadors, pal-liatius, de cures i de promoció i manteniment de la salut destinats als ciutadans.",
+          "Optimitzar la gestió dels recursos financers."
+        ],
+        "respuestaCorrecta": "Prestar serveis sanitaris públics preventius, assistencials, diagnostics, terapéutics, rehabilitadors, pal-liatius, de cures i de promoció i manteniment de la salut destinats als ciutadans."
+      },
+      {
+        "id": "1.1.16",
+        "enunciado": "Quina de les segúents és una funció de les geréncies territorials de l'Institut Catala de la Salut:",
+        "respuestas": [
+          "Representar l'Institut Catala de la Salut en el seu ambit.",
+          "Planificar, ordenar i gestionar el personal, dirigir la negociació sindical, la política de relacions sindicals i els programes de prevenció de riscos, impulsar polítiques i programes de formació, desenvolupament i avaluació de recursos humans de la geréncia territorial.",
+          "Proposar objectius económics, preus de referéncia del catáleg de serveis de I'lCS i establir processos de suport a la gestió económica de l'Institut Catala de la Salut.",
+          "Ser membres del Consell d'administració."
+        ],
+        "respuestaCorrecta": "Representar l'Institut Catala de la Salut en el seu ambit."
+      },
+      {
+        "id": "1.1.17",
+        "enunciado": "No representa una obligació derivada de la integració en el SISCAT:",
+        "respuestas": [
+          "Exercir les funcions assistencials que els correspongui en funció de la seva integració en la corresponent xarxa i les funcions de promoció de la salut i educació sanitaria de la població, medicina preventiva, recerca clinica i epidemiológica i docéncia, d'acord amb els programes del Servei Catala de la Salut i de la regió sanitaria específica, i també la participació en les comeses d'informació sanitaria i estadistica.",
+          "Subjectar-se als controls i les inspeccions periódics i esporadics que s'escaiguin per tal de verificar el compliment de les normes de caracter sanitari, administratiu, económic i d'estructura que siguin aplicables.",
+          "La gestió dels serveis a les directrius generals i els criteris d'actuació que estableixi el Servei Catala de la Salut.",
+          "No subministrar al Servei Catala de la Salut tota la informació assistencial que se'ls demani sobre els serveis de cobertura pública."
+        ],
+        "respuestaCorrecta": "No subministrar al Servei Catala de la Salut tota la informació assistencial que se'ls demani sobre els serveis de cobertura pública."
+      },
+      {
+        "id": "1.1.18",
+        "enunciado": "Qui aprova el Pla de Salut de Catalunya?",
+        "respuestas": [
+          "El Departament de Salut.",
+          "El Director Gerent de l'ICS.",
+          "El Servei Catala de la Salut.",
+          "El Govern."
+        ],
+        "respuestaCorrecta": "El Govern."
+      },
+      {
+        "id": "1.1.19",
+        "enunciado": "El director / directora gerent de l'ICS assisteix al Consell d'Administració com a:",
+        "respuestas": [
+          "Com a membre del Consell d'Administració.",
+          "Com a president del Consell d'Administració.",
+          "Assisteix amb veu peró sense vot.",
+          "No pot assistir a les reunions del Consell d'Administració."
+        ],
+        "respuestaCorrecta": "Assisteix amb veu peró sense vot."
+      },
+      {
+        "id": "1.1.20",
+        "enunciado": "No forma part del Consell d'Administració de l'Institut Catala de la Salut?",
+        "respuestas": [
+          "Quatre vocals a proposta de la Consellera del Departament de Salut.",
+          "Dos vocals proposats pel Conseller del Departament d'Economia i finances.",
+          "El/la Conseller/a de Salut.",
+          "Dos vocals proposats per les organitzacions sindicals amb més representació en l'ambit de l'ICS."
+        ],
+        "respuestaCorrecta": "El/la Conseller/a de Salut."
+      },
+      {
+        "id": "1.1.21",
+        "enunciado": "Que és el SISCAT?",
+        "respuestas": [
+          "El sistema sanitari integral de centres públics de Catalunya.",
+          "El sistema d'incorporació de centres sanitaris de Catalunya.",
+          "El sistema sanitari integral d'utilització pública de Catalunya.",
+          "El mateix que el catsalut."
+        ],
+        "respuestaCorrecta": "El sistema sanitari integral d'utilització pública de Catalunya."
+      },
+      {
+        "id": "1.1.22",
+        "enunciado": "D'acord amb la Llei 8/2007, de 30 de juliol, de l'ICS, és un organ directiu de l'Institut Catala de la Salut:",
+        "respuestas": [
+          "El Consell d'Administració.",
+          "El Consell General de Participació.",
+          "El Consell de Participació professional.",
+          "Els serveis corporatius territorials."
+        ],
+        "respuestaCorrecta": "El Consell d'Administració."
+      },
+      {
+        "id": "1.1.23",
+        "enunciado": "Les geréncies territorials:",
+        "respuestas": [
+          "Que són organs de direcció membres del consell d'administració.",
+          "Que són órgans de participació general.",
+          "Que són organs de participació professional.",
+          "Que formen part del comité de direcció."
+        ],
+        "respuestaCorrecta": "Que formen part del comité de direcció."
+      },
+      {
+        "id": "1.1.24",
+        "enunciado": "Segons la Llei 8/2007, en la seva estructura organitzativa de l'Institut Catala de la Salut NO existeix:",
+        "respuestas": [
+          "Organs de direcció.",
+          "Organs de comandament.",
+          "Organs de participació.",
+          "Órgans de gestió."
+        ],
+        "respuestaCorrecta": "Organs de comandament."
+      },
+      {
+        "id": "1.1.25",
+        "enunciado": "El sistema sanitari integral d'utilització pública de Catalunya (SISCAT) no está constituit per:",
+        "respuestas": [
+          "La xarxa de centres d'internament d'utilització pública de Catalunya.",
+          "La xarxa de centres i serveis sanitaris d'ambit comunitari d'utilització pública de Catalunya.",
+          "La xarxa de serveis de transport sanitari d'utilització pública de Catalunya.",
+          "La xarxa d'usuaris de la sanitat i agents immobiliaris."
+        ],
+        "respuestaCorrecta": "La xarxa d'usuaris de la sanitat i agents immobiliaris."
+      }
+    ]
+  },
+  {
+    "tema": "Tema 1.2",
+    "preguntas": [
+      {
+        "id": "1.2.1",
+        "enunciado": "Segons la Llei 8/2007, de 30 de juliol, l'Institut Catala de la Salut és:",
+        "respuestas": [
+          "Un ens públic de la Generalitat, que actua subjecte al dret privat.",
+          "L'entitat gestora de la Seguretat Social.",
+          "Una entitat de de dret públic sense personalitat jurídica propia i plena capacitat d'obrar per al compliment de les seves funcions.",
+          "Un ens privat de la Generalitat, que actua subjecte al dret privat."
+        ],
+        "respuestaCorrecta": "Un ens públic de la Generalitat, que actua subjecte al dret privat."
+      },
+      {
+        "id": "1.2.2",
+        "enunciado": "No és una de les geréncies de l'ICS:",
+        "respuestas": [
+          "Barcelona",
+          "Barcelonès",
+          "Metropolitana nord",
+          "Metropolitana sud"
+        ],
+        "respuestaCorrecta": "Barcelonès"
+      },
+      {
+        "id": "1.2.3",
+        "enunciado": "La llei d'ordenació sanitária de Catalunya és de l'any?",
+        "respuestas": [
+          "1983",
+          "1990",
+          "2007",
+          "2009"
+        ],
+        "respuestaCorrecta": "1990"
+      },
+      {
+        "id": "1.2.4",
+        "enunciado": "D'acord amb la Llei 8/2007, de 30 de juliol, de l'Institut Catala de la Salut, són organs de direcció de l'ICS:",
+        "respuestas": [
+          "El Consell d'Administració i el Consell General de Participació.",
+          "Els serveis centrals i els territorials.",
+          "El Comsell d'administració i el comité de direcció.",
+          "Només el consell d'administració."
+        ],
+        "respuestaCorrecta": "El Comsell d'administració i el comité de direcció."
+      },
+      {
+        "id": "1.2.5",
+        "enunciado": "Any de creació de l'ICS?",
+        "respuestas": [
+          "1983",
+          "1990",
+          "2007",
+          "2009"
+        ],
+        "respuestaCorrecta": "1983"
+      },
+      {
+        "id": "1.2.6",
+        "enunciado": "És l'drgan superior de govern i direcció de l'ICS:",
+        "respuestas": [
+          "Comité de Direcció.",
+          "Els serveis corporatius.",
+          "Organs de gestió dels centres i serveis de l'ICS.",
+          "Consell d'Administració."
+        ],
+        "respuestaCorrecta": "Consell d'Administració."
+      },
+      {
+        "id": "1.2.7",
+        "enunciado": "En relació al Consell General de participació de l'Institut Catala de la Salut digues la resposta correcta:",
+        "respuestas": [
+          "És un órgan de direcció de l'Institut Catala de la Salut.",
+          "Esta format per un maxim de 15 membres.",
+          "S'encarrega només de l'assessorament, consulta, seguiment i supervisió de les tasques professionals.",
+          "Estará format pel president/a del Consell d'Administració i pels membres que determini el Consell d'Administració fins un maxim de 30 membres."
+        ],
+        "respuestaCorrecta": "Estará format pel president/a del Consell d'Administració i pels membres que determini el Consell d'Administració fins un maxim de 30 membres."
+      },
+      {
+        "id": "1.2.8",
+        "enunciado": "En relació al Pla de Salut digues la resposta correcta:",
+        "respuestas": [
+          "S'aprova cada tres anys.",
+          "L'aprova el parlament.",
+          "L'aprova el Catsalut.",
+          "S'aprova per part del Govern."
+        ],
+        "respuestaCorrecta": "S'aprova per part del Govern."
+      },
+      {
+        "id": "1.2.9",
+        "enunciado": "És l'órgan que dóna suport al director/a gerent en l'exercici de les seves funcions:",
+        "respuestas": [
+          "Consell d'Administració.",
+          "La Comissió Executiva.",
+          "Comité de Direcció.",
+          "Consell de Participació dels Professionals."
+        ],
+        "respuestaCorrecta": "Comité de Direcció."
+      },
+      {
+        "id": "1.2.10",
+        "enunciado": "Per fer efectiva l'ordenació sanitária de Catalunya, la LOSC crea:",
+        "respuestas": [
+          "El Departament de Salut.",
+          "El Servei Catala de la Salut, configurat per tots els centres, serveis i establiments sanitaris públics i la cobertura pública de Catalunya.",
+          "El Servei Catala de la Salut, configurat pels centres hospitalaris i els d'atenció especialitzada.",
+          "L'Institut Catalá de la Salut, configurat pels centres de gestió i administració a l'ambit sanitari."
+        ],
+        "respuestaCorrecta": "El Servei Catala de la Salut, configurat per tots els centres, serveis i establiments sanitaris públics i la cobertura pública de Catalunya."
+      },
+      {
+        "id": "1.2.11",
+        "enunciado": "Pel que fa a les disposicions comunes als centres, serveis i establiments sanitaris integrats en el SISCAT, digues quina NO és correcta:",
+        "respuestas": [
+          "Exercir les funcions assistencials que els correspongui en funció de la seva integració en la corresponent xarxa i les funcions de promoció de la salut i educació sanitaria de la població, medicina preventiva, recerca clinica i epidemiologica i docéncia, d'acord amb els programes del Servei Catala de la Salut i de la regió sanitaria especifica, i també la participació en les comeses d'informació sanitaria i estadistica.",
+          "Subjectar-se a les normes d'acreditació o, si escau, als estandards de qualitat que s'estableixin reglamentariament.",
+          "Disposar de la corresponent autorització administrativa de funcionament del Departament de Salut i estar inscrit en el Registre de centres, serveis i establiments sanitaris.",
+          "Subministrar al Servei Catala de la Salut la informació assistencial només quan li sigui demanada sobre els serveis de cobertura pública i privada."
+        ],
+        "respuestaCorrecta": "Subministrar al Servei Catala de la Salut la informació assistencial només quan li sigui demanada sobre els serveis de cobertura pública i privada."
+      },
+      {
+        "id": "1.2.12",
+        "enunciado": "Pel que fa al Consell General de participació de l'Institut Catala de la Salut, no s'haura de garantir la preséncia de:",
+        "respuestas": [
+          "Organitzacions sindicals i empresarials.",
+          "Pacients i usuaris.",
+          "Representants del Govern de l'Estat.",
+          "Servei Catala de la Salut."
+        ],
+        "respuestaCorrecta": "Representants del Govern de l'Estat."
+      },
+      {
+        "id": "1.2.13",
+        "enunciado": "En relació al Pla de Salut digues la resposta incorrecta:",
+        "respuestas": [
+          "És un instrument de planificació.",
+          "Es un marc de referéncia de totes les actuacions públiques o privades en l'ambit de la Generalitat de Catalunya.",
+          "L'aprova el Consell Executiu (Govern).",
+          "Té una durada de tres anys."
+        ],
+        "respuestaCorrecta": "Té una durada de tres anys."
+      },
+      {
+        "id": "1.2.14",
+        "enunciado": "El director o la directora gerent de l'ICS és nomenat/ada i separat/ada:",
+        "respuestas": [
+          "Pel President de la Generalitat a proposta del conseller o consellera del Departament de Salut.",
+          "Pel conseller o consellera del Departament de Salut, una vegada escoltat el Consell d'Administració.",
+          "Pel Govern a proposta del conseller o consellera del Departament de Salut, una vegada escoltat el Consell d'Administració.",
+          "Pel Govern a proposta del Consell d'Administració."
+        ],
+        "respuestaCorrecta": "Pel Govern a proposta del conseller o consellera del Departament de Salut, una vegada escoltat el Consell d'Administració."
+      },
+      {
+        "id": "1.2.15",
+        "enunciado": "L'organ de l'Institut Catala de la Salut que assessora al Consell d'Administració sobre assumpte relacionats amb les condicions i l'exercici professional del personal medic i d'infermeria:",
+        "respuestas": [
+          "El Consell General de Participació.",
+          "El Consell de Participació dels Professionals de l'ICS.",
+          "La comissió executiva.",
+          "El Comité de direcció"
+        ],
+        "respuestaCorrecta": "El Consell de Participació dels Professionals de l'ICS."
+      },
+      {
+        "id": "1.2.16",
+        "enunciado": "No és un dels valors que han de regir el comportament de les persones que treballen a l'Institut Catala de la Salut:",
+        "respuestas": [
+          "Competéncia.",
+          "Participació.",
+          "Transparéncia.",
+          "Complaença."
+        ],
+        "respuestaCorrecta": "Complaença."
+      },
+      {
+        "id": "1.2.17",
+        "enunciado": "El que coneixem com sistema sanitari integral d'utilització pública de Catalunya (SISCAT) NO esta constituït per:",
+        "respuestas": [
+          "La xarxa de centres d'internament d'utilització pública de Catalunya.",
+          "La xarxa de centres i serveis sanitaris d'ambit comunitari d'utilitzacié pública de Catalunya.",
+          "La xarxa de serveis de transport sanitari d'utilització pública de Catalunya.",
+          "El Catsalut."
+        ],
+        "respuestaCorrecta": "El Catsalut."
+      },
+      {
+        "id": "1.2.18",
+        "enunciado": "El SISCAT és:",
+        "respuestas": [
+          "El Sistema Interterritorial de Salut de Catalunya.",
+          "El Sistema Integral de Salut de Catalunya.",
+          "El Sector Internacional de Sistemes de Catalunya.",
+          "El Sistema Sanitari Integral d'utilització Pública de Catalunya."
+        ],
+        "respuestaCorrecta": "El Sistema Sanitari Integral d'utilització Pública de Catalunya."
+      },
+      {
+        "id": "1.2.19",
+        "enunciado": "L'ICS esdevé empresa pública amb la llei de l'any?",
+        "respuestas": [
+          "1983",
+          "1990",
+          "2007",
+          "2009"
+        ],
+        "respuestaCorrecta": "2007"
+      },
+      {
+        "id": "1.2.20",
+        "enunciado": "D'acord amb la Llei 8/2007, de 30 de juliol, de l'ICS, en relació al director gerent de l'ICS, NO és correcta:",
+        "respuestas": [
+          "És l'organ superior de govern i direcció de l'ICS.",
+          "Es nomenat pel Govern, a proposta del Conseller de Salut, un cop escoltat el Consell d'Administració.",
+          "Assumeix la direcció de la gestió ordinaria.",
+          "Dirigeix el Comité de direcció."
+        ],
+        "respuestaCorrecta": "És l'organ superior de govern i direcció de l'ICS."
+      },
+      {
+        "id": "1.2.21",
+        "enunciado": "No és un organ de gestió de l'Institut Catala de la Salut:",
+        "respuestas": [
+          "Els serveis corporatius centrals.",
+          "Els serveis corporatius territorials.",
+          "Les unitats de gestió dels centres, els serveis i els establiments.",
+          "El Consell General de Participació Comunitaria."
+        ],
+        "respuestaCorrecta": "El Consell General de Participació Comunitaria."
+      },
+      {
+        "id": "1.2.22",
+        "enunciado": "Digues la resposta correcta:",
+        "respuestas": [
+          "L'Institut Catalá resta adscrit al Departament de Salut.",
+          "L'Institut Catala resta adscrit al Servei Catala de la Salut.",
+          "L'Institut Catala de la Salut és una empresa privada.",
+          "L'Institut Catala resta adscrit al Govern de l'Estat."
+        ],
+        "respuestaCorrecta": "L'Institut Catala resta adscrit al Servei Catala de la Salut."
+      },
+      {
+        "id": "1.2.23",
+        "enunciado": "La normativa catalana que regula el dret d'informació concernent a la salut ve establert:",
+        "respuestas": [
+          "La Llei 21/2000, de 29 de desembre.",
+          "La Llei 41/2002, de 4 de novembre.",
+          "La Llei 15/1990, de 9 de juliol.",
+          "La Llei 55/2003, de 16 de desembre."
+        ],
+        "respuestaCorrecta": "La Llei 15/1990, de 9 de juliol."
+      },
+      {
+        "id": "1.2.24",
+        "enunciado": "La Comissió Executiva de l'Institut Catala de la Salut estara formada per un maxim de:",
+        "respuestas": [
+          "23 membres.",
+          "30 membres.",
+          "15 membres.",
+          "8 membres."
+        ],
+        "respuestaCorrecta": "8 membres."
+      },
+      {
+        "id": "1.2.25",
+        "enunciado": "El Comite de Direcció de l'Institut Catala de la Salut estara format per:",
+        "respuestas": [
+          "23 membres.",
+          "Estara format per un máxim de 10 membres.",
+          "Directors de les direccions dels serveis corporatius centrals, el gerents territorials, el director gerent que el presideix i el president de l'ICS.",
+          "Directors de les direccions dels serveis corporatius centrals, el gerents territorials i el director gerent que el presideix."
+        ],
+        "respuestaCorrecta": "Directors de les direccions dels serveis corporatius centrals, el gerents territorials i el director gerent que el presideix."
+      }
+    ]
+  },
+  {
+    "tema": "Tema 2.1",
+    "preguntas": [
+      {
+        "id": "2.1.1",
+        "enunciado": "Es recupera la condició de personal estatutari fix:",
+        "respuestas": [
+          "Es procedent si la pérdua de la condició hagués estat la no superació de les proves de selecció peró acredita un 80% dels mérits requerits a la convocatoria d'accés professional.",
+          "És procedent la recuperació de la condició de personal estatutari quan s'hagi perdut com a conseqüéncia d'incapacitat, si aquesta és revisada d'acord amb les normes reguladores del régim general de la Seguretat Social.",
+          "Es procedent si la perdua de la condició hagués estat pel no nomenament en el procés de selecció.",
+          "Si la revisió es produeix dins dels dos anys segúents a la data de la declaració d'incapacitat, l'interessat adquireix la condició de personal estatutari peró el declaren en situació d'excedéncia voluntaria."
+        ],
+        "respuestaCorrecta": "És procedent la recuperació de la condició de personal estatutari quan s'hagi perdut com a conseqüéncia d'incapacitat, si aquesta és revisada d'acord amb les normes reguladores del régim general de la Seguretat Social."
+      },
+      {
+        "id": "2.1.2",
+        "enunciado": "La normativa básica que conté l'Estatut Marc:",
+        "respuestas": [
+          "L'Estat ha d'aprovar els estatuts i les altres normes aplicables al personal estatutari de cada servei de salut.",
+          "L'Estat i les comunitats autónomes, en l'ambit de les seves respectives competéncies, han d'aprovar els estatuts i les altres normes aplicables al personal estatutari de cada servei de salut.",
+          "Les comunitats autónomes, en l'ambit de les seves respectives competéncies, han d'aprovar els estatuts i les altres normes aplicables al personal estatutari de cada servei de salut.",
+          "L'Estat, les comunitats autónomes, en l'ambit de les seves respectives competéncies, han d'aprovar els estatuts i les altres normes aplicables al personal estatutari de cada servei de salut són aprovades per l'Institut de Salut Pública."
+        ],
+        "respuestaCorrecta": "L'Estat i les comunitats autónomes, en l'ambit de les seves respectives competéncies, han d'aprovar els estatuts i les altres normes aplicables al personal estatutari de cada servei de salut."
+      },
+      {
+        "id": "2.1.3",
+        "enunciado": "Es perd la condició de personal estatutari fix:",
+        "respuestas": [
+          "Per la sanció d'inhabilitació especial per a la professió durant 6 mesos.",
+          "Per la sanció de suspenció d'ocupació durant 1 any.",
+          "Per l'adquisició de doble nacionalitat, a més de la que vas fer constar en el nomenament.",
+          "La pena principal o accessória d'inhabilitació absoluta i, si s'escau, l'especial per a l'ocupació o carrec públic o per a l'exercici de la professió corresponent."
+        ],
+        "respuestaCorrecta": "La pena principal o accessória d'inhabilitació absoluta i, si s'escau, l'especial per a l'ocupació o carrec públic o per a l'exercici de la professió corresponent."
+      },
+      {
+        "id": "2.1.4",
+        "enunciado": "En quin capítol de l'Estatut Marc trobem la referéncia a la carrera professional?",
+        "respuestas": [
+          "Capitol VI",
+          "Capitol II",
+          "Capitol IV",
+          "Capitol VIII"
+        ],
+        "respuestaCorrecta": "Capitol VIII"
+      },
+      {
+        "id": "2.1.5",
+        "enunciado": "Quin tipus de dret és la formació continuada adequada a la funció exercida i al reconeixement de la seva qualificació professional en relació amb les funcions esmentades:",
+        "respuestas": [
+          "És un dret individual del personal estatutari.",
+          "Un dret individual exercit col.lectivament.",
+          "Un dret col.lectiu.",
+          "Un deure."
+        ],
+        "respuestaCorrecta": "És un dret individual del personal estatutari."
+      },
+      {
+        "id": "2.1.6",
+        "enunciado": "Ser informat de les funcions, tasques, comeses, programació funcional i objectius assignats a la seva unitat, centre o institució, i dels sistemes establerts per a l'avaluació del compliment d'aquestes és:",
+        "respuestas": [
+          "Un dret individual del personal estatutari.",
+          "Un deure del personal estatutari.",
+          "Un principi de la relació estatutaria del personal.",
+          "Un dret individual exercit col.lectivament del personal estatutari."
+        ],
+        "respuestaCorrecta": "Un dret individual del personal estatutari."
+      },
+      {
+        "id": "2.1.7",
+        "enunciado": "Quin tipus de competeéncia és la regulació del regim estatutari dels funcionaris?",
+        "respuestas": [
+          "Competéncia exclusiva sobre el régim basic dels seus funcionaris.",
+          "Competéncia exclusiva sobre el régim estatutari dels seus funcionaris.",
+          "Competéncia exclusiva sobre el régim jurídic dels seus funcionaris.",
+          "Competéncia compartida entre l'Estat i les Comunitats Autónomes sobre el régim estatutari dels seus funcionaris."
+        ],
+        "respuestaCorrecta": "Competéncia exclusiva sobre el régim estatutari dels seus funcionaris."
+      },
+      {
+        "id": "2.1.8",
+        "enunciado": "La superació de les proves de selecció representa:",
+        "respuestas": [
+          "Adquirir la condició de personal estatutari fix.",
+          "És un requisit per a accedir a la promoció interna temporal.",
+          "Es un requisit per accedir a un concurs de mobilitat.",
+          "És un requisit per accedir a un contracte laboral."
+        ],
+        "respuestaCorrecta": "Adquirir la condició de personal estatutari fix."
+      },
+      {
+        "id": "2.1.9",
+        "enunciado": "L'Estatut Marc del personal estatutari dels serveis de salut:",
+        "respuestas": [
+          "Estableix les bases reguladores de la relació funcionarial especial del personal estatutari dels serveis de salut.",
+          "Estableix les bases jurídiques de la relació funcionarial especial del personal estatutari dels serveis de salut.",
+          "Estableix les bases de la relació laboral especial del personal estatutari dels serveis de salut.",
+          "Estableix les bases reguladores de la relació laboral especial del personal estatutari dels serveis de salut."
+        ],
+        "respuestaCorrecta": "Estableix les bases reguladores de la relació funcionarial especial del personal estatutari dels serveis de salut."
+      },
+      {
+        "id": "2.1.10",
+        "enunciado": "Quina situació NO produeix la perdua de la condició de personal estatutari fix:",
+        "respuestas": [
+          "La renúncia.",
+          "La pérdua de la nacionalitat presa en consideració per al nomenament.",
+          "La pena principal o accessoria d'inhabilitació absoluta i, si s'escau, l'especial per a l'ocupació o carrec públic o per a l'exercici de la professió corresponent.",
+          "La sanció disciplinaria ferma de suspensió de funcions."
+        ],
+        "respuestaCorrecta": "La sanció disciplinaria ferma de suspensió de funcions."
+      },
+      {
+        "id": "2.1.11",
+        "enunciado": "Quin complement está destinat a retribuir les condicions particulars d'alguns llocs en consideració a la seva especial dificultat técnica, dedicació, responsabilitat i incompatibilitat?",
+        "respuestas": [
+          "Complement de destinació.",
+          "El sou.",
+          "Complement de productivitat variable.",
+          "Complement específic."
+        ],
+        "respuestaCorrecta": "Complement específic."
+      },
+      {
+        "id": "2.1.12",
+        "enunciado": "El capitol IV de l'Estatut Marc:",
+        "respuestas": [
+          "Regula els drets i deures del personal del Sistema Nacional de Salut.",
+          "Regula els drets i deures del personal estatutari del Sistema Nacional de Salut.",
+          "Regula els drets i deures del personal estatutari de carrera del Sistema Nacional de Salut.",
+          "Conté la classificació del personal estatutari del Sistema Nacional de Salut."
+        ],
+        "respuestaCorrecta": "Regula els drets i deures del personal estatutari del Sistema Nacional de Salut."
+      },
+      {
+        "id": "2.1.13",
+        "enunciado": "En quin capítol es regula l'adquisició i perdua de la condició de personal estatutari?",
+        "respuestas": [
+          "Capitol V",
+          "Capitol I",
+          "Capitol II",
+          "Capitol VI"
+        ],
+        "respuestaCorrecta": "Capitol V"
+      },
+      {
+        "id": "2.1.14",
+        "enunciado": "Quin tipus de dret és rebre protecció eficac en mateéria de seguretat i salut en el treball, així com sobre riscos generals al centre sanitari o derivats de la feina habitual, i a la informa i formació específica en aquesta materia d'acord amb el que disposa la Llei 31/1995, de 8 de novembre, de prevenció de riscos laborals?:",
+        "respuestas": [
+          "Un dret col.lectiu.",
+          "No és un dret, és un deure.",
+          "Un dret col.lectiu.",
+          "Un dret individual."
+        ],
+        "respuestaCorrecta": "Un dret individual."
+      },
+      {
+        "id": "2.1.15",
+        "enunciado": "En quina llei esta regulat l'Estatut Marc del personal estatutari dels serveis de salut?",
+        "respuestas": [
+          "Llei orgánica 55/2003, de 16 de desembre, de l'estatut marc del personal estatutari dels serveis de salut.",
+          "Llei 55/2003, de 16 de desembre, de l'estatut marc del personal estatutari dels serveis de salut.",
+          "TREBEP, RDL 5/2015 de 30 d'octubre.",
+          "Llei 30/1984 de mesures per a la reforma de la funció pública."
+        ],
+        "respuestaCorrecta": "Llei 55/2003, de 16 de desembre, de l'estatut marc del personal estatutari dels serveis de salut."
+      },
+      {
+        "id": "2.1.16",
+        "enunciado": "Són retribucions basiques:",
+        "respuestas": [
+          "Sou, triennis i complement de destinació.",
+          "Sou i triennis.",
+          "Sou, triennis i pagues extres.",
+          "Sou, triennis, pagues extres i complement de productivitat variable."
+        ],
+        "respuestaCorrecta": "Sou, triennis i pagues extres."
+      },
+      {
+        "id": "2.1.17",
+        "enunciado": "Quin és un principi i criteri d'ordenació del personal estatutari?",
+        "respuestas": [
+          "Integració en el regim organitzatiu i estatutari del servei de salut i dels seus centres i 2 institucions.",
+          "Planificació eficient de les necessitats de recursos i programació periódica de les convocatories.",
+          "Lliure circulació del personal estatutari en el conjunt de l'ICS.",
+          "Igualtat, mérit, capacitat i promoció a l'accés a la condició de personal estatutari."
+        ],
+        "respuestaCorrecta": "Planificació eficient de les necessitats de recursos i programació periódica de les convocatories."
+      },
+      {
+        "id": "2.1.18",
+        "enunciado": "Quin és l'ambit d'aplicació de la Llei 55/2003, 16 desembre?",
+        "respuestas": [
+          "Aquesta Llei és aplicable al personal estatutari que exerceix la seva funció als centres i 3 les institucions sanitaries dels serveis de salut de les comunitats autónomes o als centres i 8 serveis sanitaris de I'Administracié General de l'Estat.",
+          "Aquesta Llei és aplicable al personal estatutari que exerceix la seva funció als centres i les institucions sanitaries dels serveis de salut de les comunitats autónomes.",
+          "Aquesta Llei és aplicable al personal estatutari que exerceix la seva funció als centres i les institucions sanitaries dels serveis de salut de l'Administració General de l'Estat.",
+          "Aquesta Llei és aplicable al personal estatutari que exerceix la seva funció als centres i les institucions sanitaries de l'ICS."
+        ],
+        "respuestaCorrecta": "Aquesta Llei és aplicable al personal estatutari que exerceix la seva funció als centres i 3 les institucions sanitaries dels serveis de salut de les comunitats autónomes o als centres i 8 serveis sanitaris de I'Administracié General de l'Estat."
+      },
+      {
+        "id": "2.1.19",
+        "enunciado": "Quin no és un deure del personal estatutari?",
+        "respuestas": [
+          "Complir amb diligéncia les instruccions rebudes dels superiors jerarquics en relació amb les funcions própies del seu nomenament, i col-laborar lleialment i activament en el treball 8 en equip.",
+          "Prestar col-laboració professional quan així sigui requerit per les autoritats com a consegúéncia de l'adopció de mesures especials per raons d'urgéncia o necessitat.",
+          "A la mobilitat voluntaria, promoció interna i desenvolupament professional, en la forma en la qual prevegin les disposicions en cada cas aplicables.",
+          "Respectar la Constitució, l'Estatut d'autonomia corresponent i la resta de l'ordenament jurídic."
+        ],
+        "respuestaCorrecta": "A la mobilitat voluntaria, promoció interna i desenvolupament professional, en la forma en la qual prevegin les disposicions en cada cas aplicables."
+      },
+      {
+        "id": "2.1.20",
+        "enunciado": "Senyala un dret del personal estatutari:",
+        "respuestas": [
+          "Ser identificats pel seu nom i categoria professional pels usuaris del Sistema Nacional de Salut.",
+          "Complir el regim sobre incompatibilitats.",
+          "Complir les normes relatives a la seguretat i salut en el treball, aixi com les disposicions adoptades al centre sanitari en relació amb aquesta materia.",
+          "A la negociació col-lectiva, representació i participació en la determinació de les condicions de treball."
+        ],
+        "respuestaCorrecta": "A la negociació col-lectiva, representació i participació en la determinació de les condicions de treball."
+      },
+      {
+        "id": "2.1.21",
+        "enunciado": "D'acord amb l'EM quins són els criteris de classificació del personal estatutari de salut?",
+        "respuestas": [
+          "El personal estatutari dels serveis de salut es classifica tenint en compte la funció exercida, el nivell del titol exigit per a l'ingrés i el tipus del seu nomenament.",
+          "El personal estatutari dels serveis de salut es classifica tenint en compte la funció exercida i el nivell del titol exigit per a l'ingrés.",
+          "El personal estatutari dels serveis de salut es classifica tenint en compte la funció exercida i el tipus del seu nomenament.",
+          "El personal estatutari dels serveis de salut es classifica tenint en compte la funció exercida, el nivell del titol exigit per a l'ingrés, l'experiéncia i antiguitat a la institució i el tipus del seu nomenament."
+        ],
+        "respuestaCorrecta": "El personal estatutari dels serveis de salut es classifica tenint en compte la funció exercida, el nivell del titol exigit per a l'ingrés i el tipus del seu nomenament."
+      },
+      {
+        "id": "2.1.22",
+        "enunciado": "Els criteris per a la classificació del personal estatutari:",
+        "respuestas": [
+          "Es regulen al capitol II de l'Estatut Marc.",
+          "Es regulen al capitol I de l'Estatut Marc.",
+          "No es regulen a l'Estatut Marc, sinó a Instrucció de l'ICS.",
+          "Es regulen al capitol VII de l'Estatut Marc."
+        ],
+        "respuestaCorrecta": "Es regulen al capitol II de l'Estatut Marc."
+      },
+      {
+        "id": "2.1.23",
+        "enunciado": "Quan s'aplica l'Estatut Marc?",
+        "respuestas": [
+          "Aquesta Llei és aplicable al personal estatutari fix, temporal, eventual i laboral que exerceix la seva funció als centres i les institucions sanitaries dels serveis de salut de les comunitats autónomes o als centres i serveis sanitaris de I'Administració General de l'Estat, i també en centres gestors de les CCAA.",
+          "Aquesta Llei és aplicable al personal estatutari que exerceix la seva funció als centres i les institucions sanitaries dels serveis de salut de les comunitats autónomes o als centres i serveis sanitaris de l'Administració General de l'Estat, a més del personal sanitari funcionari i laboral dels centres gestionats per les CCAA.",
+          "Aquesta Llei és aplicable només al personal estatutari que exerceix la seva funció als centres i les institucions sanitáries dels serveis de salut de les comunitats autónomes o als centres i serveis sanitaris de l'Administracié General de l'Estat.",
+          "Aquesta Llei és aplicable al personal estatutari fix i temporal que exerceix la seva funció als centres i les institucions sanitaries dels serveis de salut de les comunitats autónomes o als centres i serveis sanitaris de l'Administració General de l'Estat, i també en centres gestors de les CCAA."
+        ],
+        "respuestaCorrecta": "Aquesta Llei és aplicable al personal estatutari que exerceix la seva funció als centres i les institucions sanitaries dels serveis de salut de les comunitats autónomes o als centres i serveis sanitaris de l'Administració General de l'Estat, a més del personal sanitari funcionari i laboral dels centres gestionats per les CCAA."
+      },
+      {
+        "id": "2.1.24",
+        "enunciado": "La lliure sindicació quin tipus de dret és?",
+        "respuestas": [
+          "És un dret de contingut económic.",
+          "Es un dret individual.",
+          "No esta recollit com a dret, sinó com un principi d'ordenació del régim estatutari.",
+          "Un dret individual exercit col.lectivament."
+        ],
+        "respuestaCorrecta": "Un dret individual exercit col.lectivament."
+      },
+      {
+        "id": "2.1.25",
+        "enunciado": "Es un criteri d'ordenació del Régim Estatutari:",
+        "respuestas": [
+          "La dedicació exclusiva al servei públic.",
+          "Incorporació dels valors d'integritat, neutralitat, transparéncia en la gestió, deontologia i servei a l'interes públic i als ciutadans, tant en l'actuació professional com en les relacions amb els usuaris.",
+          "L'estabilitat en la feina i en el manteniment de la condició de funcionari de carrera.",
+          "Responsabilitat en l'exercici professional i objectivitat com a garanties de la competéncia i parcialitat en l'acompliment de les funcions."
+        ],
+        "respuestaCorrecta": "Incorporació dels valors d'integritat, neutralitat, transparéncia en la gestió, deontologia i servei a l'interes públic i als ciutadans, tant en l'actuació professional com en les relacions amb els usuaris."
+      }
+    ]
+  },
+  {
+    "tema": "Tema 2.2",
+    "preguntas": [
+      {
+        "id": "2.2.1",
+        "enunciado": "Quin personal té legislació propia?",
+        "respuestas": [
+          "Personal de l'Administració General de l'Estat.",
+          "Personal funcionari dels altres órgans constitucionals de l'Estat i dels órgans estatutaris de les comunitats autónomes.",
+          "Personal de les administracions de les entitats locals.",
+          "Personal de les universitats públiques."
+        ],
+        "respuestaCorrecta": "Personal funcionari dels altres órgans constitucionals de l'Estat i dels órgans estatutaris de les comunitats autónomes."
+      },
+      {
+        "id": "2.2.2",
+        "enunciado": "D'acord amb el TREBEP quin personal es regula amb legislació específica propia?",
+        "respuestas": [
+          "L'Administració General de l'Estat.",
+          "Personal funcionari dels altres órgans constitucionals de l'Estat i dels órgans estatutaris de les comunitats autónomes.",
+          "Les administracions de les comunitats autónomes i de les ciutats de Ceuta i Melilla.",
+          "Les administracions de les entitats locals."
+        ],
+        "respuestaCorrecta": "Personal funcionari dels altres órgans constitucionals de l'Estat i dels órgans estatutaris de les comunitats autónomes."
+      },
+      {
+        "id": "2.2.3",
+        "enunciado": "En les ofertes d'ocupació es reservará un % de vacant per ser cobertes entre personal amb discapacitat:",
+        "respuestas": [
+          "La reserva sera no inferior al 5% de les vacants per assolir un 2% dels efecius totals de les Administracions Públiques.",
+          "La reserva sera no inferior al 7% de les vacants per assolir un 2% dels efecius totals de les Administracions Públiques.",
+          "La reserva sera no inferior al 2% de les vacants per assolir un 5% dels efecius totals de les Administracions Públiques.",
+          "La reserva sera no inferior al 10% de les vacants per assolir un 2% dels efecius totals de les Administracions Públiques."
+        ],
+        "respuestaCorrecta": "La reserva sera no inferior al 7% de les vacants per assolir un 2% dels efecius totals de les Administracions Públiques."
+      },
+      {
+        "id": "2.2.4",
+        "enunciado": "Quina norma conté el preceptes basics sobre l'empleat públic?",
+        "respuestas": [
+          "Real Decret legislatiu 5/2015, 30 octubre pel qual s'aprova el text refós de la Llei de l'Estatut básic de l'empleat públic.",
+          "La Llei 7/2007, de 12 d'abril, de l'Estatut basic de l'empleat públic.",
+          "Llei 55/2003, de 16 de desembre, de l'estatut marc del personal estatutari dels serveis de salut.",
+          "Real Decret llei 5/2015, 30 octubre pel qual s'aprova el text refós de la Llei de l'Estatut basic de l'empleat públic."
+        ],
+        "respuestaCorrecta": "Real Decret legislatiu 5/2015, 30 octubre pel qual s'aprova el text refós de la Llei de l'Estatut básic de l'empleat públic."
+      },
+      {
+        "id": "2.2.5",
+        "enunciado": "Si parlem que els empleats públics han d'informar els ciutadans sobre les materies o els assumptes que tinguin dret a coneixer, i facilitar l'exercici dels seus drets i el compliment de les seves obligacions, ens referim a:",
+        "respuestas": [
+          "Principi étic.",
+          "Principi deontologic.",
+          "Dret individual.",
+          "Principi de conducta."
+        ],
+        "respuestaCorrecta": "Principi de conducta."
+      },
+      {
+        "id": "2.2.6",
+        "enunciado": "El TREBEP té per objecte :",
+        "respuestas": [
+          "Aquest Estatut té per objecte establir les bases del régim jurídic dels funcionaris públics inclosos en el seu ambit d'aplicació.",
+          "Aquest Estatut té per objecte establir les bases del régim estatutari dels funcionaris públics de totes les Administracions Públiques.",
+          "Aquest Estatut té per objecte establir les bases del régim jurídic dels funcionaris públics de carrera de l'Administració Pública.",
+          "Aquest Estatut té per objecte establir les bases del regim estatutari dels funcionaris públics inclosos en el seu ambit d'aplicació."
+        ],
+        "respuestaCorrecta": "Aquest Estatut té per objecte establir les bases del regim estatutari dels funcionaris públics inclosos en el seu ambit d'aplicació."
+      },
+      {
+        "id": "2.2.7",
+        "enunciado": "La progressió en la carrera professional segons principis constitucionals d'igualtat, mérit i capacitat mitjancant la implantació de sistemes objectius i transparents d'avaluació, está recollit en el TREBEP com?:",
+        "respuestas": [
+          "Dret individual exercit col.lectivament.",
+          "Deure de I'empleat públic.",
+          "Principi de conducta de l'empleat públic.",
+          "Dret individual."
+        ],
+        "respuestaCorrecta": "Dret individual."
+      },
+      {
+        "id": "2.2.8",
+        "enunciado": "No és un dret individual dels funcionaris de carrera:",
+        "respuestas": [
+          "A la jubilació segons els termes i les condicions que estableixen les normes aplicables.",
+          "A rebre protecció eficac en matéria de seguretat i salut en el treball.",
+          "A les vacances, descansos, permisos i llicéncies.",
+          "Al plantejament de conflictes col.lectius de treball."
+        ],
+        "respuestaCorrecta": "Al plantejament de conflictes col.lectius de treball."
+      },
+      {
+        "id": "2.2.9",
+        "enunciado": "Quin és l'instrument similar, que han d'aprovar anualment els organs de govern de les administracions públiques i s'ha de publicar al diari oficial corresponent?",
+        "respuestas": [
+          "El Registre de personal.",
+          "L'Oferta pública.",
+          "La Relació de llocs de treball.",
+          "El registre informátic del personal."
+        ],
+        "respuestaCorrecta": "L'Oferta pública."
+      },
+      {
+        "id": "2.2.10",
+        "enunciado": "Les retribucions básiques que percep el personal estatutari de salut, está fixat pel TREBEP, i consta de:",
+        "respuestas": [
+          "Sou, Triennis i complement de destinació.",
+          "Sou, Triennis, pagues extraordinaries i retribucions complementaries fixes.",
+          "Sou i Triennis.",
+          "Sou"
+        ],
+        "respuestaCorrecta": "Sou i Triennis."
+      },
+      {
+        "id": "2.2.11",
+        "enunciado": "Quin personal té legislació especifica propia?",
+        "respuestas": [
+          "El personal estatutari dels serveis de salut.",
+          "L'Administració General de l'Estat.",
+          "Les administracions de les comunitats autónomes i de les ciutats de Ceuta i Melilla.",
+          "Les administracions de les entitats locals."
+        ],
+        "respuestaCorrecta": "El personal estatutari dels serveis de salut."
+      },
+      {
+        "id": "2.2.12",
+        "enunciado": "Qui aprova les lleis de desenvolupament de la funció pública?",
+        "respuestas": [
+          "En desplegament d'aquest Estatut, les Corts Generals han d'aprovar les lleis reguladores de la funció pública de l'Administracié General de l'Estat i de les comunitats autónomes.",
+          "En desplegament d'aquest Estatut, les Corts Generals i les assemblees legislatives de les comunitats autónomes i les entitats locals han d'aprovar, en l'ambit de les seves competéncies, les lleis reguladores de la funció pública de l'Administració General de l'Estat ,de les comunitats autónomes i dels Ajuntaments.",
+          "En desplegament d'aquest Estatut, les assemblees legislatives de les comunitats autónomes han d'aprovar, en l'ambit de les seves competéncies, les lleis reguladores de la funció pública de les comunitats autónomes.",
+          "En desplegament d'aquest Estatut, les Corts Generals i les assemblees legislatives de les comunitats autónomes han d'aprovar, en l'ambit de les seves competéncies, les lleis reguladores de la funció pública de l'Administració General de l'Estat i de les comunitats autónomes."
+        ],
+        "respuestaCorrecta": "En desplegament d'aquest Estatut, les Corts Generals i les assemblees legislatives de les comunitats autónomes han d'aprovar, en l'ambit de les seves competéncies, les lleis reguladores de la funció pública de l'Administració General de l'Estat i de les comunitats autónomes."
+      },
+      {
+        "id": "2.2.13",
+        "enunciado": "El personal funcionari de les entitats locals es regeix per normativa....",
+        "respuestas": [
+          "El personal funcionari de les entitats locals es regeix per la legislació estatal que sigui aplicable, de la qual forma part aquest Estatut, i per la legislació de les comunitats autónomes, amb respecte a l'autonomia local.",
+          "El personal funcionari de les entitats locals es regeix només per la legislació estatal que sigui aplicable, de la qual forma part aquest Estatut.",
+          "El personal funcionari de les entitats locals es regeix per la legislació estatal que sigui aplicable, de la qual forma part aquest Estatut, i per la legislació de de les entitats locals.",
+          "El personal funcionari de les entitats locals es regeix per la legislació de les comunitats autónomes, amb respecte a l'autonomia local."
+        ],
+        "respuestaCorrecta": "El personal funcionari de les entitats locals es regeix per la legislació estatal que sigui aplicable, de la qual forma part aquest Estatut, i per la legislació de les comunitats autónomes, amb respecte a l'autonomia local."
+      },
+      {
+        "id": "2.2.14",
+        "enunciado": "Quin no és un deure de conducta dels empleats públics?",
+        "respuestas": [
+          "Els empleats públics han d'exercir amb diligéncia les tasques que tinguin assignades.",
+          "Els empleats públics han d'actuar d'acord amb principis com : objectivitat, integritat, neutralitat, confidencialitat,dedicació al servei públic, transparéncia, exemplaritat, austeritat, accessibilitat, eficacia, honradesa, promoció de l'entorn geografic i cultural.",
+          "Respecte a la igualtat entre dones i homes, que inspiren el Codi de conducta dels empleats públics.",
+          "Els empleats públics han de vetllar pels interessos generals amb subjecció i observanca de la Constitució."
+        ],
+        "respuestaCorrecta": "Els empleats públics han d'actuar d'acord amb principis com : objectivitat, integritat, neutralitat, confidencialitat,dedicació al servei públic, transparéncia, exemplaritat, austeritat, accessibilitat, eficacia, honradesa, promoció de l'entorn geografic i cultural."
+      },
+      {
+        "id": "2.2.15",
+        "enunciado": "Per poder participar en els processos selectius NO és necessari complir :",
+        "respuestas": [
+          "Tenir la nacionalitat espanyola, sense perjudici del que disposa l'article seglient.",
+          "Posseir la capacitat funcional per acomplir les tasques.",
+          "Posseir la capacitat i mérit per acomplir les tasques.",
+          "Tenir complerts setze anys i no excedir, si s'escau, l'edat máxima de jubilació forcosa. Només per llei es pot establir un altra edat maxima, diferent de l'edat de jubilació forcosa, per a l'accés a l'ocupació pública."
+        ],
+        "respuestaCorrecta": "Posseir la capacitat i mérit per acomplir les tasques."
+      },
+      {
+        "id": "2.2.16",
+        "enunciado": "Els empleats públics es classifiquen en:",
+        "respuestas": [
+          "Funcionaris de carrera, funcionaris interins, personal laboral, personal eventual i personal directiu.",
+          "Funcionaris de carrera, funcionaris interins, personal laboral i personal eventual.",
+          "Funcionaris de carrera, funcionaris interins i personal directiu.",
+          "Funcionaris de carrera, funcionaris interins, personal laboral i personal directiu."
+        ],
+        "respuestaCorrecta": "Funcionaris de carrera, funcionaris interins, personal laboral i personal eventual."
+      },
+      {
+        "id": "2.2.17",
+        "enunciado": "Quin dret o obligació tenen les Administracions Públiques respecte als Plans d'igualtat?",
+        "respuestas": [
+          "Les administracions públiques han de respectar la igualtat de tracte i d'oportunitats en l'ambit laboral i, amb aquesta finalitat, han d'adoptar mesures dirigides a evitar qualsevol tipus de discriminació laboral entre dones i homes.",
+          "Les administracions públiques han d'elaborar i aplicar una llei d'igualtat que s'ha de desenvolupar en el conveni col-lectiu o acord de condicions de treball del personal funcionari que sigui aplicable, en els termes que s'hi prevegin.",
+          "Les administracions públiques han d'elaborar i aplicar un pla d'igualtat que s'ha de desenvolupar en el conveni col-lectiu o acord de condicions de treball del personal funcionari que sigui aplicable, en els termes que s'hi prevegin.",
+          "Les administracions públiques estan obligades a respectar la igualtat de tracte i d'oportunitats en l'ambit laboral i, amb aquesta finalitat, han d'adoptar mesures dirigides a evitar qualsevol tipus de discriminació jurídica entre dones i homes."
+        ],
+        "respuestaCorrecta": "Les administracions públiques han d'elaborar i aplicar un pla d'igualtat que s'ha de desenvolupar en el conveni col-lectiu o acord de condicions de treball del personal funcionari que sigui aplicable, en els termes que s'hi prevegin."
+      },
+      {
+        "id": "2.2.18",
+        "enunciado": "No está contemplat com a principi d'actuació del personal recollit al TREBEP?",
+        "respuestas": [
+          "Servei als ciutadans i als interessos generals.",
+          "Eficacia i eficiencia en la gestió de recursos humans.",
+          "Igualtat, mérit i capacitat en l'accés i en la promoció professional.",
+          "Submissió plena a la llei i al dret."
+        ],
+        "respuestaCorrecta": "Eficacia i eficiencia en la gestió de recursos humans."
+      },
+      {
+        "id": "2.2.19",
+        "enunciado": "A quin personal es poden dictar normes singulars per adequar-lo a les seves peculiaritats?",
+        "respuestas": [
+          "Al personal investigador.",
+          "Al personal de les administracions de les comunitats autónomes.",
+          "Al personal de les administracions de les entitats locals.",
+          "Al personal de les administracions de les ciutats de Ceuta i Melilla."
+        ],
+        "respuestaCorrecta": "Al personal investigador."
+      },
+      {
+        "id": "2.2.20",
+        "enunciado": "Quin no és un fonament d'actuació dels funcionaris públics:",
+        "respuestas": [
+          "Objectivitat, professionalitat i parcialitat en el servei garantides amb la inamovibilitat en la condició de funcionari de carrera.",
+          "Servei als ciutadans i als interessos generals.",
+          "Igualtat, mérit i capacitat en l'accés i en la promoció professional.",
+          "Submissió plena a la llei i al dret."
+        ],
+        "respuestaCorrecta": "Objectivitat, professionalitat i parcialitat en el servei garantides amb la inamovibilitat en la condició de funcionari de carrera."
+      },
+      {
+        "id": "2.2.21",
+        "enunciado": "Quina no és una causa de la perdua de la condició de funcionari?",
+        "respuestas": [
+          "La renúncia a la condició de funcionari.",
+          "La pérdua de la nacionalitat.",
+          "La jubilació total del funcionari.",
+          "La sanció disciplinaria de suspensió de funcions."
+        ],
+        "respuestaCorrecta": "La sanció disciplinaria de suspensió de funcions."
+      },
+      {
+        "id": "2.2.22",
+        "enunciado": "Que és el que determina l'adquisició de la condició de funcionari de carrera?",
+        "respuestas": [
+          "Superació del procés selectiu.",
+          "Nomenament per l'órgan o autoritat competent, que s'ha de publicar al diari oficial corresponent.",
+          "Presa de possessió dins del termini que s'estableixi.",
+          "Acte d'acatament de la Constitució i, si s'escau, de l'estatut d'autonomia corresponent i de la resta de l'ordenament jurídic."
+        ],
+        "respuestaCorrecta": "Presa de possessió dins del termini que s'estableixi."
+      },
+      {
+        "id": "2.2.23",
+        "enunciado": "Digues un dret individual exercit col.lectivament?",
+        "respuestas": [
+          "A la negociació col-lectiva i a la participació en la determinació de les condicions de treball.",
+          "A la inamovibilitat en la condició de funcionari de carrera.",
+          "A l'exercici efectiu de les funcions o tasques própies de la seva condició professional i d'acord amb la progressió assolida en la seva carrera professional.",
+          "A la progressió en la carrera professional i promoció interna segons principis constitucionals d'igualtat, mérit i capacitat mitjancant la implantació de sistemes objectius i transparents d'avaluació."
+        ],
+        "respuestaCorrecta": "A la negociació col-lectiva i a la participació en la determinació de les condicions de treball."
+      },
+      {
+        "id": "2.2.24",
+        "enunciado": "Quins són els funcionaris qui en virtut de nomenament legal, estan vinculats a una Administració pública per una relació estatutaria regulada pel dret administratiu per a l'acompliment de serveis professionals retribuits de carácter permanent?",
+        "respuestas": [
+          "Funcionaris interins.",
+          "Personal de carrera.",
+          "Personal fix.",
+          "Funcionaris de carrera."
+        ],
+        "respuestaCorrecta": "Funcionaris de carrera."
+      },
+      {
+        "id": "2.2.25",
+        "enunciado": "Nombre de títols del TREBEP?",
+        "respuestas": [
+          "Títols i 100 articles.",
+          "10 Títols i 80 articles.",
+          "14 capitols i 80 articles.",
+          "8 Capitols i 100 articles."
+        ],
+        "respuestaCorrecta": "Títols i 100 articles."
+      }
+    ]
+  },
+  {
+    "tema": "Tema 2.3",
+    "preguntas": [
+      {
+        "id": "2.3.1",
+        "enunciado": "Quants anys es necessiten acreditar per poder demanar el tercer nivell de carrera professional?",
+        "respuestas": [
+          "11 anys de serveis prestats.",
+          "18 anys de serveis prestats.",
+          "25 anys de serveis prestats.",
+          "5 anys de serveis prestats."
+        ],
+        "respuestaCorrecta": "18 anys de serveis prestats."
+      },
+      {
+        "id": "2.3.2",
+        "enunciado": "Quin organ o entitat vigila el compliment dels continguts de l'Acord?",
+        "respuestas": [
+          "CATAC.",
+          "Comissió de seguiment.",
+          "Comissió de seguiment.",
+          "Tribunal d'avaluació."
+        ],
+        "respuestaCorrecta": "Comissió de seguiment."
+      },
+      {
+        "id": "2.3.3",
+        "enunciado": "D'acord amb el II Acord de la mesa de Sanitat sobre les condicions de treball del personal estatutari de l'ICS, rest exclos de la carrera professional el personal:",
+        "respuestas": [
+          "Personal de contingent ¡ zona dels serveis de salut.",
+          "Personal laboral dels serveis de salut.",
+          "Personal estatutari dels serveis de salut.",
+          "Personal de gestió i serveis dels serveis de salut."
+        ],
+        "respuestaCorrecta": "Personal de contingent ¡ zona dels serveis de salut."
+      },
+      {
+        "id": "2.3.4",
+        "enunciado": "D'acord amb el II Acord de la mesa de sanitat sobre les condicions de treball del personal estatutari de l'ICS, són requisits per accedir a la carrera professional?",
+        "respuestas": [
+          "Estar en servei actiu en un dels grups professionals definits pel propi acord, acreditar uns anys de serveis prestats i tenir nomenament estatutari fix.",
+          "Estar en servei actiu en un dels grups professionals definits pel propi acord i tenir nomenament estatutari fix.",
+          "Tenir nomenament estatutari fix i acreditar uns anys de serveis prestats.",
+          "Estar en qualsevol de les situacions administratives definides per l'Estatut Marc, tenir nomenament estatutari fix i acreditar uns anys de serveis prestats."
+        ],
+        "respuestaCorrecta": "Estar en servei actiu en un dels grups professionals definits pel propi acord, acreditar uns anys de serveis prestats i tenir nomenament estatutari fix."
+      },
+      {
+        "id": "2.3.5",
+        "enunciado": "Per canviar de nivell, es valoraran aquells mérits que s'hagin acumulat durant el període en que el professional roman en l'últim nivell de carrera professional que tingui acreditat, i per accedir al nivell 2, seran:",
+        "respuestas": [
+          "Mérits corresponents als 3 anys anteriors a la data final del període de sol- licitud.",
+          "Mérits corresponents als 4 anys anteriors a la data final del període de sol- licitud.",
+          "Mérits corresponents als 5 anys anteriors a la data final del període de sol- licitud.",
+          "Mérits corresponents als 6 anys anteriors a la data final del període de sol- licitud."
+        ],
+        "respuestaCorrecta": "Mérits corresponents als 6 anys anteriors a la data final del període de sol- licitud."
+      },
+      {
+        "id": "2.3.6",
+        "enunciado": "Quin nom rep el compliment que es basa en l'explicitaicó dels objectius i l'avaluació continuada del seu compliment, i pretén que cada professional orienti la seva activitat als objectius estratégics de l'organització, així com desenvolupar una cultura organitzativa orientada cap a la millora dels processos i dels resultats?",
+        "respuestas": [
+          "Complement de productivitat variable.",
+          "Complement d'avaluació continua.",
+          "Complement de productivitat fixa.",
+          "Complement específic de productivitat variable."
+        ],
+        "respuestaCorrecta": "Complement de productivitat variable."
+      },
+      {
+        "id": "2.3.7",
+        "enunciado": "Pel que fa al personal facultatiu, el máxim de credits pel factor docéncia és:",
+        "respuestas": [
+          "5 crédits.",
+          "10 crédits.",
+          "15 crédits.",
+          "20 crédits."
+        ],
+        "respuestaCorrecta": "10 crédits."
+      },
+      {
+        "id": "2.3.8",
+        "enunciado": "Pel que fa al grup professional diplomat sanitari, el máxim de credits pel factor activitat és:",
+        "respuestas": [
+          "75",
+          "55",
+          "70",
+          "20"
+        ],
+        "respuestaCorrecta": "75"
+      },
+      {
+        "id": "2.3.9",
+        "enunciado": "No és un sindicat signant del II Acord:",
+        "respuestas": [
+          "CATAC",
+          "CCOO",
+          "SATSE",
+          "CTS"
+        ],
+        "respuestaCorrecta": "SATSE"
+      },
+      {
+        "id": "2.3.10",
+        "enunciado": "D'acord el II Acord no és un grup professional per a la carrera professional:",
+        "respuestas": [
+          "El grup professional de facultatius de contingent i zona.",
+          "El grup de diplomats sanitaris.",
+          "El grup professional de personal d'oficis.",
+          "El grup professional administratiu."
+        ],
+        "respuestaCorrecta": "El grup professional de facultatius de contingent i zona."
+      },
+      {
+        "id": "2.3.11",
+        "enunciado": "Quin nom reben els dispositius que es caracteritzen perque el ciutada podra accedir, o bé directament (personant-se al centre) o bé telefonicament (demanant atenció mitjancant el 061 o el número d'atenció domiciliaria que s'implanti) i que funcionen 24 hores/dia i 365 dies/any?",
+        "respuestas": [
+          "ACUT",
+          "CUAP",
+          "PAC",
+          "AC"
+        ],
+        "respuestaCorrecta": "CUAP"
+      },
+      {
+        "id": "2.3.12",
+        "enunciado": "Quants anys es necessiten acreditar per poder demanar el segon nivell de carrera professional?",
+        "respuestas": [
+          "5 anys de serveis prestats.",
+          "11 anys de serveis prestats.",
+          "18 anys de serveis prestats.",
+          "15 anys de serveis prestats."
+        ],
+        "respuestaCorrecta": "11 anys de serveis prestats."
+      },
+      {
+        "id": "2.3.13",
+        "enunciado": "Quin personal no esta exclos del complement de productivitat variable?",
+        "respuestas": [
+          "Personal de contingent i zona adscrit a centres propis o a centres gestionats per entitats alienes.",
+          "Personal de SEU i SOU (serveis ordinaris i especials d'urgéncies).",
+          "El personal facultatiu i diplomat sanitari.",
+          "Personal MUH (facultatiu d'urgéncies hospitalaries)."
+        ],
+        "respuestaCorrecta": "El personal facultatiu i diplomat sanitari."
+      },
+      {
+        "id": "2.3.14",
+        "enunciado": "Per puntuar els objectius cal fixar:",
+        "respuestas": [
+          "Indicador-Meta.",
+          "Finalitat-Resultat.",
+          "Indicador-Valoració.",
+          "Objectiu-Finalitat."
+        ],
+        "respuestaCorrecta": "Indicador-Meta."
+      },
+      {
+        "id": "2.3.15",
+        "enunciado": "Els sindicats que van signar el II Acord van ser:",
+        "respuestas": [
+          "CCOO, USOC i CATAC-CTS-IAC.",
+          "SINDICAT INTERSINDICAL, UGT, CCOO.",
+          "UGT, CCOO i CATAC-SEPOL.",
+          "UGT, CCOO i CATAC-CTS-IAC."
+        ],
+        "respuestaCorrecta": "UGT, CCOO i CATAC-CTS-IAC."
+      },
+      {
+        "id": "2.3.16",
+        "enunciado": "Quants credits s'atorguen per la capacitat d'interrelació amb els usuaris del diplomat d'infermeria?",
+        "respuestas": [
+          "Capacitat d'interrelació amb els usuaris: fins a 7,5 credits.",
+          "Capacitat d'interrelació amb els usuaris: fins a 5 credits.",
+          "Capacitat d'interrelació amb els usuaris: fins a 10 credits.",
+          "Capacitat d'interrelació amb els usuaris: fins a 12 credits."
+        ],
+        "respuestaCorrecta": "Capacitat d'interrelació amb els usuaris: fins a 5 credits."
+      },
+      {
+        "id": "2.3.17",
+        "enunciado": "Quina característica no defineix a la retribució variable per objectius?",
+        "respuestas": [
+          "La retribució variable vinculada al compliment d'objectius ha de representar una part suficientment significativa per ser incentivadora per tant ha de superar el total dels conceptes retributius fixos.",
+          "La retribució variable s'ha d'orientar a millorar els processos i els resultats; mesurats de forma clara i expressats de manera senzilla. Com més senzilla sigui la formulació dels resultats que es volen aconseguir, major és l'efectivitat d'aquest sistema.",
+          "Els objectius fixats han d'estar molt vinculats a la cultura de I'organització i als seus valors, de manera que s'ha d'incidir en aquells processos i resultats que premien activitats desitjades per l'organització.",
+          "Ha d'estar molt clara la relació entre la retribució variable i els motius pels quals es produeix, de manera que el professional conegui explícitament quina és la conducta esperada per la seva organització."
+        ],
+        "respuestaCorrecta": "La retribució variable vinculada al compliment d'objectius ha de representar una part suficientment significativa per ser incentivadora per tant ha de superar el total dels conceptes retributius fixos."
+      },
+      {
+        "id": "2.3.18",
+        "enunciado": "Pel personal diplomat d'infermeria de l'ambit hospitalari, per valorar el factor activitat, no és una competéncia per avaluar les competéncies professionals:",
+        "respuestas": [
+          "Tenir cura.",
+          "Valorar, diagnosticar i abordar situacions canviants.",
+          "Treball individual en un entorn canviant i adaptar-se a un entorn canviant.",
+          "Ajudar al pacient a complir amb el tractament i fer-lo partícip."
+        ],
+        "respuestaCorrecta": "Treball individual en un entorn canviant i adaptar-se a un entorn canviant."
+      },
+      {
+        "id": "2.3.19",
+        "enunciado": "Quin nom rep el model permet avancar cap a la posada en marxa d'una nova organització amb una base territorial més amplia?",
+        "respuestas": [
+          "Sistema especial d'urgéncies.",
+          "CUAP",
+          "PAC",
+          "ACUT"
+        ],
+        "respuestaCorrecta": "ACUT"
+      },
+      {
+        "id": "2.3.20",
+        "enunciado": "Com són els indicadors per a mesurar la consecució dels objectius?",
+        "respuestas": [
+          "Numerics.",
+          "Objectivables.",
+          "Transparents.",
+          "Subjectius."
+        ],
+        "respuestaCorrecta": "Objectivables."
+      },
+      {
+        "id": "2.3.21",
+        "enunciado": "Els zeladors estan inclosos dins el grup professional de:",
+        "respuestas": [
+          "Personal d'oficis.",
+          "Grup de mestres industrials.",
+          "Grup auxiliar d'oficis.",
+          "Personal de suport."
+        ],
+        "respuestaCorrecta": "Personal de suport."
+      },
+      {
+        "id": "2.3.22",
+        "enunciado": "Pel personal diplomat d'infermeria el máxim del factor per avaluació objectiva de la qualitat assistencia és:",
+        "respuestas": [
+          "45 crédits.",
+          "50 crédits.",
+          "35 crédits.",
+          "55 crédits."
+        ],
+        "respuestaCorrecta": "55 crédits."
+      },
+      {
+        "id": "2.3.23",
+        "enunciado": "Quines consequéncies té la promoció interna respecte a la carrera professional?",
+        "respuestas": [
+          "La promoció interna no provoca la interrupció de la carrera professional corresponent a la categoria de la que es disposa de nomenament com a estatutari fix, si suposa el desenvolupament de funcions en categories del mateix grup professional.",
+          "La promoció interna temporal provoca la interrupció de la carrera professional corresponent a la categoria de la que es disposa de nomenament com a estatutari fix, si suposa el desenvolupament de funcions en categories del mateix grup professional.",
+          "La promoció interna temporal no provoca la interrupció de la carrera professional corresponent a la categoria de la que es disposa de nomenament com a estatutari fix, si suposa el desenvolupament de funcions en categories del mateix grup professional.",
+          "La promoció interna fixa no provoca la interrupció de la carrera professional corresponent a la categoria de la que es disposa de nomenament com a estatutari fix, si suposa el desenvolupament de funcions en categories del mateix grup professional."
+        ],
+        "respuestaCorrecta": "La promoció interna temporal no provoca la interrupció de la carrera professional corresponent a la categoria de la que es disposa de nomenament com a estatutari fix, si suposa el desenvolupament de funcions en categories del mateix grup professional."
+      },
+      {
+        "id": "2.3.24",
+        "enunciado": "D'acord amb el II Acord de la mesa de Sanitat sobre les Condicions de Treball del personal estatutari de l'ICS, la carrera professional s'estructura en:",
+        "respuestas": [
+          "4 Nivells.",
+          "6 Nivells.",
+          "5 Nivells.",
+          "10 Nivells."
+        ],
+        "respuestaCorrecta": "5 Nivells."
+      },
+      {
+        "id": "2.3.25",
+        "enunciado": "Quin nom rep el nivell minim fixat que ha d'assolir-se en cada objectiu per comencar a cobrar una part de l'incentiu?",
+        "respuestas": [
+          "Bandes mínimes de resultats.",
+          "Bandes de consecució dels objectius.",
+          "Ponderació d'objectius.",
+          "Bandes maximes de resultats."
+        ],
+        "respuestaCorrecta": "Bandes de consecució dels objectius."
+      }
+    ]
+  },
+  {
+    "tema": "Tema 6",
+    "preguntas": [
+      {
+        "id": "6.1.1",
+        "enunciado": "El segúent Botó de Word *** serveix per:",
+        "respuestas": [
+          "Canviar el color del tipus de lletra",
+          "Esborra tot el format",
+          "Augmenta el cos de la lletra",
+          "Copia el format"
+        ],
+        "respuestaCorrecta": "Esborra tot el format"
+      }
+    ]
+  },
+  {
+    "tema": "Tema 10",
+    "preguntas": [
+      {
+        "id": "0",
+        "enunciado": "Voy a aprovar las oposiciones?",
+        "respuestas": [
+          "Puede",
+          "No",
+          "Por supuesto",
+          "¿Quién sabe?"
+        ],
+        "respuestaCorrecta": "Por supuesto"
+      }
+    ]
+  }
+
+]

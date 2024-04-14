@@ -1756,7 +1756,8 @@
           "La línea de producción no se para nunca, sino que se coloca un operario al final de línea para corregir errores ",
           "Todas las anteriores son incorrectas"
         ],
-        "respuestaCorrecta": "Los operarios y supervisores tienen capacidad para parar la línea de producción, pulsando botones o tirando de cuerdas andon
+        "respuestaCorrecta": "Los operarios y supervisores tienen capacidad para parar la línea de producción, pulsando botones o tirando de cuerdas andon"
+      }
     ]
   },
   {

@@ -1416,7 +1416,7 @@
       }
     ]
   },
-  {
+    {
     "tema": "Estrategia de fabricación japonesa 1",
     "preguntas": [
       {
@@ -1613,6 +1613,150 @@
           "Una buena fortaleza financiera, ya que tiene dinero para comprar material y stock"
         ],
         "respuestaCorrecta": "Deficiencias en su gestión de previsión de demanda, mantenimiento de máquinas, etc…"
+      }
+    ]
+  },
+  {
+    "tema": "Estrategia de fabricación japonesa 2",
+    "preguntas": [
+      {
+        "id": "1",
+        "enunciado": "Señale, si algunes de las siguientes afirmaciones es correcta: ",
+        "respuestas": [
+          "El andón y los poka-yokes son sistemas orientados a incrementar la capacidad de respuesta a la demanda ",
+          "Los poka-yokes son sistemas anti-error ",
+          "Los poka-yokes son sistemas de inspección que sustituyen a la inspección humana "
+        ],
+        "respuestaCorrecta": "Los poka-yokes son sistemas anti-error "
+      },
+      {
+        "id": "2",
+        "enunciado": "En un sistema pull… ",
+        "respuestas": [
+          "El flujo de información va en el mismo sentido que el flujo de materiales ",
+          "La fabricación parte de los datos históricos",
+          "El flujo de información va en sentido contrario al flujo de materiales",
+          "Ninguna de las anteriores es cierta"
+        ],
+        "respuestaCorrecta": "El flujo de información va en sentido contrario al flujo de materiales"
+      },
+      {
+        "id": "3",
+        "enunciado": "En JIT, el control autónomo de defectos se refiere a: ",
+        "respuestas": [
+          "La autoinspección ",
+          "El mantenimiento productivo total (TPM)",
+          "La sincronización y el equilibrio ",
+          "La recogida y aprovechamiento de las ideas y sugerencias de los trabajadores"
+        ],
+        "respuestaCorrecta": "La autoinspección "
+      },
+      {
+        "id": "4",
+        "enunciado": "La tarjeta kanban de producción: ",
+        "respuestas": [
+          "Tiene el mismo valor que una orden de fabricación ",
+          "Representa una unidad de contención (palé, contenidor,caja, etc...) con un cierto número de unidades que se indica en al tarjeta kanban. ",
+          "Todas las anteriores son correctas"
+        ],
+        "respuestaCorrecta": "Todas las anteriores son correctas"
+      },
+      {
+        "id": "5",
+        "enunciado": "Una guillotina de la sección de manipulado de una empresa de la industria gráfica tiene un sistema que impide que baje la cuchilla, si el operario no mantiene pulsados dos botones con ambas manos, este sistema: ",
+        "respuestas": [
+          "Se puede considerar un poka-yoke de detección",
+          "Se puede considerar un poka-yoke de aviso  ",
+          "Se puede considerar un poka-yoke de preventivo"
+        ],
+        "respuestaCorrecta": "Se puede considerar un poka-yoke de preventivo"
+      },
+      {
+        "id": "6",
+        "enunciado": "Autonomation: ",
+        "respuestas": [
+          "Es un término equivalente al japonés jidoka ",
+          "Es traducible al español como “autonomización”, mezcla de automatización y autonomía ",
+          "Es el control autónomo de defectos ",
+          "Todas las anteriores son correctas"
+        ],
+        "respuestaCorrecta": "Todas las anteriores son correctas"
+      },
+      {
+        "id": "7",
+        "enunciado": "Entre las reglas de funcionamiento del sistema kanban se incluyen (puede existir 2 afirmaciones correctes): ",
+        "respuestas": [
+          "Se debe maximizar la capacidad de los contenedores para reducir el nº de kanbans ",
+          "Se debe reducir el nº de kanbans",
+          "Cuando el proceso anterior fabrique distintos tipos de piezas se debe fabricar en el mismo orden en que se depositaron los kanbans de producción en su buzón o tarjetero",
+          "Cuando el proceso anterior se encuentre ocioso, debe fabricar para acumular cierto stock intermedio predeterminado, y entonces parar hasta recibir kanbans de producción"
+        ],
+        "respuestaCorrecta": "Se debe reducir el nº de kanbans",
+        "respuestaCorrecta2": "Cuando el proceso anterior fabrique distintos tipos de piezas se debe fabricar en el mismo orden en que se depositaron los kanbans de producción en su buzón o tarjetero"
+      },
+      {
+        "id": "8",
+        "enunciado": "Además del kanban de producción y retirada, existe:",
+        "respuestas": [
+          "Kanban de productividad",
+          "Kanban de cuello botella",
+          "Kanban de capacidad y eficiencia ",
+          "kanban de urgencia y transporte"
+        ],
+        "respuestaCorrecta": "kanban de urgencia y transporte"
+      },
+      {
+        "id": "9",
+        "enunciado": "La geométrica de los kanbans siempre es rectangular",
+        "respuestas": [
+          "Falso",
+          "Verdadero"
+        ],
+        "respuestaCorrecta": "Falso"
+      },
+      {
+        "id": "10",
+        "enunciado": "El número de kanbans, que hay en zona de producción, indica:",
+        "respuestas": [
+          "Stock especulativo ",
+          "Stock circulante ",
+          "Materia prima",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Stock circulante "
+      },
+      {
+        "id": "11",
+        "enunciado": "Una de las reglas para poder usar el Sistema kanban es:",
+        "respuestas": [
+          "Nunca deberán pasar al proceso posterior productos defectusos",
+          "Se debe ir aumentando el número de kanbans progresivamente",
+          "Con los kanbans de retirada, se pueden retirar más piezas de las necesarias.  El objetivo es hacer un pulmón de piezas al lado de las máquinas, por si sucede alguna avería y así poder satisfacer la demanda",
+          "Todas las anteriores son correctas"
+        ],
+        "respuestaCorrecta": "Todas las anteriores son correctas"
+      },
+      {
+        "id": "12",
+        "enunciado": "Un sistema pull, necesita:",
+        "respuestas": [
+          "Tiempos de set-up cortos",
+          "Operarios polivalentes ",
+          "Proveedores cerca y de respuesta rápida",
+          "Todas las anteriores son correctas"
+        ],
+        "respuestaCorrecta": "Todas las anteriores son correctas"
+      },
+      {
+        "id": "13",
+        "enunciado": "En TPS:",
+        "respuestas": [
+          "Los operarios y supervisores no tienen capacidad para parar la línea de producción ",
+          "Los operarios y supervisores tienen capacidad para parar la línea de producción, pulsando botones o tirando de cuerdas andon",
+          "La línea de producción no se para nunca, sino que se coloca un operario al final de línea para corregir errores ",
+          "Todas las anteriores son incorrectas"
+        ],
+        "respuestaCorrecta": "Los operarios y supervisores tienen capacidad para parar la línea de producción, pulsando botones o tirando de cuerdas andon"
       }
     ]
   },

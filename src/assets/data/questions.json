@@ -1417,6 +1417,206 @@
     ]
   },
   {
+    "tema": "Estrategia de fabricación japonesa 1",
+    "preguntas": [
+      {
+        "id": "1",
+        "enunciado": "La organización de planta productiva en forma de “U”",
+        "respuestas": [
+          "Es un elemento clásico del JIT y típica distribución en planta de la industria japonesa",
+          "Actualmente, no se utiliza",
+          "Es un tipo particular de formación que se aplica a los trabajadores",
+          "Es un elemento de la automatización del proceso productivo"
+        ],
+        "respuestaCorrecta": "Es un elemento clásico del JIT y típica distribución en planta de la industria japonesa"
+      },
+      {
+        "id": "2",
+        "enunciado": "Indique si las siguientes relaciones son correctas:",
+        "respuestas": [
+          "Sistematizar organización, orden y limpieza – shitsuke ",
+          "Separa lo necesario de lo innecesario, y eliminar lo innecesario – Seiri",
+          "Limpieza del entorno de trabajo – Shitsuke",
+          "Disciplina – Seiketsu"
+        ],
+        "respuestaCorrecta": "Separa lo necesario de lo innecesario, y eliminar lo innecesario – Seiri"
+      },
+      {
+        "id": "3",
+        "enunciado": "Un grupo reducido de personas de distinto nivel jerárquico y pertenecientes a distintas áreas o departamentos de la empresa, que se reúnen periódicamente para tratar un problema/mejora o un conjunto de problemas/mejoras, liderados por un coordinador/líder, se define como ",
+        "respuestas": [
+          "Un circulo de calidad o actualmente llamados grupos de mejora",
+          "Un grupo de discusión",
+          "Un grupo de sugerencias",
+          "Las 5s’s"
+        ],
+        "respuestaCorrecta": "Un circulo de calidad o actualmente llamados grupos de mejora"
+      },
+      {
+        "id": "4",
+        "enunciado": "La cuarta “s” o seiketsu significa: ",
+        "respuestas": [
+          "Sistematización de las tres anteriores",
+          "Para algunos autores, limpieza y aseo personal ",
+          "Establecer patrullas 5s’s",
+          "Todas las anteriores son correctas"
+        ],
+        "respuestaCorrecta": "Sistematización de las tres anteriores"
+      },
+      {
+        "id": "5",
+        "enunciado": "Separar lo necesario de lo innecesario y eliminar lo innecesario (puede haber 2 correctas):",
+        "respuestas": [
+          "Es lo que se denomina seiri ",
+          "Lo primero es lo que se denomina seiri pero eliminar lo innecesario forma parte del seiton ",
+          "Es la primera de las 5s’s y por lo tanto, o primero que debe hacerse",
+          "Es lo que se denomina seiso"
+        ],
+        "respuestaCorrecta": "Es lo que se denomina seiri "
+      },
+      {
+        "id": "6",
+        "enunciado": "La aplicación de un programa 5s’s en una organización ",
+        "respuestas": [
+          "Es un elemento de la filosofía JIT aunque antes es imprescindible mejorar los problemas de calidad y las averías ",
+          "Puede contribuir a reducir la siniestrabilidad laboral ",
+          "Solo se puede conseguir mediante la aplicación de la técnica de tarjetas rojas para evitar conflictos o desavenencias entre el personal"
+        ],
+        "respuestaCorrecta": "Puede contribuir a reducir la siniestrabilidad laboral "
+      },
+      {
+        "id": "7",
+        "enunciado": "Señale, si algunas de las siguientes afirmaciones es correcta:",
+        "respuestas": [
+          "En una tormenta de ideas, sólo se aportan ideas, no se analizan",
+          "En una tormenta de ideas, no sólo se aportan ideas, sino que en el mismo momento que sale la idea, se analiza y se sacan conclusiones ",
+          "En una tormenta de ideas, se puede criticar, si alguno de los participantes, lanza una idea mala. ",
+          "En una tormenta de ideas, sobre una idea mala, se puede construir una buena idea"
+        ],
+        "respuestaCorrecta": "En una tormenta de ideas, sólo se aportan ideas, no se analizan",
+        "respuestaCorrecta2": "En una tormenta de ideas, sobre una idea mala, se puede construir una buena idea"
+      },
+      {
+        "id": "8",
+        "enunciado": "Una vez, llevada a cabo la tormenta de ideas (señala la más correcta):",
+        "respuestas": [
+          "No es necesario aplicar ninguna idea",
+          "Al menos se tiene que aplicar una idea de las aportadas",
+          "Al menos se tiene que aplicar una idea de las aportadas y recompensar al trabajador",
+          "Ninguna de las anteriores son correctas"
+        ],
+        "respuestaCorrecta": "Al menos se tiene que aplicar una idea de las aportadas y recompensar al trabajador"
+      },
+      {
+        "id": "9",
+        "enunciado": "El procedimiento de las tarjetas rojas permite:",
+        "respuestas": [
+          "Reparar equipos que no estaban en funcionamiento",
+          "Sacar de zona de producción todo aquello que no añade valor al proceso",
+          "Disminuir el número de operarios en zona de producción ",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Sacar de zona de producción todo aquello que no añade valor al proceso"
+      },
+      {
+        "id": "10",
+        "enunciado": "Para evitar que un sistema entre en rutina y caiga, una de las herramientas que se utiliza, es:",
+        "respuestas": [
+          "Contornos de visualización ",
+          "Tarjetas rojas ",
+          "Auditorías ",
+          "Andon"
+        ],
+        "respuestaCorrecta": "Auditorías "
+      },
+      {
+        "id": "11",
+        "enunciado": "Señale, si algunas de las siguientes afirmaciones es correcta:",
+        "respuestas": [
+          "En las SMED, se combina la técnica de métodos y tiempos del señor Taylor con la ingeniería mecánica",
+          "La técnica de las SMED permitió a Toyota reducir preparaciones de horas (2 o 3 horas  años 50) a minutos (3 minutos  años 70)",
+          "En las SMED,  se intenta transformar el tiempo interno (máquina parada) en tiempo externo (máquina en funcionamiento)",
+          "SMED = cambio de utillaje en menos de 10 minutos"
+        ],
+        "respuestaCorrecta": "SMED = cambio de utillaje en menos de 10 minutos"
+      },
+      {
+        "id": "12",
+        "enunciado": "En las SMED, los tiempos de set up son:",
+        "respuestas": [
+          "Tiempos internos donde la máquina está parada",
+          "Tiempos externos donde la máquina está parada",
+          "Tiempos de producción",
+          "Tiempos de preparación de utillaje y herramientas"
+        ],
+        "respuestaCorrecta": "Tiempos de preparación de utillaje y herramientas"
+      },
+      {
+        "id": "13",
+        "enunciado": "La estrategia de producción de Toyota pone foco en sus elementos de producción y no presta atención a elementos externos de su sistema productivo como los proveedores ",
+        "respuestas": [
+          "Falso",
+          "Verdadero"
+        ],
+        "respuestaCorrecta": "Falso"
+      },
+      {
+        "id": "14",
+        "enunciado": "En el sistema de producción de Toyota, el concepto de obrero polivalente  se entiende como:",
+        "respuestas": [
+          "Jidoka",
+          "Shojinka",
+          "Seiri",
+          "Andon"
+        ],
+        "respuestaCorrecta": "Shojinka"
+      },
+      {
+        "id": "15",
+        "enunciado": "Por takt time se entiende:",
+        "respuestas": [
+          "El tiempo que tarda una unidad de producto desde que entra en zona de producción hasta que sale del almacén",
+          "El ritmo (la velocidad) al que deben de trabajar cada uno de los operarios para cubrir la demanda ",
+          "El máximo tiempo que debe tardar un operario para ir de una máquina a otra",
+          "El ocioso de cada operario "
+        ],
+        "respuestaCorrecta": "El ritmo (la velocidad) al que deben de trabajar cada uno de los operarios para cubrir la demanda "
+      },
+      {
+        "id": "16",
+        "enunciado": "En las células de fabricación en U:",
+        "respuestas": [
+          "Los aprovisionamientos se realizan por el exterior de la U",
+          "Los operarios se sitúan y circulan por el interior de la U",
+          "Los procesos más automatizados suelen colocarse en los puestos centrales de la U (es decir, en las zonas de la U más alejas de la entrada IN y la salida OUT) ",
+          "Todas son correctas"
+        ],
+        "respuestaCorrecta": "Todas son correctas"
+      },
+      {
+        "id": "17",
+        "enunciado": "En las patrullas 5s:",
+        "respuestas": [
+          "El presidente de la empresa no debe debe de encabezar la promoción de tarjetas rojas",
+          "Sólo se tienen que colocar tarjetas rojas, si se tiene claro que ese elemento no añade valor al proceso. Si estás en duda, si el elemento añade valor al proceso o no, no tienes que colocar una tarjeta roja ",
+          "El formador no debe de colaborar en asignar tarjetas rojas a todas aquellos elementos de zona de producción que no añadan valor al proceso ",
+          "Todas las respuestas son falsas"
+        ],
+        "respuestaCorrecta": "El formador no debe de colaborar en asignar tarjetas rojas a todas aquellos elementos de zona de producción que no añadan valor al proceso "
+      },
+      {
+        "id": "18",
+        "enunciado": "Una empresa, que tiene mucho stock de todo, indica:",
+        "respuestas": [
+          "Un buen funcionamiento ",
+          "Deficiencias en su gestión de previsión de demanda, mantenimiento de máquinas, etc…",
+          "Una buena fortaleza financiera, ya que tiene dinero para comprar material y stock"
+        ],
+        "respuestaCorrecta": "Deficiencias en su gestión de previsión de demanda, mantenimiento de máquinas, etc…"
+      }
+    ]
+  },
+  {
     "tema": "Tema 10",
     "preguntas": [
       {

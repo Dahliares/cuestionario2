@@ -1400,6 +1400,286 @@
       }
     ]
   },
+   {
+    "tema": "Tema 3.1",
+    "preguntas": [
+      {
+        "id": "3.1.1",
+        "enunciado": "Es poden crear o mantenir fitxers amb finalitat exclusiva d'emmagatzemar dades que revelin la salut de les persones?",
+        "respuestas": [
+          "No mai, ja que es tracta de dades sensibles.",
+          "No, amb les excepcions relacionades amb la seguretat de l'Estat.",
+          "Si, ja que la salut de les persones és una dada sensible.",
+          "Si"
+        ],
+        "respuestaCorrecta": "Si"
+      },
+      {
+        "id": "3.1.2",
+        "enunciado": "Quin concepte respón a la definició segúent: Qualsevol operació o conjunt d'operacions realitzades sobre dades personals o conjunts de dades personals, ja sigui per procediments automatitzats o no, com la recollida, el registre, l'organització, l'estructuració, la conservació, l'adaptació o la modificació, l'extracció, la consulta, la utilització, la comunicació per transmissió, difusió o qualsevol altra forma d'habilitació d'accés, acarament o interconnexió, limitació, supressió o destrucció:",
+        "respuestas": [
+          "Seudonimització.",
+          "Tractament.",
+          "Limitació del tractament.",
+          "Elaboració de perfils"
+        ],
+        "respuestaCorrecta": "Tractament."
+      },
+     {
+        "id": "3.1.3",
+        "enunciado": "D'acord amb la Carta de Drets i Deures de la ciutadania en relació amb la salut i 'atenció sanitaria, en relació al dret a l'autonomia i presa decisions, no constitueix un deure del ciutada:",
+        "respuestas": [
+          "Deure de la persona de ser corresponsable del seu procés assistencial.",
+          "Deures de deixar constáncia del rebuig al tractament.",
+          "Deure de respectar la indicació de l'alta médica seguint criteris medics.",
+          "En aquest ámbit hi ha drets, els usuaris del sistema de salut no hi tenen deures."
+        ],
+        "respuestaCorrecta": "En aquest ámbit hi ha drets, els usuaris del sistema de salut no hi tenen deures."
+      },
+     {
+        "id": "3.1.4",
+        "enunciado": "Segons el Reglament 2016/679 el responsable del tractament tindra l'obligació de fer efectiu el dret d'oposició en el termini de:",
+        "respuestas": [
+          "10 dies",
+          "15 dies",
+          "20 dies",
+          "1 mes"
+        ],
+        "respuestaCorrecta": "1 mes"
+      },
+       {
+        "id": "3.1.5",
+        "enunciado": "Qualsevol forma de tractament automatitzat de dades personals consistent a utilitzar aquestes dades per avaluar determinats aspectes personals d'una persona física; en especial, per analitzar o predir aspectes relatius al rendiment professional, la situa economica, la salut, les preferéncies personals, els interessos, la fiabilitat, el comportament, la ubicació o els moviments d'aquesta persona, rep el nom de:",
+        "respuestas": [
+          "Elaboració de perfils.",
+          "Tractament",
+          "Dades personals.",
+          "Limitacio de tractament"
+        ],
+        "respuestaCorrecta": "Elaboració de perfils."
+      },
+       {
+        "id": "3.1.6",
+        "enunciado": "En quants blocs s'organitzen els drets i deures relatius a la salu a la carta?",
+        "respuestas": [
+          "6",
+          "8",
+          "10",
+          "12"
+        ],
+        "respuestaCorrecta": "10"
+      },
+       {
+        "id": "3.1.7",
+        "enunciado": "El marcatge de les dades de caracter personal conservades, amb la finalitat de limitar-ne el tractament en el futur rep el nom de:",
+        "respuestas": [
+          "Pseudonimització.",
+          "Tractament",
+          "Limitacio de tractament",
+          "Elaboració de perfils"
+        ],
+        "respuestaCorrecta": "Limitacio de tractament"
+      },
+      {
+        "id": "3.1.8",
+        "enunciado": "L'ambit d'actuació de l'Autoritat Catalana de Protecció de Dades no compren els fitxers i els tractaments que duen a terme:",
+        "respuestas": [
+          "Les Institucions Públiques.",
+          "L'Administració de la Generalitat.",
+          "Els municipis.",
+          "Ens de l'Estat"
+        ],
+        "respuestaCorrecta": "Ens de l'Estat"
+      },
+     {
+        "id": "3.1.9",
+        "enunciado": "En materia de salut, la persona té dret a que:",
+        "respuestas": [
+          "Les seves dades de salut només siguin cedides fora de l'ambit sanitari quan així ho disposi una llei per raons d'interés general, o quan l'afectat ho consenti expressament.",
+          "Les seves dades de salut siguin cedides fora de l'ambit sanitari sempre.",
+          "Les seves dades de salut només siguin cedides fora de l'ambit sanitari quan així ho disposi una llei per raons d'interés general, només.",
+          "Les seves dades de salut siguin cedides fora de l'ambit sanitari quan l'afectat ho consenti expressament, només."
+        ],
+        "respuestaCorrecta": "Les seves dades de salut només siguin cedides fora de l'ambit sanitari quan així ho disposi una llei per raons d'interés general, o quan l'afectat ho consenti expressament."
+      },
+      {
+        "id": "3.1.10",
+        "enunciado": "Quina és la normativa catalana que regula sobre els drets d'informació concernent a la salut i l'autonomia del pacient, i la documentació clinica.",
+        "respuestas": [
+          "Llei 21/2000, de 29 de desembre, modificada per la Llei 16/2010, del 3 de Juny.",
+          "Llei 3/2018,de 5 de Desembre.",
+          "Llei 15/1990,de 9 de Juliol.",
+          "Llei 8/2007, de 30 de Juliol."
+        ],
+        "respuestaCorrecta": "Llei 21/2000, de 29 de desembre, modificada per la Llei 16/2010, del 3 de Juny."
+      },
+      {
+        "id": "3.1.11",
+        "enunciado": "Qualsevol informació referent a persones físiques identificades o identificables rep el nom de:",
+        "respuestas": [
+          "Dades públiques.",
+          "Dades privades.",
+          "Dades personals.",
+          "Dades sensibles."
+        ],
+        "respuestaCorrecta": "Dades personals."
+      },
+       {
+        "id": "3.1.12",
+        "enunciado": "La persona física o jurídica, autoritat pública, servei o qualsevol altre organisme que tracta dades personals per compte d'un altre rep el nom de:",
+        "respuestas": [
+          "Responsable del tractament.",
+          "Encarregat del tractament.",
+          "Tercer",
+          "Destitanari"
+        ],
+        "respuestaCorrecta": "Encarregat del tractament."
+      },
+        {
+        "id": "3.1.13",
+        "enunciado": "A partir de quina edat una persona no necessita consentiment del pares o tutors per cedir les seves dades de caracter personal segons la legislació vigent?:",
+        "respuestas": [
+          "12 anys",
+          "14 anys",
+          "16 anys",
+          "18 anys"
+        ],
+        "respuestaCorrecta": "14 anys"
+      },
+       {
+        "id": "3.1.14",
+        "enunciado": "Respecte del dret a la confidencialitat de la informació, és cert:",
+        "respuestas": [
+          "L'accés a les dades només el poden tenir aquells professionals sanitaris relacionats directament amb l'atenció de la persona, i no es poden facilitar a altres professionals o familiars o persones vinculades sense l'autorització de la persona interessada.",
+          "L'accés a les dades només el poden tenir tots professionals sanitaris relacionats directament o no amb l'atenció de la persona, i no es poden facilitar a altres professionals o familiars o persones vinculades sense l'autorització de la persona interessada.",
+          "L'accés a les dades només el poden tenir aquells professionals sanitaris relacionats directament amb l'atenció de la persona, i es poden facilitar a altres professionals o familiars o persones vinculades.",
+          "L'accés a les dades només el poden tenir aquells professionals sanitaris relacionats directament amb l'atenció de la persona, i no es poden facilitar a altres professionals o familiars o persones vinculades amb l'autorització de la persona interessada, si escau."
+        ],
+        "respuestaCorrecta": "L'accés a les dades només el poden tenir aquells professionals sanitaris relacionats directament amb l'atenció de la persona, i no es poden facilitar a altres professionals o familiars o persones vinculades sense l'autorització de la persona interessada."
+      },
+     {
+        "id": "3.1.15",
+        "enunciado": "El respecte a la confidencialitat de les dades que fan referéncia a la salut d'un ciutada, fan referéncia al dret:",
+        "respuestas": [
+          "Dret d'expressió.",
+          "Dret a la igualtat.",
+          "Dret a la intimitat.",
+          "Dret a la responsabilitat."
+        ],
+        "respuestaCorrecta": "Dret a la intimitat."
+      },
+        {
+        "id": "3.1.16",
+        "enunciado": "La persona física o jurídica, autoritat pública, servei o qualsevol altre organisme que, sol o juntament amb d'altres, determina les finalitats i els mitjans del tractament, rep el nom de:",
+        "respuestas": [
+          "Responsable del tractament.",
+          "Encarregat del tractament.",
+          "Tercer",
+          "Destinatari"
+        ],
+        "respuestaCorrecta": "Responsable del tractament."
+      },
+      {
+        "id": "3.1.17",
+        "enunciado": "Respecte del dret a la titularitat de la informació sanitaria:",
+        "respuestas": [
+          "La persona no té dret a conéixer tota la informació obtinguda respecte de la seva salut.",
+          "La persona té dret a coneixer la informació obtinguda respecte de la seva salut, si es donen determinades circumstancies.", 
+          "La persona no té dret a conéixer tota la informació obtinguda respecte de la seva salut, només parcialment.",
+          "La persona té dret a coneixer tota la informació obtinguda respecte de la seva salut."
+        ],
+        "respuestaCorrecta": "La persona té dret a coneixer tota la informació obtinguda respecte de la seva salut."
+      },
+      {
+        "id": "3.1.18",
+        "enunciado": "Si es produeix una violació de la seguretat, el responsable ha de notificar-ho a l'autoritat de control en un termini maxim de:",
+        "respuestas": [
+          "72 hores",
+          "48 hores", 
+          "36 hores",
+          "24 hores"
+        ],
+        "respuestaCorrecta": "72 hores"
+      },
+      {
+        "id": "3.1.19",
+        "enunciado": "Quina de les segúents NO és una dada especial o sensible?",
+        "respuestas": [
+          "El sexe",
+          "L'afiliació sindical", 
+          "Les dades genétiques.",
+          "La vida sexual"
+        ],
+        "respuestaCorrecta": "El sexe"
+      },
+      {
+        "id": "3.1.20",
+        "enunciado": "Respecte del tractament de dades personals de manera que ja no es puguin atribuir a un interessat sense utilitzar informació addicional, sempre que aquesta informació consti per separat i estigui subjecta a mesures tecniques i organitzatives destinades a garantir que les dades personals no s'atribueixen a una persona física identificada o identificable, tenen la consideració de: ",
+        "respuestas": [
+          "Pseudonimització.",
+          "Tractament",
+          "Limitacio de tractament",
+          "Elaboració de perfils"
+        ],
+        "respuestaCorrecta": "Pseudonimització."
+      },
+      {
+        "id": "3.1.21",
+        "enunciado": "Qui és el titular del dret a la informació:",
+        "respuestas": [
+          "Els professionals sanitaris.",
+          "El facultatiu especialista.", 
+          "Els familiars del pacient.",
+          "El pacient"
+        ],
+        "respuestaCorrecta": "El pacient"
+      },
+      {
+        "id": "3.1.22",
+        "enunciado": "No és un dret, en relació a la salut:",
+        "respuestas": [
+          "Dret a participar en la presa de decisions dels pacients per part de tots els familiars i persones properes.", 
+          "Dret a una segona opinió clínica.", 
+          "Fer servir les vies de reclamació i suggeriments en els terminis previstos que sempre seran contestades per escrit en els terminis establerts.",
+          "Dret a obtenir certificats acreditatius del seu estat de salut."
+        ],
+        "respuestaCorrecta": "Dret a participar en la presa de decisions dels pacients per part de tots els familiars i persones properes."
+      },
+      {
+        "id": "3.1.23",
+        "enunciado": "Segons el Reglament 2016/679 el responsable del tractament tindra l'obligació de fer efectiu el dret de rectificació en el termini de:",
+        "respuestas": [
+           "10 dies",
+           "15 dies",
+           "20 dies",
+           "1 mes"
+        ],
+        "respuestaCorrecta": "1 mes"
+      },
+        {
+        "id": "3.1.24",
+        "enunciado": "Quina de les segúents no és una dada especial o sensible?:",
+        "respuestas": [
+           "L'origen racial.",
+           "Les opinions polítiques.",
+           "Les tendéncies sexuals.",
+           "El nom i cognoms."
+        ],
+        "respuestaCorrecta": "El nom i cognoms."
+      },
+       {
+        "id": "3.1.25",
+        "enunciado": "És un dret dels ciutadans, en relació a la salut:",
+        "respuestas": [
+           "Ser informat de totes les actuacions assistencials. Aquesta informació será com a regla general per escrit peró haura de deixar constáncia a la historia clínica.",
+           "Ser informat de totes les actuacions assistencials. Aquesta informació será com a regla general verbal i no l'haurá de fer constar a la história clínica.",
+           "No ha de ser informat de totes les actuacions assistencials. Aquesta informació mai sera verbal peró haura de deixar constáncia a la historia clínica.",
+           "Ser informat de totes les actuacions assistencials. Aquesta informació será com a regla general verbal peró haura de deixar constancia a la historia clínica."
+        ],
+        "respuestaCorrecta": "Ser informat de totes les actuacions assistencials. Aquesta informació será com a regla general per escrit peró haura de deixar constáncia a la historia clínica."
+      }
+    ]
+  },    
   {
     "tema": "Tema 6",
     "preguntas": [
@@ -1415,357 +1695,13 @@
         "respuestaCorrecta": "Esborra tot el format"
       }
     ]
-  },
-    {
-    "tema": "Estrategia de fabricación japonesa 1",
-    "preguntas": [
-      {
-        "id": "1",
-        "enunciado": "La organización de planta productiva en forma de “U”",
-        "respuestas": [
-          "Es un elemento clásico del JIT y típica distribución en planta de la industria japonesa",
-          "Actualmente, no se utiliza",
-          "Es un tipo particular de formación que se aplica a los trabajadores",
-          "Es un elemento de la automatización del proceso productivo"
-        ],
-        "respuestaCorrecta": "Es un elemento clásico del JIT y típica distribución en planta de la industria japonesa"
-      },
-      {
-        "id": "2",
-        "enunciado": "Indique si las siguientes relaciones son correctas:",
-        "respuestas": [
-          "Sistematizar organización, orden y limpieza – shitsuke ",
-          "Separa lo necesario de lo innecesario, y eliminar lo innecesario – Seiri",
-          "Limpieza del entorno de trabajo – Shitsuke",
-          "Disciplina – Seiketsu"
-        ],
-        "respuestaCorrecta": "Separa lo necesario de lo innecesario, y eliminar lo innecesario – Seiri"
-      },
-      {
-        "id": "3",
-        "enunciado": "Un grupo reducido de personas de distinto nivel jerárquico y pertenecientes a distintas áreas o departamentos de la empresa, que se reúnen periódicamente para tratar un problema/mejora o un conjunto de problemas/mejoras, liderados por un coordinador/líder, se define como ",
-        "respuestas": [
-          "Un circulo de calidad o actualmente llamados grupos de mejora",
-          "Un grupo de discusión",
-          "Un grupo de sugerencias",
-          "Las 5s’s"
-        ],
-        "respuestaCorrecta": "Un circulo de calidad o actualmente llamados grupos de mejora"
-      },
-      {
-        "id": "4",
-        "enunciado": "La cuarta “s” o seiketsu significa: ",
-        "respuestas": [
-          "Sistematización de las tres anteriores",
-          "Para algunos autores, limpieza y aseo personal ",
-          "Establecer patrullas 5s’s",
-          "Todas las anteriores son correctas"
-        ],
-        "respuestaCorrecta": "Sistematización de las tres anteriores"
-      },
-      {
-        "id": "5",
-        "enunciado": "Separar lo necesario de lo innecesario y eliminar lo innecesario (puede haber 2 correctas):",
-        "respuestas": [
-          "Es lo que se denomina seiri ",
-          "Lo primero es lo que se denomina seiri pero eliminar lo innecesario forma parte del seiton ",
-          "Es la primera de las 5s’s y por lo tanto, o primero que debe hacerse",
-          "Es lo que se denomina seiso"
-        ],
-        "respuestaCorrecta": "Es lo que se denomina seiri "
-      },
-      {
-        "id": "6",
-        "enunciado": "La aplicación de un programa 5s’s en una organización ",
-        "respuestas": [
-          "Es un elemento de la filosofía JIT aunque antes es imprescindible mejorar los problemas de calidad y las averías ",
-          "Puede contribuir a reducir la siniestrabilidad laboral ",
-          "Solo se puede conseguir mediante la aplicación de la técnica de tarjetas rojas para evitar conflictos o desavenencias entre el personal"
-        ],
-        "respuestaCorrecta": "Puede contribuir a reducir la siniestrabilidad laboral "
-      },
-      {
-        "id": "7",
-        "enunciado": "Señale, si algunas de las siguientes afirmaciones es correcta:",
-        "respuestas": [
-          "En una tormenta de ideas, sólo se aportan ideas, no se analizan",
-          "En una tormenta de ideas, no sólo se aportan ideas, sino que en el mismo momento que sale la idea, se analiza y se sacan conclusiones ",
-          "En una tormenta de ideas, se puede criticar, si alguno de los participantes, lanza una idea mala. ",
-          "En una tormenta de ideas, sobre una idea mala, se puede construir una buena idea"
-        ],
-        "respuestaCorrecta": "En una tormenta de ideas, sólo se aportan ideas, no se analizan",
-        "respuestaCorrecta2": "En una tormenta de ideas, sobre una idea mala, se puede construir una buena idea"
-      },
-      {
-        "id": "8",
-        "enunciado": "Una vez, llevada a cabo la tormenta de ideas (señala la más correcta):",
-        "respuestas": [
-          "No es necesario aplicar ninguna idea",
-          "Al menos se tiene que aplicar una idea de las aportadas",
-          "Al menos se tiene que aplicar una idea de las aportadas y recompensar al trabajador",
-          "Ninguna de las anteriores son correctas"
-        ],
-        "respuestaCorrecta": "Al menos se tiene que aplicar una idea de las aportadas y recompensar al trabajador"
-      },
-      {
-        "id": "9",
-        "enunciado": "El procedimiento de las tarjetas rojas permite:",
-        "respuestas": [
-          "Reparar equipos que no estaban en funcionamiento",
-          "Sacar de zona de producción todo aquello que no añade valor al proceso",
-          "Disminuir el número de operarios en zona de producción ",
-          "Ninguna de las anteriores"
-        ],
-        "respuestaCorrecta": "Sacar de zona de producción todo aquello que no añade valor al proceso"
-      },
-      {
-        "id": "10",
-        "enunciado": "Para evitar que un sistema entre en rutina y caiga, una de las herramientas que se utiliza, es:",
-        "respuestas": [
-          "Contornos de visualización ",
-          "Tarjetas rojas ",
-          "Auditorías ",
-          "Andon"
-        ],
-        "respuestaCorrecta": "Auditorías "
-      },
-      {
-        "id": "11",
-        "enunciado": "Señale, si algunas de las siguientes afirmaciones es correcta:",
-        "respuestas": [
-          "En las SMED, se combina la técnica de métodos y tiempos del señor Taylor con la ingeniería mecánica",
-          "La técnica de las SMED permitió a Toyota reducir preparaciones de horas (2 o 3 horas  años 50) a minutos (3 minutos  años 70)",
-          "En las SMED,  se intenta transformar el tiempo interno (máquina parada) en tiempo externo (máquina en funcionamiento)",
-          "SMED = cambio de utillaje en menos de 10 minutos"
-        ],
-        "respuestaCorrecta": "SMED = cambio de utillaje en menos de 10 minutos"
-      },
-      {
-        "id": "12",
-        "enunciado": "En las SMED, los tiempos de set up son:",
-        "respuestas": [
-          "Tiempos internos donde la máquina está parada",
-          "Tiempos externos donde la máquina está parada",
-          "Tiempos de producción",
-          "Tiempos de preparación de utillaje y herramientas"
-        ],
-        "respuestaCorrecta": "Tiempos de preparación de utillaje y herramientas"
-      },
-      {
-        "id": "13",
-        "enunciado": "La estrategia de producción de Toyota pone foco en sus elementos de producción y no presta atención a elementos externos de su sistema productivo como los proveedores ",
-        "respuestas": [
-          "Falso",
-          "Verdadero"
-        ],
-        "respuestaCorrecta": "Falso"
-      },
-      {
-        "id": "14",
-        "enunciado": "En el sistema de producción de Toyota, el concepto de obrero polivalente  se entiende como:",
-        "respuestas": [
-          "Jidoka",
-          "Shojinka",
-          "Seiri",
-          "Andon"
-        ],
-        "respuestaCorrecta": "Shojinka"
-      },
-      {
-        "id": "15",
-        "enunciado": "Por takt time se entiende:",
-        "respuestas": [
-          "El tiempo que tarda una unidad de producto desde que entra en zona de producción hasta que sale del almacén",
-          "El ritmo (la velocidad) al que deben de trabajar cada uno de los operarios para cubrir la demanda ",
-          "El máximo tiempo que debe tardar un operario para ir de una máquina a otra",
-          "El ocioso de cada operario "
-        ],
-        "respuestaCorrecta": "El ritmo (la velocidad) al que deben de trabajar cada uno de los operarios para cubrir la demanda "
-      },
-      {
-        "id": "16",
-        "enunciado": "En las células de fabricación en U:",
-        "respuestas": [
-          "Los aprovisionamientos se realizan por el exterior de la U",
-          "Los operarios se sitúan y circulan por el interior de la U",
-          "Los procesos más automatizados suelen colocarse en los puestos centrales de la U (es decir, en las zonas de la U más alejas de la entrada IN y la salida OUT) ",
-          "Todas son correctas"
-        ],
-        "respuestaCorrecta": "Todas son correctas"
-      },
-      {
-        "id": "17",
-        "enunciado": "En las patrullas 5s:",
-        "respuestas": [
-          "El presidente de la empresa no debe debe de encabezar la promoción de tarjetas rojas",
-          "Sólo se tienen que colocar tarjetas rojas, si se tiene claro que ese elemento no añade valor al proceso. Si estás en duda, si el elemento añade valor al proceso o no, no tienes que colocar una tarjeta roja ",
-          "El formador no debe de colaborar en asignar tarjetas rojas a todas aquellos elementos de zona de producción que no añadan valor al proceso ",
-          "Todas las respuestas son falsas"
-        ],
-        "respuestaCorrecta": "El formador no debe de colaborar en asignar tarjetas rojas a todas aquellos elementos de zona de producción que no añadan valor al proceso "
-      },
-      {
-        "id": "18",
-        "enunciado": "Una empresa, que tiene mucho stock de todo, indica:",
-        "respuestas": [
-          "Un buen funcionamiento ",
-          "Deficiencias en su gestión de previsión de demanda, mantenimiento de máquinas, etc…",
-          "Una buena fortaleza financiera, ya que tiene dinero para comprar material y stock"
-        ],
-        "respuestaCorrecta": "Deficiencias en su gestión de previsión de demanda, mantenimiento de máquinas, etc…"
-      }
-    ]
-  },
-  {
-    "tema": "Estrategia de fabricación japonesa 2",
-    "preguntas": [
-      {
-        "id": "1",
-        "enunciado": "Señale, si algunes de las siguientes afirmaciones es correcta: ",
-        "respuestas": [
-          "El andón y los poka-yokes son sistemas orientados a incrementar la capacidad de respuesta a la demanda ",
-          "Los poka-yokes son sistemas anti-error ",
-          "Los poka-yokes son sistemas de inspección que sustituyen a la inspección humana "
-        ],
-        "respuestaCorrecta": "Los poka-yokes son sistemas anti-error "
-      },
-      {
-        "id": "2",
-        "enunciado": "En un sistema pull… ",
-        "respuestas": [
-          "El flujo de información va en el mismo sentido que el flujo de materiales ",
-          "La fabricación parte de los datos históricos",
-          "El flujo de información va en sentido contrario al flujo de materiales",
-          "Ninguna de las anteriores es cierta"
-        ],
-        "respuestaCorrecta": "El flujo de información va en sentido contrario al flujo de materiales"
-      },
-      {
-        "id": "3",
-        "enunciado": "En JIT, el control autónomo de defectos se refiere a: ",
-        "respuestas": [
-          "La autoinspección ",
-          "El mantenimiento productivo total (TPM)",
-          "La sincronización y el equilibrio ",
-          "La recogida y aprovechamiento de las ideas y sugerencias de los trabajadores"
-        ],
-        "respuestaCorrecta": "La autoinspección "
-      },
-      {
-        "id": "4",
-        "enunciado": "La tarjeta kanban de producción: ",
-        "respuestas": [
-          "Tiene el mismo valor que una orden de fabricación ",
-          "Representa una unidad de contención (palé, contenidor,caja, etc...) con un cierto número de unidades que se indica en al tarjeta kanban. ",
-          "Todas las anteriores son correctas"
-        ],
-        "respuestaCorrecta": "Todas las anteriores son correctas"
-      },
-      {
-        "id": "5",
-        "enunciado": "Una guillotina de la sección de manipulado de una empresa de la industria gráfica tiene un sistema que impide que baje la cuchilla, si el operario no mantiene pulsados dos botones con ambas manos, este sistema: ",
-        "respuestas": [
-          "Se puede considerar un poka-yoke de detección",
-          "Se puede considerar un poka-yoke de aviso  ",
-          "Se puede considerar un poka-yoke de preventivo"
-        ],
-        "respuestaCorrecta": "Se puede considerar un poka-yoke de preventivo"
-      },
-      {
-        "id": "6",
-        "enunciado": "Autonomation: ",
-        "respuestas": [
-          "Es un término equivalente al japonés jidoka ",
-          "Es traducible al español como “autonomización”, mezcla de automatización y autonomía ",
-          "Es el control autónomo de defectos ",
-          "Todas las anteriores son correctas"
-        ],
-        "respuestaCorrecta": "Todas las anteriores son correctas"
-      },
-      {
-        "id": "7",
-        "enunciado": "Entre las reglas de funcionamiento del sistema kanban se incluyen (puede existir 2 afirmaciones correctes): ",
-        "respuestas": [
-          "Se debe maximizar la capacidad de los contenedores para reducir el nº de kanbans ",
-          "Se debe reducir el nº de kanbans",
-          "Cuando el proceso anterior fabrique distintos tipos de piezas se debe fabricar en el mismo orden en que se depositaron los kanbans de producción en su buzón o tarjetero",
-          "Cuando el proceso anterior se encuentre ocioso, debe fabricar para acumular cierto stock intermedio predeterminado, y entonces parar hasta recibir kanbans de producción"
-        ],
-        "respuestaCorrecta": "Se debe reducir el nº de kanbans",
-        "respuestaCorrecta2": "Cuando el proceso anterior fabrique distintos tipos de piezas se debe fabricar en el mismo orden en que se depositaron los kanbans de producción en su buzón o tarjetero"
-      },
-      {
-        "id": "8",
-        "enunciado": "Además del kanban de producción y retirada, existe:",
-        "respuestas": [
-          "Kanban de productividad",
-          "Kanban de cuello botella",
-          "Kanban de capacidad y eficiencia ",
-          "kanban de urgencia y transporte"
-        ],
-        "respuestaCorrecta": "kanban de urgencia y transporte"
-      },
-      {
-        "id": "9",
-        "enunciado": "La geométrica de los kanbans siempre es rectangular",
-        "respuestas": [
-          "Falso",
-          "Verdadero"
-        ],
-        "respuestaCorrecta": "Falso"
-      },
-      {
-        "id": "10",
-        "enunciado": "El número de kanbans, que hay en zona de producción, indica:",
-        "respuestas": [
-          "Stock especulativo ",
-          "Stock circulante ",
-          "Materia prima",
-          "Ninguna de las anteriores"
-        ],
-        "respuestaCorrecta": "Stock circulante "
-      },
-      {
-        "id": "11",
-        "enunciado": "Una de las reglas para poder usar el Sistema kanban es:",
-        "respuestas": [
-          "Nunca deberán pasar al proceso posterior productos defectusos",
-          "Se debe ir aumentando el número de kanbans progresivamente",
-          "Con los kanbans de retirada, se pueden retirar más piezas de las necesarias.  El objetivo es hacer un pulmón de piezas al lado de las máquinas, por si sucede alguna avería y así poder satisfacer la demanda",
-          "Todas las anteriores son correctas"
-        ],
-        "respuestaCorrecta": "Todas las anteriores son correctas"
-      },
-      {
-        "id": "12",
-        "enunciado": "Un sistema pull, necesita:",
-        "respuestas": [
-          "Tiempos de set-up cortos",
-          "Operarios polivalentes ",
-          "Proveedores cerca y de respuesta rápida",
-          "Todas las anteriores son correctas"
-        ],
-        "respuestaCorrecta": "Todas las anteriores son correctas"
-      },
-      {
-        "id": "13",
-        "enunciado": "En TPS:",
-        "respuestas": [
-          "Los operarios y supervisores no tienen capacidad para parar la línea de producción ",
-          "Los operarios y supervisores tienen capacidad para parar la línea de producción, pulsando botones o tirando de cuerdas andon",
-          "La línea de producción no se para nunca, sino que se coloca un operario al final de línea para corregir errores ",
-          "Todas las anteriores son incorrectas"
-        ],
-        "respuestaCorrecta": "Los operarios y supervisores tienen capacidad para parar la línea de producción, pulsando botones o tirando de cuerdas andon"
-      }
-    ]
-  },
+  },    
   {
     "tema": "Tema 10",
     "preguntas": [
       {
         "id": "0",
-        "enunciado": "Voy a aprovar las oposiciones?",
+        "enunciado": "Voy a aprobar las oposiciones?",
         "respuestas": [
           "Puede",
           "No",

@@ -1679,7 +1679,847 @@
         "respuestaCorrecta": "Ser informat de totes les actuacions assistencials. Aquesta informació será com a regla general per escrit peró haura de deixar constáncia a la historia clínica."
       }
     ]
-  },    
+  },  
+  {
+    "tema": "Tema 3.2",
+    "preguntas": [
+      {
+        "id": "3.2.1",
+        "enunciado": "Les sol.licituds d'exercici de drets relatius a les dades personals s'han de respondre en un termini de:",
+        "respuestas": [
+          "1 mes",
+          "2 mesos",
+          "3 mesos",
+          "6 mesos"
+        ],
+        "respuestaCorrecta": "1 mes"
+      },
+       {
+        "id": "3.2.2",
+        "enunciado": "D'acord amb la normativa vigent en matèria de transparència, el dret d'accés a la informació pública:",
+        "respuestas": [
+          "Requereix acreditar un interès justificat i personal en la matèria objecte de la petició.",
+          "Pot ser exercit per persones físiques, però no per persones jurídiques.",
+          "Està subjecte a motivació per part de la persona que l'exerceix.",
+          "Es pot exercir a partir dels 16 anys."
+        ],
+        "respuestaCorrecta": "Es pot exercir a partir dels 16 anys."
+      },
+       {
+        "id": "3.2.3",
+        "enunciado": "Quina de les opcions seguents descriu el concepte de dades massives?",
+        "respuestas": [
+          "Totes les dades que defineixen altres dades i les seves propietats, amb l'objectiu de garantir la seva correcta gestió",
+          "Conjunt de dades que pel seu volum, la seva naturalesa i la velocitat a què han de ser processades, ultrapassen la capacitat dels sistemes informàtics habituals.",
+          "Conjunt de bases de dades situades en diferents espais lògics i geogràfics interconnectades a través d'una xarxa informàtica.",
+          "Totes les dades de negoci que s'utilitzen en una organització en la gestió ardinària."
+        ],
+        "respuestaCorrecta": "Conjunt de dades que pel seu volum, la seva naturalesa i la velocitat a què han de ser processades, ultrapassen la capacitat dels sistemes informàtics habituals."
+      },
+       {
+        "id": "3.2.4",
+        "enunciado": "La llei reguladora de la protecció de dades personals i garantia de drets digital és:",
+        "respuestas": [
+          "L3/2018, de 5 de desembre",
+          "L03/2018, de 5 de desembre.",
+          "L05/2016, de 3 de desembre.",
+          "L5/2018, de 13 de desembre."
+        ],
+        "respuestaCorrecta": "L03/2018, de 5 de desembre."
+      },
+       {
+        "id": "3.2.5",
+        "enunciado": "No són dades de caràcter especial:",
+        "respuestas": [
+          "Les conviccions religioses.",
+          "Les dades de salut.",
+          "L'orientació sexual.",
+          "L'esport al que estan federats els menors."
+        ],
+        "respuestaCorrecta": "L'esport al que estan federats els menors."
+      },
+       {
+        "id": "3.2.6",
+        "enunciado": "En relació al DPD és cert que:",
+        "respuestas": [
+          "Ha de ser una persona física",
+          "Ha de formar part de la plantilla o organització que dur a terme tractament de dades.",
+          "S'hi ha de dedicar a temps complert.",
+          "No és necessària dedicació a temps complet."
+        ],
+        "respuestaCorrecta": "No és necessària dedicació a temps complet."
+      },
+       {
+        "id": "3.2.7",
+        "enunciado": "D'acord amb la normativa en matèria de protecció de dades entre responsable i encarregat del tractament:",
+        "respuestas": [
+          "No hi ha cap diferència de responsabilitats.",
+          "Han de compartir les mateixes finalitats.",
+          "Només el responsable del tractament pot ser persona física o jurídica, perquè l'encarregat del tractament sempre ha de ser persona jurídica.",
+          "Sempre ha d'existir una contracte o acte jurídic."
+        ],
+        "respuestaCorrecta": "Sempre ha d'existir una contracte o acte jurídic."
+      },
+       {
+        "id": "3.2.8",
+        "enunciado": "En matèria de protecció de dades, què ha d'incloure, com a mínim, una avaluació d'impacte?",
+        "respuestas": [
+          "Una avaluació de la necessitat i la proporcionalitat de les operacions de tractament respecte a la seva finalitat.",
+          "Un protocol de notificacions de violacions de seguretat.",
+          "Una avaluació dels riscos que puguin afectar directament el responsable del tractament.",
+          "Una anàlisi de l'impacte econòmic de les operacions de tractament."
+        ],
+        "respuestaCorrecta": "Una avaluació de la necessitat i la proporcionalitat de les operacions de tractament respecte a la seva finalitat."
+      },
+       {
+        "id": "3.2.9",
+        "enunciado": "El tractament de dades de categoria especial està, en termes generals:",
+        "respuestas": [
+          "Permès a les autoritats competents.",
+          "Si són dades que l'interessat ha fet saber als seus familiars i persones vinculades",
+          "Si el tractament és necessari per raons d'interès sobre la base del Dret dels estats membres.",
+          "Només està permès en determinades circumstàncies."
+        ],
+        "respuestaCorrecta": "Només està permès en determinades circumstàncies."
+      },
+       {
+        "id": "3.2.10",
+        "enunciado": "L'Autoritat Catalana de Protecció de Dades té, entre d'altres, les funcions seguents:",
+        "respuestas": [
+          "Resoldre les reclamacions de tutela formulades per les persones afectades respecte a l'exercici de drets en matèria de protecció de dades.",
+          "Tutelar el Registre de les activitats de tractament de les administracions públiques catalanes.",
+          "Vetllar pel compliment de la legislació vigent sobre protecció de dades de caràcter personal únicament en l'àmbit de l'Administració de la Generalitat de Catalunya.",
+          "Dur a terme l'avaluació d'impacte respecte als tractaments de dades de les administracions públiques catalanes."
+        ],
+        "respuestaCorrecta": "Resoldre les reclamacions de tutela formulades per les persones afectades respecte a l'exercici de drets en matèria de protecció de dades."
+      },
+       {
+        "id": "3.2.11",
+        "enunciado": "Quins dels subjectes seguents estan obligats a relacionar-se amb les administracions públiques a través de mitjans electrònics, per efectuar qualsevol tràmit d'un procediment administratiu?",
+        "respuestas": [
+          "Les entitats sense personalitat jurídica.",
+          "Els empleats de les administracions públiques, bé sigui en la seva condició d'empleat públic a com a ciutadà.",
+          "Totes les persones físiques.",
+          "Els qui exerceixin una activitat professional per a la qual es requereixi la col'legiació obligatòria, a excepció de notaris i registradors de la propietat i mercantils."
+        ],
+        "respuestaCorrecta": "Les entitats sense personalitat jurídica."
+      },
+       {
+        "id": "3.2.12",
+        "enunciado": "D'acord amb la normativa europea el consentiment de l'interessat ha de ser:",
+        "respuestas": [
+          "Lliure, específic, informat i inequivoc.",
+          "Lliure, específic, informat i inequivoc i implicit en el tractament de dades especials.",
+          "Lliure, específic, informat i sempre explícit.",
+          "Específic, informat, inequívoc i reciproc."
+        ],
+        "respuestaCorrecta": "Lliure, específic, informat i inequivoc."
+      },
+       {
+        "id": "3.2.13",
+        "enunciado": "El dret de rectificació s'ha d'exercir:",
+        "respuestas": [
+          "Amb el suport probatori que ho justifiqui.",
+          "Per la simple voluntat de l'interessat.",
+          "Tantes vegades com es desitgi.",
+          "Únicament per mitjà de representant de l'interessat."
+        ],
+        "respuestaCorrecta": "Amb el suport probatori que ho justifiqui."
+      },
+       {
+        "id": "3.2.14",
+        "enunciado": "D'acord amb el dret de la Unió Europea, l'edat mínima per poder consentir en relació a ofertes de serveis de la societat de la informació és:",
+        "respuestas": [
+          "14 anys.",
+          "16 anys.",
+          "12 anys.",
+          "18 anys."
+        ],
+        "respuestaCorrecta": "16 anys."
+      },
+       {
+        "id": "3.2.15",
+        "enunciado": "Assenyala la definició correcta d'acord amb la normativa europea en vigor en matèria de protecció de dades:",
+        "respuestas": [
+          "Dades personals són tota informació sobre una persona física o jurídica identificada o identificable",
+          "Dades personals són alguna informació sobre una persona física o jurídica identificada o identificable",
+          "Dades personals són tota informació sobre una persona física identificada o identificable",
+          "Dades personals són tota informació sobre una persona jurídica identificada o identificable"
+        ],
+        "respuestaCorrecta": "Dades personals són tota informació sobre una persona física identificada o identificable"
+      },
+       {
+        "id": "3.2.16",
+        "enunciado": "L'exercici dels drets de les persones interessades en matèria de protecció de dades personals",
+        "respuestas": [
+          "És sempre gratuït.",
+          "Sempre està sotmès a taxes o tarifes.",
+          "Pot exercir-se de manera gratuita si hi ha causa legitima.",
+          "Pot comportar costos per a l'interessat en determinats casos."
+        ],
+        "respuestaCorrecta": "Pot comportar costos per a l'interessat en determinats casos."
+      },
+       {
+        "id": "3.2.17",
+        "enunciado": "El dret a la informació que el responsable del tractament ha de facilitar a l'interessat pot evitar-se:",
+        "respuestas": [
+          "Si l'interessat ja disposa de la informació.",
+          "Si la comunicació és fàcil.",
+          "Si la comunicació de les dades s'emmarca dins de l'exercici professional.",
+          "En cap cas es pot evitar."
+        ],
+        "respuestaCorrecta": "Si l'interessat ja disposa de la informació."
+      },
+       {
+        "id": "3.2.18",
+        "enunciado": "Davant d'una vulneració rellevant en matèria de protecció de dades, el DPD ha de:",
+        "respuestas": [
+          "Comunicar-ho al responsable o encarregat del tractament.",
+          "Denunciar-ho a l'autoritat de control.",
+          "Documentar-la i comunicar-la al responsablerencarregat del tractament.",
+          "Notificar-ho a l'interessat."
+        ],
+        "respuestaCorrecta": "Documentar-la i comunicar-la al responsablerencarregat del tractament."
+      },
+       {
+        "id": "3.2.19",
+        "enunciado": "D'acord amb la normativa europea, el responsable del tractament:",
+        "respuestas": [
+          "Ha de donar instruccions al DPD.",
+          "Ha de despatxar amb el DPD al nivell jeràrquic superior.",
+          "Ha de despatxar amb el DPD al nivell jeràrquic inferior.",
+          "Sempre ha de nomenar un DPD."
+        ],
+        "respuestaCorrecta": "Ha de despatxar amb el DPD al nivell jeràrquic superior."
+      },
+       {
+        "id": "3.2.20",
+        "enunciado": "La normativa europea en vigor que regula les normes relatives a la protecció de les persones físiques respecta al tractament de dades personals és:",
+        "respuestas": [
+          "El Reglament General UE 2016/678, del 27 d'abril.",
+          "La Directiva 95/46/CE.",
+          "La Directiva 18/03/CE.",
+          "El Reglament General UE 2016/6790, del 27 d'abril."
+        ],
+        "respuestaCorrecta": "El Reglament General UE 2016/6790, del 27 d'abril."
+      },
+       {
+        "id": "3.2.21",
+        "enunciado": "Si el difunt ha prohibit expressament accedir a les seves dades, un cop mort només ho podran fer:",
+        "respuestas": [
+          "Familiars, només.",
+          "Familiars i hereus, per a qualsevol dada.",
+          "Hereus i només a dades de caràcter patrimonial.",
+          "Familiar i els hereus i només a dades de caràcter patrimonial."
+        ],
+        "respuestaCorrecta": "Hereus i només a dades de caràcter patrimonial."
+      },
+       {
+        "id": "3.2.22",
+        "enunciado": "Respecte les dades personals de les persones difuntes és veritat que:",
+        "respuestas": [
+          "Mai poden ser objecte de cap tractament a partir de la mort del titular.",
+          "Sempre hi poden tenir accés els familiars i els seus hereus.",
+          "Les persones vinculades que no siguin ni familiar ni hereus hi poden accedir si el titular no ho ha prohibit expressament.",
+          "En cap cas poden ser objecte de tractament a partir de la mort produida del titular."
+        ],
+        "respuestaCorrecta": "Les persones vinculades que no siguin ni familiar ni hereus hi poden accedir si el titular no ho ha prohibit expressament."
+      },
+       {
+        "id": "3.2.23",
+        "enunciado": "S'ha de designar DPD en un dels casos seguents:",
+        "respuestas": [
+          "Tractament efectuat en federacions esportives.",
+          "Les empreses de seguretat privada.",
+          "Els tribunals de primera instància.",
+          "Els gimnasos."
+        ],
+        "respuestaCorrecta": "Les empreses de seguretat privada."
+      },
+       {
+        "id": "3.2.24",
+        "enunciado": "El Reglament de la Unió Europea relatiu a la protecció de les persones físiques, pel que fa al tractament de dades personals i a la lliure circulació d'aquestes dades, va entrar en vigor:",
+        "respuestas": [
+          "Àls 20 dies de la seva publicació.",
+          "Als dos anys de la seva publicació.",
+          "Després de la promulgació de la normativa estatals de desenvolupament.",
+          "Als 20 dies i dos anys de la seva publicació."
+        ],
+        "respuestaCorrecta": "Àls 20 dies de la seva publicació."
+      },
+       {
+        "id": "3.2.25",
+        "enunciado": "Segons el RUE en matèria de protecció de dades el dret a la portabilitat",
+        "respuestas": [
+          "Sempre comporta la supressió les dades objecte del trasllat.",
+          "Les dades objecte del trasllat han de conservar-se en els arxius del responsable des d'on s'efectua el trasllat.",
+          "Les dades poden passar per la portabilitat i na ser suprimides del lloc d'origen.",
+          "Les dades personals no poden ser traslladades mai."
+        ],
+        "respuestaCorrecta": "Les dades poden passar per la portabilitat i na ser suprimides del lloc d'origen."
+      }
+    ]
+  }, 
+  {
+    "tema": "Tema 4",
+    "preguntas": [
+      {
+        "id": "4.1.1",
+        "enunciado": "Quants treballadors ha de tenir una empresa per disposar obligatòriament del Comitè de Seguretat i Salut?",
+        "respuestas": [
+          "Si te 25 o més treballadors.",
+          "Si te 49 o més treballadors.",
+          "Si te 50 o més treballadors.",
+          "Si te 79 o més treballadors."
+        ],
+        "respuestaCorrecta": "Si te 50 o més treballadors."
+      },
+      {
+        "id": "4.1.2",
+        "enunciado": "El seu cap de Departament l'ha escollit delegat de prevenció:",
+        "respuestas": [
+          "Fals, aquesta designació s'ha de realitzar entre i pels representants de personal.",
+          "Fals, aquesta designació s'ha de realitzar pels representants de personal tot i no cal que siguin treballadors.",
+          "La designació és a càrrec de l'empresari però prèvia consulta amb els treballadors o els seus representants.",
+          "I aquesta tasca suposa una reclassificació del lloc de treball."
+        ],
+        "respuestaCorrecta": "Fals, aquesta designació s'ha de realitzar entre i pels representants de personal."
+      },
+      {
+        "id": "4.1.3",
+        "enunciado": "Quina de les seguents afirmacions no és certa en relació al Comitè de Seguretat i Salut:",
+        "respuestas": [
+          "És un òrgan paritari i col-legiat.",
+          "Es constituirà en totes les empreses o centres de treball amb 50 a més treballadors.",
+          "Participa en l'elaboració, la posada en pràctica i avaluació dels plans i programes de prevenció de riscos a l'empresa.",
+          "Te capacitat sancionadora."
+        ],
+        "respuestaCorrecta": "Te capacitat sancionadora."
+      },
+      {
+        "id": "4.1.4",
+        "enunciado": "Quina no és una obligació del treballador?",
+        "respuestas": [
+          "Avaluar i analitzar les possibles situacions d'emergència i adoptar mesures.",
+          "Vetllar per la seva seguretat i Salut i la d'altres persones.",
+          "Cooperar amb l'empresari, utilitzant els mitjans de treball.",
+          "Informar immediatament de situacions de risc."
+        ],
+        "respuestaCorrecta": "Avaluar i analitzar les possibles situacions d'emergència i adoptar mesures."
+      },
+      {
+        "id": "4.1.5",
+        "enunciado": "Quan NO es considera accident laboral?",
+        "respuestas": [
+          "No es consideren accidents de treball els produits a causa de la imprudència temerària del treballador accidentat.",
+          "L'accident in itinere.",
+          "Els accidents produits per una imprudència professional o per l'incompliment d'alguna norma de prevenció de riscos laborals no es consideren accidents laborals.",
+          "No es considera accident laboral el que pateix el treballador desenvolupant tasques diferents a les de la seva categoria professional, atenent al bon funcionament de l'empresa."
+        ],
+        "respuestaCorrecta": "No es consideren accidents de treball els produits a causa de la imprudència temerària del treballador accidentat."
+      },
+      {
+        "id": "4.1.6",
+        "enunciado": "Qui ha de vigilar que les empreses que es contractin i subcontractin Es compleixin la normativa de prevenció de riscos?",
+        "respuestas": [
+          "L'empresari que contracta.",
+          "L'empresa subcontractada té responsabilitat plena i es la única responsable en fer complir o no la normativa de prevenció de riscos.",
+          "El Instituto Nacional de Seguridad e Higiene en el Trabajo.",
+          "La Comissió Nacional de Seguretat i Salut en el Treball."
+        ],
+        "respuestaCorrecta": "L'empresari que contracta."
+      },
+      {
+        "id": "4.1.7",
+        "enunciado": "Respecte de la vigilància de la salut dels treballadors, quina de les seguents afirmacions no és certa?:",
+        "respuestas": [
+          "L'empresari te dret a conèixer les malalties dels treballadors i així posar els mitjans necessaris per garantir la salut del col-lectiu.",
+          "La vigilància periòdica de la salut serà de caràcter voluntari exceptuant casos especials.",
+          "Quan sigui necessari, la vigilància periòdica de la salut es perllongarà més enllà de la finalització de la relació laboral.",
+          "La vigilància periòdica de l'estat de la salut s'ha de fer en funció dels riscos inherents al treball."
+        ],
+        "respuestaCorrecta": "L'empresari te dret a conèixer les malalties dels treballadors i així posar els mitjans necessaris per garantir la salut del col-lectiu."
+      },
+      {
+        "id": "4.1.8",
+        "enunciado": "No és una modalitat d'assetjament?",
+        "respuestas": [
+          "Assetjament vertical descendent.",
+          "Assetjament vertical ascendent.",
+          "Assetjament horitzontal.",
+          "Assetjament transversal."
+        ],
+        "respuestaCorrecta": "Assetjament transversal."
+      },
+      {
+        "id": "4.1.9",
+        "enunciado": "Per realitzar una determinada feina necessitem una careta anti-pols, la seva compra anirà a càrrec de?",
+        "respuestas": [
+          "L'empresari.",
+          "El treballadorsj a que es d'us individual i se l'emportarà a casa.",
+          "La seguretat social.",
+          "Qualsevol actor, sigui empresari, treballador, mutua..."
+        ],
+        "respuestaCorrecta": "L'empresari."
+      },
+      {
+        "id": "4.1.10",
+        "enunciado": "No és un objectiu específic del Protocol per a la prevenció, la detecció, l'actuació i la resolució de situacions d'assetjament sexual, per raó de sexe, de l'orientació sexual i/o de la identitat sexual a l'Administració de la Generalitat de Catalunya:",
+        "respuestas": [
+          "Presentar denúncies per qualsevol forma d'assetjament.",
+          "Definir els rols i les responsabilitats dels diferents agents.",
+          "Habilitar recursos diversificats per a la resolució precoç de cada tipus d'assetjament.",
+          "Millorar els canals de coordinació interdepartamentals i amb altres organismes que treballen en la temàtica, per afavorir una actuació integral a l'Administració de la Generalitat."
+        ],
+        "respuestaCorrecta": "Presentar denúncies per qualsevol forma d'assetjament."
+      },
+      {
+        "id": "4.1.11",
+        "enunciado": "Quina no és una funció dels serveis de prevenció?",
+        "respuestas": [
+          "Dissenyar el Pla de Prevenció.",
+          "Implantar i aplicar el Pla de Prevenció.",
+          "Identificar i avaluar els factors de risc.",
+          "Cooperar al compartir centre de treball."
+        ],
+        "respuestaCorrecta": "Cooperar al compartir centre de treball."
+      },
+      {
+        "id": "4.1.12",
+        "enunciado": "En el cas de risc greu i imminent és cert que:",
+        "respuestas": [
+          "El treballador no podrà abandonar el seu lloc de treball si no rep una ordre dels tècnics, l'empresari o dels representants dels treballadors.",
+          "Només els representants legals dels treballadors, per majoria, poden interrompre l'activitat dels treballadors afectats.",
+          "El treballador no podrà abandonar el seu lloc de treball en cap cas.",
+          "Els treballadors o els seus representants no patiran cap perjudici per interrompre l'activitat, si no han actuat de mala fe o amb negligència."
+        ],
+        "respuestaCorrecta": "Els treballadors o els seus representants no patiran cap perjudici per interrompre l'activitat, si no han actuat de mala fe o amb negligència."
+      },
+      {
+        "id": "4.1.13",
+        "enunciado": "La integració de l'activitat preventiva de l'empresa en el seu sistema general de gestió s'ha de reflectir en un document. Quin nom rep aquest?",
+        "respuestas": [
+          "Pla de prevenció de riscos laborals.",
+          "Avaluació de riscs.",
+          "Pla de gestió integral.",
+          "Procediment integral de gestió"
+        ],
+        "respuestaCorrecta": "Pla de prevenció de riscos laborals."
+      },
+      {
+        "id": "4.1.14",
+        "enunciado": "Quan parlem dels drets dels treballadors en matèria de prevenció, aquests es refereixen, exceptuant algunes professions, a:",
+        "respuestas": [
+          "Només als treballadors fixos.",
+          "Només als treballadors fixos i els temporals, no als autònoms.",
+          "Només als treballadors fixos i els autònoms, no als temporals.",
+          "A tots els treballadors."
+        ],
+        "respuestaCorrecta": "A tots els treballadors."
+      },
+      {
+        "id": "4.1.15",
+        "enunciado": "L'ICS vol modificar el procés d'atenció als ciutadans, haurà de consultar el nou procés als treballadors?",
+        "respuestas": [
+          "Sempre",
+          "Mai.",
+          "Només en el cas que aquest procés nou modifiqui les condicions de seguretat i Salut.",
+          "Només en el cas que aquest procés nou modifiqui les condicions salarials."
+        ],
+        "respuestaCorrecta": "Només en el cas que aquest procés nou modifiqui les condicions de seguretat i Salut."
+      },
+      {
+        "id": "4.1.16",
+        "enunciado": "Els drets de vigilància de la Salut són? Assenyala la incorrecta.",
+        "respuestas": [
+          "Està destinada a vigilar i avaluar les consegúències dels diferents riscos.",
+          "Respectar la intimitat i dignitat de la persona.",
+          "La confidencialitat de la informació recopilada.",
+          "No utilitzar la informació amb finalitats discriminatòries"
+        ],
+        "respuestaCorrecta": "Està destinada a vigilar i avaluar les consegúències dels diferents riscos."
+      },
+      {
+        "id": "4.1.17",
+        "enunciado": "Quina resposta no en forma part del Pla de Prevenció de Riscos Laborals?",
+        "respuestas": [
+          "Identificació de l'empresa, de la seva activitat productiva, nombre de treballadors i característiques rellevants.",
+          "Estructura organitzativa de l'empresa, amb la identificació de les funcions i responsabilitats de cadascun.",
+          "Politica, objectius i fites que l'empresa pretén assolir en matèria preventiva, com els recursos humans, tècnics, materials i econòmics.",
+          "Possibilitat que la persona que l'ocupi o pugui ocupar sigui especialment sensible, per les seves caracteristiques personal o estat biològic conegut."
+        ],
+        "respuestaCorrecta": "Possibilitat que la persona que l'ocupi o pugui ocupar sigui especialment sensible, per les seves caracteristiques personal o estat biològic conegut."
+      },
+      {
+        "id": "4.1.18",
+        "enunciado": "Al seu departament treballen 700 persones, quants delegats de prevenció calen segons la llei?:",
+        "respuestas": [
+          "Un delegat.",
+          "3 delegats.",
+          "4 delegats.",
+          "7 delegats"
+        ],
+        "respuestaCorrecta": "4 delegats."
+      },
+      {
+        "id": "4.1.19",
+        "enunciado": "Al seu departament treballen 700 persones, quants delegats de prevenció calen segons la llei?:",
+        "respuestas": [
+          "Assetjament vertical descendent.",
+          "Assetjament vertical ascendent.",
+          "Assetjament horitzontal.",
+          "Assetjament diagonal transversal."
+        ],
+        "respuestaCorrecta": "Assetjament diagonal transversal."
+      },
+      {
+        "id": "4.1.20",
+        "enunciado": "Quins dels seguents no és un deure dels treballadors en matèria de prevenció?",
+        "respuestas": [
+          "Conèixer i complir les normes internes establertes i, qualsevol cas, actuar de conformitat amb les instruccions rebudes dels seus superiors i del coneixement professional de l'ofici.",
+          "Informar immediatament del seu superior jeràrquic directe sobre qualsevol situació, que al seu judici, suposi un risc per la seguretat i salut dels treballadors.",
+          "Cooperar en l'extinció de sinistres i en el salvament de víctimes d'accidents de treball.",
+          "Assistir a cursos de formació general o específica en matèria de prevenció de riscos laborals organitzats per l'empresa fora de l'horari laboral."
+        ],
+        "respuestaCorrecta": "Assistir a cursos de formació general o específica en matèria de prevenció de riscos laborals organitzats per l'empresa fora de l'horari laboral."
+      },
+      {
+        "id": "4.1.21",
+        "enunciado": "Quin és l'àmbit d'aplicació del protocol contra l'assetjament de la Generalitat?",
+        "respuestas": [
+          "El constitueixen tots els empleats i empleades públics sigui quina sigui la funció que hi desenvolupen i sigui quin sigui el seu nivell jeràrquic.",
+          "El constitueixen tots els empleats i empleades públics si són funcionaris de carrera o interins, només, i sigui quin sigui el seu nivell jeràrquic.",
+          "El constitueixen tots els empleats i empleades públics sigui quina sigui la funció que hi desenvolupen i sense incloure el personal polític o directiu.",
+          "El constitueixen tots els empleats i empleades públics sigui quina sigui la funció que hi desenvolupen i sense incloure el personal politic"
+        ],
+        "respuestaCorrecta": "El constitueixen tots els empleats i empleades públics sigui quina sigui la funció que hi desenvolupen i sigui quin sigui el seu nivell jeràrquic."
+      },
+      {
+        "id": "4.1.22",
+        "enunciado": "Digues dins els principis generals de l'acció preventiva en primer lloc cal:",
+        "respuestas": [
+          "Proporcionar mesures de protecció individual als treballadors/res.",
+          "Evitar els riscos.",
+          "Adaptar la persona a la feina.",
+          "Atendre víctimes."
+        ],
+        "respuestaCorrecta": "Evitar els riscos."
+      },
+      {
+        "id": "4.1.23",
+        "enunciado": "Al seu departament treballen 700 persones, digues si és obligatòria l'existència d'un servei de prevenció propi?:",
+        "respuestas": [
+          "Sí",
+          "No, en cap cas.",
+          "És opcional, només és obligatòria en centres de treball d'alta perillositat i amb més de 500 treballadors.",
+          "És opcional, només és obligatòria en centres de treball d'alta perillositat sigui quin sigui el nombre de treballadors."
+        ],
+        "respuestaCorrecta": "Sí"
+      },
+      {
+        "id": "4.1.24",
+        "enunciado": "Quan és obligatori que una empresa o administració disposi de servei de prevenció propi?",
+        "respuestas": [
+          "Quan es tracti d'empreses de més de 200 treballadors que realitzin una activitat de les relacionades a l'Annex I del Reial Decret 39/1997: treballs amb exposició a radiacions ionitzants, agents tòxics, productes químics d'alt risc, treballs amb exposició a agents biològics, activitats on s'utilitzin explosius, mines, immersió sota l'aigua, construcció, siderúrgia, producció de gasos comprimits, treballs que produeixin concentracions elevades de pols de silici o treballs amb riscos elèctrics d'alta tensió.",
+          "Quan l'empresa tingui més de 500 treballadors independentment del tipus d'empresa o administració segur que haurà de tenir servei de prevenció propi.",
+          "Mai és obligatori, sempre serà opcional disposar d'un servei de prevenció propi.",
+          "Quan l'empresa tingui més de 100 treballadors."
+        ],
+        "respuestaCorrecta": "Quan l'empresa tingui més de 500 treballadors independentment del tipus d'empresa o administració segur que haurà de tenir servei de prevenció propi."
+      },
+      {
+        "id": "4.1.25",
+        "enunciado": "És fals respecte de les competències dels Delegats de Prevenció:",
+        "respuestas": [
+          "Han de col-laborar amb la direcció de l'empresa en la millora de l'acció preventiva.",
+          "Han de ser consultats per l'empresari en relació als temes de seguretat i salut.",
+          "Han de realitzar petites tasques de manteniment relacionades amb la seguretat i salut.",
+          "No han de realitzar petites tasques de manteniment relacionades amb la seguretat i salut."
+        ],
+        "respuestaCorrecta": "Han de realitzar petites tasques de manteniment relacionades amb la seguretat i salut."
+      }
+    ]
+  },        
+  {
+    "tema": "Tema 5.1",
+    "preguntas": [
+      {
+        "id": "5.1.1",
+        "enunciado": "La violència vicària, consisteix en:",
+        "respuestas": [
+          "Enla violència física o psicològica, les represàlies, les humiliacions i la persecució exercides contra les persones que donen suport a les victimes de violència masclista. Inclou els actes que impedeixen la prevenció, la detecció, l'atenció i la recuperació de les dones en situació de violència masclista.",
+          "En la privació intencionada i no justificada de recursos per al benestar físic o psicològic d'una dona i, si escau, de llurs fills o filles, en l'impagament reiterat i injustificat de pensions alimentàries estipulades en cas de separació o divorci, en el fet d'obstaculitzar la disposició dels recursos propis o compartits en l'àmbit familiar o de parella i en l'apropiació il.legitima de béns de la dona.",
+          "En qualsevol tipus de violència exercida contra els fills i filles amb la finalitat de provocar dany psicològic a la mare o el pare.",
+          "En qualsevol tipus de violència exercida contra els fills i filles amb la finalitat de provocar dany psicològic a la mare. "
+        ],
+        "respuestaCorrecta": "En qualsevol tipus de violència exercida contra els fills i filles amb la finalitat de provocar dany psicològic a la mare. "
+      },
+      {
+        "id": "5.1.2",
+        "enunciado": "El llenguatge no sexista ha de prioritzar:",
+        "respuestas": [
+          "Ús preferent del masculí. ",
+          "Ús preferent del femení. ",
+          "Ús preferent de la fórmula -is, com totis. ",
+          "Ús preferent de formes neutres de llenguatge. "
+        ],
+        "respuestaCorrecta": "Ús preferent de formes neutres de llenguatge. "
+      },
+      {
+        "id": "5.1.3",
+        "enunciado": "La llei d'igualtat efectiva de la Generalitat és: ",
+        "respuestas": [
+          "5/2008",
+          "8/2005",
+          "17/2015",
+          "15/2017"
+        ],
+        "respuestaCorrecta": "17/2015"
+      },
+      {
+        "id": "5.1.4",
+        "enunciado": "Les garanties que la llei d'erradicació de la violència estableix, a quines dones s'aplica?",
+        "respuestas": [
+          "Les espanyoles. ",
+          "Les espanyoles que estiguin a Catalunya. ",
+          "A totes les dones que estiguin a Catalunya. ",
+          "Les catalanes. "
+        ],
+        "respuestaCorrecta": "A totes les dones que estiguin a Catalunya. "
+      },
+      {
+        "id": "5.1.5",
+        "enunciado": "A que ens referim amb aquesta definició: Donar suport a les dones en el procés pel qual enforteixen llur potencial i autonomia, coneixen millor llurs capacitats i participen activament en la superació dels obstacles que són a la base de la infravaloració que han patit històricament",
+        "respuestas": [
+          "Democràcia paritària. ",
+          "Apoderament de les dones. ",
+          "Democràcia representativa. ",
+          "Ferspectiva de gènere. "
+        ],
+        "respuestaCorrecta": "Apoderament de les dones. "
+      },
+      {
+        "id": "5.1.6",
+        "enunciado": "Es correspon amb qualsevol comportament verbal, no verbal o físic, de naturalesa sexual, que s'exerceix amb el propòsit o l'efecte d'atemptar contra la dignitat d'una persona, especialment si li crea un entorn intimidador, hostil, degradant, humiliant o ofensiu: ",
+        "respuestas": [
+          "Assetjament per raó de sexe. ",
+          "Assetjament sexual. ",
+          "Discriminació múltiple. ",
+          "Discriminació directa. "
+        ],
+        "respuestaCorrecta": "Assetjament sexual. "
+      },
+      {
+        "id": "5.1.7",
+        "enunciado": "En la llei 5/2008, el dret de les dones a erradicar la violència masclista, s'entén per sensibilització: ",
+        "respuestas": [
+          "El conjunt d'accions educatives, pedagògiques i comunicatives encaminades a generar canvis i modificacions en l'imaginari social que permetin avançar cap a l'erradicació de la violència masclista. ",
+          "El conjunt d'accions encaminades a evitar o reduir la incidència de la problemàtica de la violència masclista per mitjà de la reducció dels factors de risc, i impedir-ne així la normalització, iles encaminades a sensibilitzar la ciutadania en el sentit que cap forma ni manifestació de violència no és justificable ni tolerable. ",
+          "La posada en funcionament de diferents instruments teòrics i tècnics que permetin identificar i fer visible la problemàtica de la violència masclista, tant si apareix de forma esporàdica com de forma estable, i que permetin també conèixer les situacions en les quals s'ha d'intervenir, per tal d'evitar-ne el desenvolupament i la cronicita. ",
+          "El conjunt d'accions destinades a una persona perquè pugui superar les situacions i les consequiències generades per la violència masclista en els àmbits personal, familiar, laboral i social, tot garantint-ne la seguretat i facilitant-li la informació necessària sobre els recursos i els procediments. "
+        ],
+        "respuestaCorrecta": "El conjunt d'accions educatives, pedagògiques i comunicatives encaminades a generar canvis i modificacions en l'imaginari social que permetin avançar cap a l'erradicació de la violència masclista. "
+      },
+      {
+        "id": "5.1.8",
+        "enunciado": "Es garanteixen els drets de la llei 5/2008:",
+        "respuestas": [
+          "Qualsevol acte de força contra el cos d'una dona, amb el resultat o el risc de produir-li una lesió física o un dany.",
+          "Tota conducta o omissió que produeix en una dona una desvaloració o un patiment, per d'amenaces, humiliació, vexacions, menysteniment, menyspreu, exigència d'obediència o submissió, coerció verbal, insults, aillament o qualsevol altra limitació del seu àmbit de llibertat. ",
+          "Qualsevol acte que atempti contra la llibertat sexual i la dignitat personal de la dona creant condicions o aprofitant-se d'un context que, directament a indirectament, imposin una pràctica sexual sense tenir el consentiment ni la voluntat de la dona, amb independència del vincle que hi hagi entre dona i agressor. ",
+          "Consisteix en la privació intencionada i no justificada de recursos per al benestar físic o psicològic d'una dona i, si escau, de llurs fills o filles, en l'impagament reiterat i injustificat de pensions alimentàries estipulades en cas de separació o divorci, en el fet d'obstaculitzar la disposició dels recursos propis o compartits en l'àmbit familiar o de parella i en l'apropiació il'legitima de béns de la dona. "
+        ],
+        "respuestaCorrecta": "Qualsevol acte de força contra el cos d'una dona, amb el resultat o el risc de produir-li una lesió física o un dany."
+      },
+      {
+        "id": "5.1.9",
+        "enunciado": "Les garanties que la llei d'erradicació de la violència estableix, a quines dones s'aplica?",
+        "respuestas": [
+          "Totes les dones que es troben en situacions de violència masclista, però no llurs fills i filles dependents, que visquin o treballin a Catalunya i amb independència del veinatge civil, la nacionalitat o la situació administrativa i personal. ",
+          "Totes les dones que es troben en situacions de violència masclista, i també llurs filles dependents, però no fills, que visquin o treballin a Catalunya i amb independència del veinatge civil, la nacionalitat o la situació administrativa i personal. ",
+          "Totes les dones que es troben en situacions de violència masclista, i també llurs fills i filles dependents, que visquin a Catalunya i amb independència del veinatge civil, la nacionalitat o la situació administrativa i personal. ",
+          "Totes les dones que es troben en situacions de violència masclista, i també llurs fills i filles dependents, que visquin o treballin a Catalunya i amb independència del veinatge civil, la nacionalitat o la situació administrativa i personal. "
+        ],
+        "respuestaCorrecta": "Totes les dones que es troben en situacions de violència masclista, i també llurs fills i filles dependents, que visquin o treballin a Catalunya i amb independència del veinatge civil, la nacionalitat o la situació administrativa i personal. "
+      },
+      {
+        "id": "5.1.10",
+        "enunciado": "Que definim a la seguent afirmació: situació discriminatòria creada per disposició, criteri, interpretació o pràctica pretesament neutres que poden causar perjudici més gran a les persones d'un dels sexes",
+        "respuestas": [
+          "Discriminació directa. ",
+          "Discriminació indirecta. ",
+          "Assetjament per raó de sexe. ",
+          "Assetjament sexual. "
+        ],
+        "respuestaCorrecta": "Discriminació indirecta. "
+      },
+      {
+        "id": "5.1.11",
+        "enunciado": "La Violència en l'àmbit familiar, consisteix: ",
+        "respuestas": [
+          "En la violència física, psicològica, digital, sexual o econòmica exercida contra una dona i perpetrada per l'home que n'és o n'ha estat el cònjuge o per la persona que hi té o hi ha tingut relacions similars d'afectivitat. ",
+          "En tot tracte desfavorable a les dones relacionat amb l'embaràs o la maternitat, existent o potencial, que comporti una discriminació directa i una vulneració dels drets fonamentals a la salut, a la integritat física i moral i al treball. ",
+          "Ús de la violència física i sexual contra les dones determinada per l'ús premeditat del sexe com a arma per a demostrar poder i abusar-ne. ",
+          "En la violència física, digital, sexual, psicològica a econòmica exercida contra les dones i els menors d'edat en el si de la familia i perpetrada per membres de la mateixa familia a per membres del nucli de convivència, en el marc de les relacions afectives i dels lligams de l'entorn familiar. Inclou els matrimonis forçats. No inclou la violència exercida en l'àmbit de la parella. "
+        ],
+        "respuestaCorrecta": "En la violència física, digital, sexual, psicològica a econòmica exercida contra les dones i els menors d'edat en el si de la familia i perpetrada per membres de la mateixa familia a per membres del nucli de convivència, en el marc de les relacions afectives i dels lligams de l'entorn familiar. Inclou els matrimonis forçats. No inclou la violència exercida en l'àmbit de la parella. "
+      },
+      {
+        "id": "5.1.12",
+        "enunciado": "No són principis orientadors dels poders públics de la llei del dret de les dones a eradicar la violència masclista: ",
+        "respuestas": [ 
+          "La consideració del caràcter no integral de les mesures, que han de tenir en compte tots els danys que les dones, els menors i les menors pateixen com a consequència de la violència masclista, també els danys socials i econòmics, i els efectes d'aquesta violència en la comunitat. ",
+          "La transversalitat de les mesures, de manera que cada poder públic implicat ha de definir accions especifiques des del seu àmbit d'intervenció, d'acord amb models d'intervenció globals, en el marc dels programes quadriennals d'intervenció integral contra la violència masclista a Catalunya. ",
+          "La deguda consideració de les particularitats territorials, culturals, religioses, personals, socioeconòmiques i sexuals de la diversitat de les dones en situació de violència masclista, i també llurs necessitats especifiques, amb el benentès que cap particularitat no justifica la vulneració dels drets fonamentals de les dones.",
+          "La proximitat i l'equilibri de les intervencions en el territori, amb una atenció específica en les zones rurals. "
+        ],
+        "respuestaCorrecta": "La consideració del caràcter no integral de les mesures, que han de tenir en compte tots els danys que les dones, els menors i les menors pateixen com a consequència de la violència masclista, també els danys socials i econòmics, i els efectes d'aquesta violència en la comunitat. "
+      },
+      {
+        "id": "5.1.13",
+        "enunciado": "Distribució justa de drets, beneficis, obligacions, oportunitats i recursos sobre la base del reconeixement i respecte de la diferència de dones i homes, que està definint? ",
+        "respuestas": [
+          "Equitat de gènere",
+          "Igualtat de gènere",
+          "Perspectiva de gènere",
+          "Representació paritària."
+        ],
+        "respuestaCorrecta": "Equitat de gènere"
+      },
+      {
+        "id": "5.1.14",
+        "enunciado": "Històricament, la societat ha estat: ",
+        "respuestas": [
+          "Igualitària",
+          "Equitativa",
+          "Patriarcal",
+          "Social"
+        ],
+        "respuestaCorrecta": "Patriarcal"
+      },
+      {
+        "id": "5.1.15",
+        "enunciado": "Quina institució ha aprovat la llei del 2015 d'igualtat efectiva entre dones i homes? ",
+        "respuestas": [
+          "Govern de la Generalitat. ",
+          "Parlament de Catalunya. ",
+          "Govern de l'Estat.",
+          "Les Corts generals. "
+        ],
+        "respuestaCorrecta": "Parlament de Catalunya. "
+      },
+      {
+        "id": "5.1.16",
+        "enunciado": "S'entén per Treball domèstic i de cura de persones: ",
+        "respuestas": [
+          "Conjunt d'activitats remunerades relacionades amb treball domèstic ji atenció i cura dels membres de la familia.",
+          "Conjunt d'activitats no remunerades relacionades amb treball domèstic i atenció i cura dels membres de la familia. ",
+          "Conjunt d'activitats remunerades que produeixen béns i serveis en el mercat laboral.",
+          "Fresa en consideració de les diferències entre dones i homes en un àmbit o una activitat per l'anàlisi, planificació, disseny i execució de politiques, tenint en compte la manera en què les diverses actuacions, situacions i necessitats afecten les dones. Fermet visualitzar dones i homes en llur dimensió biològica, psicològica, històrica, Social i cultural, i trobar linies de reflexió i d'actuació per eradicar les desigualtats. "
+        ],
+        "respuestaCorrecta": "Conjunt d'activitats no remunerades relacionades amb treball domèstic i atenció i cura dels membres de la familia. "
+      },
+      {
+        "id": "5.1.17",
+        "enunciado": "Recuperació, a la llei 5/2008 és: ",
+        "respuestas": [
+          "El conjunt de mesures jurídiques, econòmiques, socials, laborals, sanitàries, educatives i similars, preses pels diversos organismes i agents responsables de la intervenció en l'àmbit de la violència masclista, que contribueixen al restabliment de tats els àmbits danyats per la situació viscuda, garantint l'acompanyament i l'assessorament necessaris. ",
+          "El procés de desvictimització en els àmbits afectats, realitzat per les mateixes dones i llurs fills i filles. Aquest procés comporta un cicle vital personal i social de la dona centrat en el restabliment de tots els àmbits danyats per la situació de violència masclista viscuda. ",
+          "Conjunt d'accions destinades a una persona perquè pugui superar les situacions i les consequències generades per la violència masclista en els àmbits personal, familiar, laboral i social, tot garantint-ne la seguretat i facilitant-li la informació necessària sobre els recursos i els procediments. ",
+          "La posada en funcionament de diferents instruments teòrics i tècnics que permetin identificar i fer visible la problemàtica de la violència masclista, tant si apareix de forma esporàdica com de forma estable, i que permetin també conèixer les situacions en les quals s'ha d'intervenir, per tal d'evitar-ne el desenvolupament i la cronicitat. "
+        ],
+        "respuestaCorrecta": "El procés de desvictimització en els àmbits afectats, realitzat per les mateixes dones i llurs fills i filles. Aquest procés comporta un cicle vital personal i social de la dona centrat en el restabliment de tots els àmbits danyats per la situació de violència masclista viscuda. "
+      },
+      {
+        "id": "5.1.18",
+        "enunciado": "En quin article de la Constitució s'estableix la igualtat davant la llei i la no discriminació, entre altres, per raó de sexe? ",
+        "respuestas": [
+          "1",
+          "11",
+          "15",
+          "14"
+        ],
+        "respuestaCorrecta": "14"
+      },
+      {
+        "id": "5.1.19",
+        "enunciado": "No forma part de violència en l'àmbit social o comunitari: ",
+        "respuestas": [
+          "Agressions sexuals. ",
+          "Tràfic de dones. ",
+          "Violència contra els drets sexuals. ",
+          "Violència en l'ambit de la parella. "
+        ],
+        "respuestaCorrecta": "Violència en l'ambit de la parella. "
+      },
+      {
+        "id": "5.1.20",
+        "enunciado": "La llei del dret de les dones a erradicar la violència masclista és? ",
+        "respuestas": [
+          "5/2008",
+          "8/2005",
+          "17/2015",
+          "15/2017"
+        ],
+        "respuestaCorrecta": "5/2008"
+      },
+      {
+        "id": "5.1.21",
+        "enunciado": "Els assassinats i homicidis de dones per raó de gènere, les induccions al suicidi i els suicidis com a consequència de la pressió i violència exercida cap a la dona, es considera. ",
+        "respuestas": [
+          "Agressions per raó de gènere. ",
+          "Violència contra els drets sexuals. ",
+          "Feminicidis. ",
+          "Vexacions. "
+        ],
+        "respuestaCorrecta": "Feminicidis. "
+      },
+      {
+        "id": "5.1.22",
+        "enunciado": "Situació que garanteix presència de dones i homes que no superi el 60% del conjunt de persones ni inferior al 40%, i que ha de tendir a assolir el 50% de persones de cada sexe, que estem definint? ",
+        "respuestas": [
+          "Equitat de gènere",
+          "Igualtat de gènere",
+          "Perspectiva de gènere",
+          "Representació paritària."
+        ],
+        "respuestaCorrecta": "Representació paritària."
+      },
+      {
+        "id": "5.1.23",
+        "enunciado": "Les imatges simplificades que atribueixen rols fixats sobre els comportaments pretesament scorrectesz: o normals: de les persones en un context determinat en funció del sexe al qual pertanyen, serien: ",
+        "respuestas": [
+          "Estereotips de gènere. ",
+          "Perspectiva de gènere. ",
+          "Igualtat de gènere.",
+          "Discriminació directa. "
+        ],
+        "respuestaCorrecta": "Estereotips de gènere. "
+      },
+      {
+        "id": "5.1.24",
+        "enunciado": "Acció educadora que potencia la igualtat real d'oportunitats i valora indistintament experiència, aptituds i aportació social i cultural de dones i homes, en igualtat de drets, sense estereotips sexistes, homofòbics, bifòbics, transfòbics o androcèntrics ni actituds discriminatòries per raó de sexe, orientació sexual, identitat de gènere o expressió de gènere, estem parlant de:",
+        "respuestas": [
+          "Equitat de gènere",
+          "Igualtat de gènere",
+          "Perspectiva de gènere",
+          "Coeducació"
+        ],
+        "respuestaCorrecta": "Coeducació"
+      },
+      {
+        "id": "5.1.25",
+        "enunciado": "Situació que garanteix presència de dones i homes que no superi el 60% del conjunt de persones ni inferior al 40%, i que ha de tendir a assolir el 50% de persones de cada sexe, és la definició de: ",
+        "respuestas": [
+          "Transversalitat de la perspectiva de gènere. ",
+          "Erradicació de la violència masclista, ",
+          "Apoderament de les dones. ",
+          "Justícia iqualitària. "
+        ],
+        "respuestaCorrecta": "Justícia iqualitària. "
+      }
+    ]
+  },        
   {
     "tema": "Tema 6",
     "preguntas": [

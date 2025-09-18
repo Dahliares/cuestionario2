@@ -291,7 +291,18 @@
                 "145 mm. d.c.Hg."
             ],
             "respuestaCorrecta": "300 mm. d.c.Hg."
+        },
+ {
+            "id": "30",
+            "enunciado": "Quins són els diàmetres més freqüents de canonada de ferro, de menor a major, definits en funció del diàmetre de l'exterior:",
+            "respuestas": [
+                "⌀¼, ⌀½, ⌀⁵⁄₈, ⌀³⁄₈, ⌀1, ⌀1¼, ⌀1½, ⌀1¾, ⌀2, ⌀2¼, ⌀3, ⌀4, ⌀5",
+                "⌀13 mm, ⌀15 mm, ⌀18 mm, ⌀22 mm, ⌀28 mm, ⌀35 mm, ⌀42 mm",
+                "⌀¼, ⌀³⁄₈, ⌀½, ⌀¾, ⌀1, ⌀1¼, ⌀1½, ⌀2, ⌀2½, ⌀3, ⌀4, ⌀5"
+            ],
+            "respuestaCorrecta": "⌀¼, ⌀³⁄₈, ⌀½, ⌀¾, ⌀1, ⌀1¼, ⌀1½, ⌀2, ⌀2½, ⌀3, ⌀4, ⌀5"
         }
+
     ]
 },
      
@@ -312,3 +323,4 @@
     ]
   }
 ]
+

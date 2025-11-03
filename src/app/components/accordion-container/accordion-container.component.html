@@ -1,5 +1,5 @@
-<h1>Tests mecánico</h1>
+<h1>Examen Octubre 2025</h1>
 
 <div class="accordion" *ngFor="let tema of temas">
-  <app-accordion title={{tema.tema}}> <app-cuestionario [questions]="tema.preguntas"> </app-cuestionario></app-accordion>
+  <app-accordion title={{tema.tema}}> <app-cuestionario [questions]="tema.preguntas" [enunciadoTema]="tema.enunciadoTema"> </app-cuestionario></app-accordion>
 </div>

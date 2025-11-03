@@ -9,7 +9,7 @@ import { Tema } from '../models/tema.model';
 })
 export class DataService {
 
-  private apiUrl = 'assets/data/questions.json'; // Ajusta la URL de tu API o ruta local
+  private apiUrl = 'assets/data/examen.json'; // Ajusta la URL de tu API o ruta local
 
   constructor(private http: HttpClient) {}
 

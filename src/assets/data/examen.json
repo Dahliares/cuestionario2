@@ -1,0 +1,911 @@
+[ {
+    "tema": "Test de Coneixements",
+    "preguntas": [
+      {
+        "id": "1",
+        "enunciado": "Per què és important la circumferència primitiva en el funcionament d'un engranatge?",
+        "respuestas": [
+          "És important perquè és la base per al càlcul del moviment i la transmissió entre engranatges",
+          "És important perquè determina la resistència del material de l'engranatge",
+          "És important perquè defineix la forma de les dents d'un engranatge",
+          "És important perquè indica la longitud total de la cadena"
+        ],
+        "respuestaCorrecta": "És important perquè és la base per al càlcul del moviment i la transmissió entre engranatges"
+      },
+      {
+        "id": "2",
+        "enunciado": "Què és una vàlvula 5/2 en pneumàtica?",
+        "respuestas": [
+          "Una vàlvula amb 5 actuadors i 2 sensors",
+          "Una vàlvula de 5 vies i 2 posicions",
+          "Una vàlvula d'aigua amb 5 sortides",
+          "Una vàlvula d'aire per soldadura"
+        ],
+        "respuestaCorrecta": "Una vàlvula de 5 vies i 2 posicions"
+      },
+      {
+        "id": "3",
+        "enunciado": "Quin efecte té la polaritat inversa en la soldadura amb elèctrode revestit?",
+        "respuestas": [
+          "Genera més calor a l'elèctrode",
+          "És la millor opció per soldar materials gruixuts",
+          "Produeix un arc més suau i menys penetrant, ideal per a metalls prims",
+          "Produeix una major penetració i escalfa més la peça de treball"
+        ],
+        "respuestaCorrecta": "Produeix una major penetració i escalfa més la peça de treball"
+      },
+      {
+        "id": "4",
+        "enunciado": "Quina propietat mecànica indica la capacitat d'un material per absorbir energia abans de trencar-se, especialment sota condicions de xoc?",
+        "respuestas": [
+          "Duresa",
+          "Tenacitat",
+          "Rigidesa",
+          "Elasticitat"
+        ],
+        "respuestaCorrecta": "Tenacitat"
+      },
+      {
+        "id": "5",
+        "enunciado": "Quines conseqüències pot tenir una alineació incorrecta d'eixos en un sistema mecànic muntat?",
+        "respuestas": [
+          "Vibracions, desgast prematur i avaries",
+          "Reducció de la fricció, vibracions i desgast prematur",
+          "Increment de la precisió, avaries i vibracions",
+          "Millor refrigeració, desgast prematur i avaries"
+        ],
+        "respuestaCorrecta": "Vibracions, desgast prematur i avaries"
+      },
+      {
+        "id": "6",
+        "enunciado": "Quin és el principal risc de soldar en espais tancats?",
+        "respuestas": [
+          "Fuita de gas",
+          "Calibre de la gola",
+          "Soroll d'alta freqüència",
+          "Inhalacions de gasos tòxics"
+        ],
+        "respuestaCorrecta": "Inhalacions de gasos tòxics"
+      },
+      {
+        "id": "7",
+        "enunciado": "Quins són els valors de l'Institut Català de la Salut?",
+        "respuestas": [
+          "La competència, el compromís, la lleialtat, la participació i la innovació",
+          "La competència, el compromís, l'equitat, els beneficis, la innovació i la transparència",
+          "La competència, el compromís, l'equitat, la participació, la innovació i la transparència",
+          "La competència, la rapidesa, la lleialtat, els beneficis i la transparència"
+        ],
+        "respuestaCorrecta": "La competència, el compromís, l'equitat, la participació, la innovació i la transparència"
+      },
+      {
+        "id": "8",
+        "enunciado": "Quin sistema d'unitats és l'estàndard actual acceptat en fabricació mecànica?",
+        "respuestas": [
+          "Sistema imperial",
+          "Sistema cegesimal",
+          "Sistema internacional",
+          "Sistema mètric decimal"
+        ],
+        "respuestaCorrecta": "Sistema internacional"
+      },
+      {
+        "id": "9",
+        "enunciado": "Quina és la principal diferència entre la polaritat directa i la polaritat inversa (DCEP) en la soldadura amb elèctrode revestit?",
+        "respuestas": [
+          "La polaritat inversa utilitza l'elèctrode com a pol positiu i la peça de treball com a pol negatiu",
+          "La polaritat inversa utilitza l'elèctrode com a pol negatiu i la peça de treball com a pol positiu",
+          "La polaritat directa augmenta la penetració de l'arc i la polaritat inversa la redueix",
+          "La polaritat inversa és més adequada per a soldadures amb alta temperatura"
+        ],
+        "respuestaCorrecta": "La polaritat inversa utilitza l'elèctrode com a pol negatiu i la peça de treball com a pol positiu"
+      },
+      {
+        "id": "10",
+        "enunciado": "Quina d'aquestes accions contribueix a millorar l'eficiència energètica d'un sistema automatitzat?",
+        "respuestas": [
+          "Augmentar la potència dels motors",
+          "Treballar sempre al 100% de la capacitat",
+          "Implementar variadors de freqüència en els motors",
+          "Substituir sensors per sistemes manuals"
+        ],
+        "respuestaCorrecta": "Implementar variadors de freqüència en els motors"
+      },
+      {
+        "id": "11",
+        "enunciado": "Durant el muntatge d'un conjunt mecànic, què cal fer primer per garantir l'alineació dels elements mòbils?",
+        "respuestas": [
+          "Lubricar totes les superfícies",
+          "Muntar els suports secundaris",
+          "Fer una prova de vibració",
+          "Comprovar les cotes i la geometria amb aparells de mesura"
+        ],
+        "respuestaCorrecta": "Comprovar les cotes i la geometria amb aparells de mesura"
+      },
+      {
+        "id": "12",
+        "enunciado": "Segons el II Acord de la Mesa Sectorial de Negociació de Sanitat sobre les condicions de treball del personal estatutari de l'ICS, quin mínim d'anys de temps de serveis prestats s'ha d'acreditar per accedir al nivell 3 de carrera professional?",
+        "respuestas": [
+          "15 anys",
+          "16 anys",
+          "17 anys",
+          "18 anys"
+        ],
+        "respuestaCorrecta": "18 anys"
+      },
+      {
+        "id": "13",
+        "enunciado": "Quin dels exemples següents descriu un accident de treball in itinere?",
+        "respuestas": [
+          "Un treballador/a que es lesions mentre utilitza maquinària durant la seva jornada laboral",
+          "Un treballador/a que es lesions mentre es desplaça cap al seu lloc de treball",
+          "Un treballador/a que pateix un accident durant una pausa per al cafè",
+          "Un treballador/a que es lesions durant la capacitació obligatòria"
+        ],
+        "respuestaCorrecta": "Un treballador/a que es lesions mentre es desplaça cap al seu lloc de treball"
+      },
+      {
+        "id": "14",
+        "enunciado": "Quina és la funció d'un codificador (encoder) en un sistema automatitzat?",
+        "respuestas": [
+          "Regular la pressió de l'aire comprimit",
+          "Convertir corrent altern en continu",
+          "Refredar el motor de l'eix principal",
+          "Generar impulsos per mesurar la posició o velocitat"
+        ],
+        "respuestaCorrecta": "Generar impulsos per mesurar la posició o velocitat"
+      },
+      {
+        "id": "15",
+        "enunciado": "En què consisteix la tècnica de soldadura per capes en soldadura oxiacetilènica?",
+        "respuestas": [
+          "Soldar en dues passades simultànies amb dues forxes",
+          "Fer diverses passades superposades per millorar resistència i acabat",
+          "Aportar metall per acumulació lateral, sense fondre el material base",
+          "Soldar només la superfície externa sense penetració"
+        ],
+        "respuestaCorrecta": "Fer diverses passades superposades per millorar resistència i acabat"
+      },
+      {
+        "id": "16",
+        "enunciado": "Quina és la funció principal d'un goniòmetre?",
+        "respuestas": [
+          "Mesurar el pes d'un cos",
+          "Calcular el volum d'un objecte",
+          "Estimar la resistència d'un material",
+          "Mesurar angles amb precisió"
+        ],
+        "respuestaCorrecta": "Mesurar angles amb precisió"
+      },
+      {
+        "id": "17",
+        "enunciado": "En un sistema automatitzat, quin element s'encarrega de transformar un senyal elèctric en moviment lineal?",
+        "respuestas": [
+          "Cilindre pneumàtic",
+          "Sensor inductiu",
+          "Relé de potència",
+          "Final de carrera"
+        ],
+        "respuestaCorrecta": "Cilindre pneumàtic"
+      },
+      {
+        "id": "18",
+        "enunciado": "En fabricació mecànica, quina és la unitat bàsica de longitud en l'estàndard de mesura actual?",
+        "respuestas": [
+          "Polzada",
+          "Mil·límetre",
+          "Centímetre",
+          "Metre"
+        ],
+        "respuestaCorrecta": "Metre"
+      },
+      {
+        "id": "19",
+        "enunciado": "En sistemes automatitzats amb actuadors pneumàtics, quin paràmetre cal ajustar per evitar cops de final de carrera?",
+        "respuestas": [
+          "L'alçada de muntatge del cilindre",
+          "La velocitat de rotació del compressor",
+          "El cabal de sortida mitjançant vàlvules de regulació de flux",
+          "La longitud total del tub"
+        ],
+        "respuestaCorrecta": "El cabal de sortida mitjançant vàlvules de regulació de flux"
+      },
+      {
+        "id": "20",
+        "enunciado": "En la classificació d'elèctrodes revestits, què significa el nombre '70' a l'elèctrode E7018?",
+        "respuestas": [
+          "La quantitat de recobriment present a l'elèctrode",
+          "La resistència mínima a la tracció de 700 MPa",
+          "La resistència a l'impacte en condicions específiques",
+          "La classificació segons el tipus de material a soldar"
+        ],
+        "respuestaCorrecta": "La resistència mínima a la tracció de 700 MPa"
+      },
+      {
+        "id": "21",
+        "enunciado": "Quina característica distingeix les rosques Whitworth de les mètriques ISO?",
+        "respuestas": [
+          "L'ús del sistema decimal",
+          "El pas variable",
+          "L'angle del filet de 55°",
+          "El sentit de gir invers"
+        ],
+        "respuestaCorrecta": "L'angle del filet de 55°"
+      },
+      {
+        "id": "22",
+        "enunciado": "Quina extensió correspon a una plantilla de Microsoft Word?",
+        "respuestas": [
+          ".dotx",
+          ".docx",
+          ".wocx",
+          ".wotx"
+        ],
+        "respuestaCorrecta": ".dotx"
+      },
+      {
+        "id": "23",
+        "enunciado": "Quina pràctica contribueix a la prevenció de la contaminació de sòls a les zones de manteniment de maquinària?",
+        "respuestas": [
+          "Utilitzar detergent convencional",
+          "Fer ús de plataformes amb cubeta de retenció",
+          "Tenir ventilació natural",
+          "Rentar les peces a l'aire lliure"
+        ],
+        "respuestaCorrecta": "Fer ús de plataformes amb cubeta de retenció"
+      },
+      {
+        "id": "24",
+        "enunciado": "Quina és una limitació clau dels sensors inductius dins d'un sistema automatitzat?",
+        "respuestas": [
+          "No poden funcionar en entorns amb altes temperatures",
+          "Calen PLC de gamma alta per fer-los funcionar",
+          "Només detecten materials metàl·lics",
+          "No es poden utilitzar amb PLC"
+        ],
+        "respuestaCorrecta": "Només detecten materials metàl·lics"
+      },
+      {
+        "id": "25",
+        "enunciado": "Quina norma regula la qualificació de soldadors i la soldadura per fusió?",
+        "respuestas": [
+          "Norma UNE-EN 12345",
+          "Norma ISO A1972",
+          "Norma ISO C14001",
+          "Norma UNE-EN ISO 9606-1"
+        ],
+        "respuestaCorrecta": "Norma UNE-EN ISO 9606-1"
+      },
+      {
+        "id": "26",
+        "enunciado": "Què és la circumferència primitiva en un engranatge?",
+        "respuestas": [
+          "La circumferència que passa pel peu de les dents",
+          "La circumferència exterior de les dents",
+          "La circumferència teòrica on es produeix el contacte entre dos engranatges",
+          "La circumferència del centre de rotació"
+        ],
+        "respuestaCorrecta": "La circumferència teòrica on es produeix el contacte entre dos engranatges"
+      },
+      {
+        "id": "27",
+        "enunciado": "Quina és la funció principal d'un relé de seguretat?",
+        "respuestas": [
+          "Garantir la parada de la màquina",
+          "Evitar curticircuits",
+          "Reduir el consum d'energia",
+          "Millorar la resposta de sensors"
+        ],
+        "respuestaCorrecta": "Garantir la parada de la màquina"
+      },
+      {
+        "id": "28",
+        "enunciado": "Segons la norma UNE-EN ISO 2560:2021, què indica el primer digit de la classificació d'un elèctrode revestit?",
+        "respuestas": [
+          "El tipus de material base per al qual és adient l'elèctrode",
+          "El corrent recomanat per a la soldadura",
+          "La resistència mínima a la tracció del material",
+          "El diàmetre de l'elèctrode"
+        ],
+        "respuestaCorrecta": "La resistència mínima a la tracció del material"
+      },
+      {
+        "id": "29",
+        "enunciado": "Quina és la principal diferència entre les categories dels equips de protecció individual?",
+        "respuestas": [
+          "La diferència radica en el material amb què estan fabricats",
+          "Depèn del tipus de perill que protegeixen i el nivell de risc",
+          "Es classifiquen segons el seu preu i disponibilitat",
+          "Es divideixen segons la durabilitat de l'equip"
+        ],
+        "respuestaCorrecta": "Depèn del tipus de perill que protegeixen i el nivell de risc"
+      },
+      {
+        "id": "30",
+        "enunciado": "Quina NO és una finalitat de la Llei 17/2015, del 21 de juliol, d'igualtat efectiva de dones i homes?",
+        "respuestas": [
+          "Reconèixer i tenir en compte el paper social i econòmic dels treballs familiar, domèstic i de cura de persones, que tradicionalment han exercit les dones",
+          "Eliminar les discriminacions, les desigualtats i la invisibilitat, generades pel caràcter patriarcal de la societat, que han patit històricament les dones",
+          "Donar suport a les famílies, en la mesura que són un instrument eficaç per a corregir desigualtats",
+          "Afavorir una distribució desigual entre dones i homes del treball de mercat i del treball domèstic i de la cura de les persones, en el marc d'un model de societat sostenible"
+        ],
+        "respuestaCorrecta": "Afavorir una distribució desigual entre dones i homes del treball de mercat i del treball domèstic i de la cura de les persones, en el marc d'un model de societat sostenible"
+      },
+      {
+        "id": "31",
+        "enunciado": "Quina és la característica principal dels elèctrodes classificats com a E7018, segons la norma UNE-EN ISO 2560:2021?",
+        "respuestas": [
+          "Són adequats per a soldadures en acer i tenen una alta resistència a la tracció",
+          "Són ideals per a soldadures en materials prims",
+          "Tenen un revestiment de baixa fusió que produeix soldadures d'alta penetració",
+          "Són utilitzats exclusivament per a soldadures en alumini"
+        ],
+        "respuestaCorrecta": "Són adequats per a soldadures en acer i tenen una alta resistència a la tracció"
+      },
+      {
+        "id": "32",
+        "enunciado": "Quina d'aquestes és una classificació habitual de les unions en soldadura?",
+        "respuestas": [
+          "Unió per fricció",
+          "Unió a ran",
+          "Unió per fusió",
+          "Unió per compressió"
+        ],
+        "respuestaCorrecta": "Unió a ran"
+      },
+      {
+        "id": "33",
+        "enunciado": "Segons les normes ISO 6506, 6507 i 6508, quines de les unitats següents s'utilitzen per mesurar la duresa en fabricació mecànica?",
+        "respuestas": [
+          "Newton, Vickers i Brinell",
+          "Pascal, Rockwell i Vickers",
+          "Rockwell, Vickers i Brinell",
+          "Mil·límetre, Pascal i Newton"
+        ],
+        "respuestaCorrecta": "Rockwell, Vickers i Brinell"
+      },
+      {
+        "id": "34",
+        "enunciado": "Segons la norma ISO 261, quin diàmetre de forat cal per fer una rosca amb mascle M8 x 1,25?",
+        "respuestas": [
+          "7 mm",
+          "6,8 mm",
+          "8 mm",
+          "7,5 mm"
+        ],
+        "respuestaCorrecta": "6,8 mm"
+      },
+      {
+        "id": "35",
+        "enunciado": "Què indica el marcatge CE en un equip de protecció individual?",
+        "respuestas": [
+          "Indica que ha estat fabricat a Europa",
+          "Indica que és reutilitzable sense límit",
+          "Indica que el producte compleix els requisits mínims de seguretat",
+          "Indica que el producte és reciclable"
+        ],
+        "respuestaCorrecta": "Indica que el producte compleix els requisits mínims de seguretat"
+      },
+      {
+        "id": "36",
+        "enunciado": "Quina és la unitat de mesura de la força, segons l'estàndard actual i les normes ISO 80000-4?",
+        "respuestas": [
+          "Newton",
+          "Quilogram",
+          "Lliura",
+          "Pascal"
+        ],
+        "respuestaCorrecta": "Newton"
+      },
+      {
+        "id": "37",
+        "enunciado": "Quina vista s'utilitza per representar un objecte en tres dimensions?",
+        "respuestas": [
+          "Vista en planta",
+          "Vista lateral",
+          "Vista isomètrica",
+          "Vista superior"
+        ],
+        "respuestaCorrecta": "Vista isomètrica"
+      },
+      {
+        "id": "38",
+        "enunciado": "Quina és la visió de l'Institut Català de la Salut?",
+        "respuestas": [
+          "Ser l'organització de referència i líder en el sistema de salut català, tant en l'assistència com en la docència i la recerca",
+          "Ser l'organització de referència i líder en el sistema sanitari integral d'utilització pública de Catalunya, tant en l'assistència com en la docència i la recerca",
+          "Ser l'organització de referència i líder en el sistema nacional de salut, tant en l'assistència com en la docència i la recerca",
+          "Ser l'organització de referència i líder en el sistema de salut català, tant en l'assistència com en les prestacions"
+        ],
+        "respuestaCorrecta": "Ser l'organització de referència i líder en el sistema de salut català, tant en l'assistència com en la docència i la recerca"
+      },
+      {
+        "id": "39",
+        "enunciado": "Quina tècnica de representació s'utilitza per mostrar l'interior d'un objecte tallat?",
+        "respuestas": [
+          "Tall",
+          "Secció",
+          "Ruptura",
+          "Vista en planta"
+        ],
+        "respuestaCorrecta": "Secció"
+      },
+      {
+        "id": "40",
+        "enunciado": "Quina és la principal diferència entre el tornejat i el fresatge?",
+        "respuestas": [
+          "El fresatge és un procés manual i el tornejat és automàtic",
+          "En el fresatge la peça gira i l'eina és fixa, mentre que en el tornejat la peça és fixa i l'eina gira",
+          "En el fresatge el material s'elimina amb un raig d'aigua i en el tornejat, no",
+          "En el tornejat la peça gira i l'eina és fixa, mentre que en el fresatge la peça és fixa i l'eina gira"
+        ],
+        "respuestaCorrecta": "En el tornejat la peça gira i l'eina és fixa, mentre que en el fresatge la peça és fixa i l'eina gira"
+      }
+    ]
+  },
+{
+    "tema": "Supòsit Pràctic 1 - Soldadura",
+    "enunciadoTema": "El Raúl és un operari que treballa a la unitat de manteniment d’un servei d’atenció primària, des que va obtenir el títol de tècnic especialista de grau mitjà de la branca de fabricació mecànica, fa 6 mesos. Ha de fer una soldadura elèctrica amb elèctrode revestit d’acer inoxidable en una estructura metàl·lica situada a 2,5 metres d’alçada per fer la instal·lació d’un suport per a un projector. Durant el procés, el Raúl té en compte les mesures de seguretat per evitar riscos i utilitza els equips de protecció individuals recomanats per la unitat bàsica de prevenció de riscos laborals.",
+    "preguntas": [
+      {
+        "id": "101",
+        "enunciado": "El Raúl va al magatzem a agafar el material necessari i té dubtes sobre quin elèctrode és el més adient per a aquest treball. Quin ha d'escollir?",
+        "respuestas": [
+          "Un elèctrode E316L",
+          "Un elèctrode E386J",
+          "Un elèctrode RJ45",
+          "Un elèctrode E6013"
+        ],
+        "respuestaCorrecta": "Un elèctrode E316L"
+      },
+      {
+        "id": "102",
+        "enunciado": "Quina és la mesura preventiva que adoptarà el Raúl per evitar l'acumulació de fums durant la soldadura?",
+        "respuestas": [
+          "Portar mascareta FPP2",
+          "Treballar en espais tancats",
+          "Assegurar-se que la ventilació del local sigui l'adequada",
+          "No usar cap protecció"
+        ],
+        "respuestaCorrecta": "Assegurar-se que la ventilació del local sigui l'adequada"
+      },
+      {
+        "id": "103",
+        "enunciado": "Quin tipus de corrent utilitzarà el Raúl per soldar amb elèctrode revestit d'acer inoxidable, una vegada posat en marxa l'equip?",
+        "respuestas": [
+          "Corrent altern (CA)",
+          "Corrent de baix voltatge (CBV)",
+          "Corrent trifàsic (CT)",
+          "Corrent continu (CC)"
+        ],
+        "respuestaCorrecta": "Corrent continu (CC)"
+      },
+      {
+        "id": "104",
+        "enunciado": "Quin és el risc principal que tindrà el Raül en fer aquesta actuació a l'altura indicada?",
+        "respuestas": [
+          "Risc d'electrocució",
+          "Risc de caiguda",
+          "Risc de cremades",
+          "Risc de talls"
+        ],
+        "respuestaCorrecta": "Risc de caiguda"
+      },
+      {
+        "id": "105",
+        "enunciado": "Quina protecció individual és obligatòria?",
+        "respuestas": [
+          "Casc de seguretat amb barbeta",
+          "Botes de seguretat",
+          "Arnés anticaiguda",
+          "Totes les proteccions esmentades són obligatòries"
+        ],
+        "respuestaCorrecta": "Totes les proteccions esmentades són obligatòries"
+      },
+      {
+        "id": "106",
+        "enunciado": "Quin tipus de gasos o fums pot inhalar el Raül?",
+        "respuestas": [
+          "Gasos inerts no tòxics",
+          "Fums metàl·lics tòxics i gasos com el diòxid de carboni",
+          "Gasos inflamables sense risc per la salut",
+          "Fums que només causen olor, però que no danyen"
+        ],
+        "respuestaCorrecta": "Fums metàl·lics tòxics i gasos com el diòxid de carboni"
+      },
+      {
+        "id": "107",
+        "enunciado": "El Raül té un dubte mentre està soldant; quina és la funció del revestiment de l'elèctrode en la soldadura?",
+        "respuestas": [
+          "Protegir el bany de soldadura de l'oxidació",
+          "Actuar com a carburant per a la soldadura",
+          "Incrementar la temperatura del corrent",
+          "Fer la soldadura més lenta"
+        ],
+        "respuestaCorrecta": "Protegir el bany de soldadura de l'oxidació"
+      },
+      {
+        "id": "108",
+        "enunciado": "Si el Raül no es posés els guants de cuir, a quin risc estaria exposat?",
+        "respuestas": [
+          "Risc d'electrocució",
+          "Risc d'inhalació de fum",
+          "Risc de cremades i talls",
+          "Risc de contusions"
+        ],
+        "respuestaCorrecta": "Risc de cremades i talls"
+      },
+      {
+        "id": "109",
+        "enunciado": "Quin és l'escenari més favorable per fer aquesta soldadura?",
+        "respuestas": [
+          "Dempeus sense protecció addicional",
+          "Amb plataforma estable i baranes de seguretat",
+          "A sobre d'una caixa metàl·lica estable",
+          "Assegut a la plataforma amb les cames penjant al buit"
+        ],
+        "respuestaCorrecta": "Amb plataforma estable i baranes de seguretat"
+      },
+      {
+        "id": "110",
+        "enunciado": "Un cop finalitzada la seva tasca, el Raúl observa com el seu cap està pujant a una escala metàl·lica i telescòpica per supervisar la feina feta. Quina és la mesura de seguretat que s'ha de dur a terme?",
+        "respuestas": [
+          "Fixar l'amès a l'escala i fixar els topalls d'alçada de l'escala",
+          "En aquesta altura no és necessari aplicar cap mesura de seguretat",
+          "Per tasques de supervisió no és necessari aplicar cap mesura de seguretat específica",
+          "Fixar l'amès a un ancoratge fix diferent de l'escala"
+        ],
+        "respuestaCorrecta": "Fixar l'amès a un ancoratge fix diferent de l'escala"
+      }
+    ]
+  },
+  {
+    "tema": "Supòsit Pràctic 2 - Soldadura de ferro",
+    "enunciadoTema": "El matí a l'Hospital Sant Pere va començar, com de costum, amb el brunzit de les màquines i el tràfec del personal. A la secció de manteniment, el telèfon va sonar. Era un avís de la planta de traumatologia: un llit estava avariat, necessitaven una reparació urgent. En Joan, el cap del torn de manteniment, va agafar el comunicat d'avaria. -Un llit amb les peces soltes, eh?-, va murmurar. Sense perdre ni un segon, va buscar amb la mirada la Maria. Ella estava just acabant una reparació fina en una màquina d'esterilització, amb la concentració que la caracteritzava. En aquell moment va agafar el comunicat i li va donar a la Maria perquè fes la feina.",
+    "preguntas": [
+      {
+        "id": "111",
+        "enunciado": "Quin tipus d'elèctrode es recomana utilitzar en la soldadura de ferro amb elèctrode revestit?",
+        "respuestas": [
+          "E6013",
+          "E4045",
+          "ER70S-6",
+          "AWS A5.4"
+        ],
+        "respuestaCorrecta": "E6013"
+      },
+      {
+        "id": "112",
+        "enunciado": "Un cop escollit l'elèctrode adequat, quina funció té el revestiment de l'elèctrode en la soldadura?",
+        "respuestas": [
+          "Reduir el voltatge de l'arc",
+          "Evitar l'escalfament de la peça",
+          "Protegir el bany de fusió de l'atmosfera",
+          "Refredar el cordó de soldadura"
+        ],
+        "respuestaCorrecta": "Protegir el bany de fusió de l'atmosfera"
+      },
+      {
+        "id": "113",
+        "enunciado": "Quin és el risc laboral més habitual en operacions de soldadura de l'elèctrode revestit, fent treballs al taller?",
+        "respuestas": [
+          "Caiguda a diferent nivell",
+          "Projecció de partícules",
+          "Contacte amb substàncies irritants",
+          "Electrocució"
+        ],
+        "respuestaCorrecta": "Projecció de partícules"
+      },
+      {
+        "id": "114",
+        "enunciado": "La Maria es disposa a soldar les peces. Què ha de fer abans de soldar-les?",
+        "respuestas": [
+          "Aplicar el cordó d'arrel",
+          "Llimar el cordó anterior",
+          "Aplicar una pintura anticorrosiva a les superfícies que cal soldar",
+          "Preparar i netejar les superfícies que cal soldar"
+        ],
+        "respuestaCorrecta": "Preparar i netejar les superfícies que cal soldar"
+      },
+      {
+        "id": "115",
+        "enunciado": "Quina posició de soldadura es considera la més fàcil per a un principiant com el Marc?",
+        "respuestas": [
+          "Horitzontal",
+          "Plana",
+          "Vertical ascendent",
+          "A sobre del cap"
+        ],
+        "respuestaCorrecta": "Plana"
+      },
+      {
+        "id": "116",
+        "enunciado": "Quin paràmetre s'ha d'ajustar per controlar la penetració del cordó de soldadura en ferro?",
+        "respuestas": [
+          "Intensitat del corrent",
+          "Diàmetre de l'elèctrode",
+          "Angle de la torxa",
+          "Tipus de gas de protecció"
+        ],
+        "respuestaCorrecta": "Intensitat del corrent"
+      },
+      {
+        "id": "117",
+        "enunciado": "Un cop feta la soldadura, la Maria comprova que no li ha sortit bé. Quin és un defecte comú en una soldadura de ferro?",
+        "respuestas": [
+          "Excés de penetració",
+          "Porositat",
+          "Refredament lent",
+          "Baixa conductivitat tèrmica"
+        ],
+        "respuestaCorrecta": "Porositat"
+      },
+      {
+        "id": "118",
+        "enunciado": "Quin és l'efecte d'una velocitat d'avançament massa ràpida en la soldadura?",
+        "respuestas": [
+          "Més penetració i fusió",
+          "Cordó ample i amb excés d'aportació",
+          "Cordó estret i mala fusió",
+          "Cordó uniforme i llis"
+        ],
+        "respuestaCorrecta": "Cordó estret i mala fusió"
+      },
+      {
+        "id": "119",
+        "enunciado": "La Maria ha de fer un bisell en la unió de les peces. Quina eina elèctrica s'utilitza per preparar les peces?",
+        "respuestas": [
+          "Llima",
+          "Serra elèctrica",
+          "Trepant magnètic",
+          "Esmoladora angular"
+        ],
+        "respuestaCorrecta": "Esmoladora angular"
+      }
+    ]
+  },
+  {
+    "tema": "Supòsit Pràctic 3 - Tornejat",
+    "enunciadoTema": "Al taller de mecanització, una de les màquines essencials per a la producció ha deixat de funcionar a causa d’una peça desgastada. El cap de taller encarrega a en Joan, un operari amb experiència, la fabricació d’una nova peça per substituir l’antiga. La reparació és urgent, ja que la parada de la màquina afecta moltes de les reparacions que es duen a terme al taller. Després de preparar el torn i tenir a mà les eines bàsiques, en Joan s’atura un moment. Tot i l’experiència acumulada al llarg dels anys, sap que no pot començar sense seguir un ordre correcte. Abans de fer girar la màquina, es fa un seguit de preguntes:",
+    "preguntas": [
+      {
+        "id": "120",
+        "enunciado": "Quina operació mecanitza l'extrem de la peça, en el pla perpendicular al seu eix de gir?",
+        "respuestas": [
+          "Roscatge de la peça",
+          "Cilindratge",
+          "Escairament",
+          "Tornejat esfèric"
+        ],
+        "respuestaCorrecta": "Escairament"
+      },
+      {
+        "id": "121",
+        "enunciado": "En Joan obre el pla de fabricació i comença a analitzar-lo amb deteniment. Aquest document és clau per entendre exactament com ha de ser la nova peça. Què indica el pla de fabricació?",
+        "respuestas": [
+          "Les eines que s'han de netejar",
+          "Les dimensions i toleràncies de la peça",
+          "El cost del material",
+          "El nom del torn"
+        ],
+        "respuestaCorrecta": "Les dimensions i toleràncies de la peça"
+      },
+      {
+        "id": "122",
+        "enunciado": "Què ha de fer abans de muntar la peça al torn?",
+        "respuestas": [
+          "Posar lubricant a la barra",
+          "Passar-li paper de vidre",
+          "Netejar la superfície de la peça",
+          "Tallar-la sempre per la meitat"
+        ],
+        "respuestaCorrecta": "Netejar la superfície de la peça"
+      },
+      {
+        "id": "123",
+        "enunciado": "Amb quina eina en mesurarà el diàmetre exterior amb més precisió?",
+        "respuestas": [
+          "Micròmetre",
+          "Goniòmetre",
+          "Regle metàl·lic",
+          "No hi ha cap eina més precisa que el peu de rei"
+        ],
+        "respuestaCorrecta": "Micròmetre"
+      },
+      {
+        "id": "124",
+        "enunciado": "Amb la peça col·locada al torn i a punt per començar, en Joan recorda que algunes de les cotes que haurà de mecanitzar tenen toleràncies molt ajustades, de mil·lèsimes de mil·límetre. Per garantir que aquestes toleràncies es compleixen, sap que no pot fer servir qualsevol eina. En aquell moment es pregunta amb quina eina es mesura una tolerància de mil·lèsimes?",
+        "respuestas": [
+          "Peu de rei",
+          "Peça patró",
+          "Flexòmetre",
+          "Palmer"
+        ],
+        "respuestaCorrecta": "Palmer"
+      },
+      {
+        "id": "125",
+        "enunciado": "Després de verificar les mesures, en Joan s'encamina cap al torn paral·lel. Amb les eines ja preparades, col·loca acuradament la peça al capçal del torn. Utilitza una clau especial per ajustar-la de manera segura. Mentre fa aquesta operació, pensa en la importància que té una bona subjecció per evitar qualsevol perill durant la mecanització. Quin element subjecta la peça al torn?",
+        "respuestas": [
+          "Bancada",
+          "Plat de tres mordasses",
+          "Clau anglesa",
+          "Contrapunt"
+        ],
+        "respuestaCorrecta": "Plat de tres mordasses"
+      },
+      {
+        "id": "126",
+        "enunciado": "Tot i que la peça està ben subjectada, en Joan observa que és força llarga i prima. Sap per experiència que, en aquestes condicions, pot deformar-se o vibrar durant la mecanització, per això munta el contrapunt. Mentre l'ajusta, es fa una nova reflexió tècnica: quina és la funció principal del contrapunt en el torn?",
+        "respuestas": [
+          "Donar suport a l'extrem oposat de la peça",
+          "Tallar la peça",
+          "Reduir el soroll de l'eina",
+          "Dissenyar rosques exteriors"
+        ],
+        "respuestaCorrecta": "Donar suport a l'extrem oposat de la peça"
+      },
+      {
+        "id": "127",
+        "enunciado": "Amb la peça ja ben muntada i estabilitzada, en Joan calcula les revolucions per minut i selecciona la velocitat adequada al torn. Quina seleccionarà?",
+        "respuestas": [
+          "Sempre la més baixa",
+          "Depèn del color de la peça",
+          "Depèn del material i del diàmetre",
+          "Sempre la màxima, per anar més ràpid"
+        ],
+        "respuestaCorrecta": "Depèn del material i del diàmetre"
+      },
+      {
+        "id": "128",
+        "enunciado": "Què pot passar si la peça no està ben subjecta?",
+        "respuestas": [
+          "Vibra lleugerament, però no passa res",
+          "Pot sortir projectada i causar accidents",
+          "El torn deixarà de funcionar automàticament",
+          "Només es notarà en la precisió final"
+        ],
+        "respuestaCorrecta": "Pot sortir projectada i causar accidents"
+      },
+      {
+        "id": "129",
+        "enunciado": "En Joan activa el sistema de refrigeració del torn. Sap que és una part fonamental del procés, especialment quan es treballa amb acer i a velocitats elevades. Per a què serveix exactament l'oli de tall?",
+        "respuestas": [
+          "Per reduir la temperatura i allargar la vida de l'eina",
+          "Per netejar la peça durant la mecanització",
+          "Per accelerar la rotació del torn",
+          "Per donar color a la ferrítja"
+        ],
+        "respuestaCorrecta": "Per reduir la temperatura i allargar la vida de l'eina"
+      },
+      {
+        "id": "130",
+        "enunciado": "Després d'haver completat la primera operació, en Joan sap que no pot passar directament a l'operació següent sense fer una cosa molt important. Quina és l'acció que ha de dur a terme un cop finalitzada una operació amb el torn?",
+        "respuestas": [
+          "Treure el corrent elèctric",
+          "Posar la peça directament a la màquina següent",
+          "Canviar immediatament l'eina de tall",
+          "Mesurar la peça"
+        ],
+        "respuestaCorrecta": "Mesurar la peça"
+      }
+    ]
+  },
+  {
+    "tema": "Supòsit Pràctic 4 - Muntatge mecànic",
+    "enunciadoTema": "Al taller de fabricació mecànica de l’Institut Pere Martell, en Jordi, un alumne de segon curs, es prepara per a la seva pràctica final. El seu tutor, en Manel, l’acompanya pas a pas per assegurar-se que aplica correctament els coneixements apresos. El primer que fa en Jordi és revisar el pla de fabricació. Sap que el primer pas consisteix a preparar les peces metàl·líques. En Manel li recorda: “Per donar forma i dimensions precises a una peça metàl·lica fem servir uns processos específics. No ho oblidis, perquè és la base de tot el treball posterior”. Tot seguit, cal procedir al muntatge dels sistemes mecànics. Aquest procés implica unir elements com eixos, rodaments, cargols i engranatges, garantint que cada component encaixi per assegurar-ne un funcionament òptim i evitar el desgast prematur. Finalment, és fonamental comprovar el sistema muntat fent proves de moviment i ajustos finals. A més, cal seguir sempre les normes de seguretat i mantenir un registre detallat de les operacions realitzades per facilitar futures intervencions i manteniments.",
+    "preguntas": [
+      {
+        "id": "131",
+        "enunciado": "Quin procés farà servir en Jordi per donar forma a una peça metàl·lica?",
+        "respuestas": [
+          "Soldadura",
+          "Cargolat",
+          "Tornejat",
+          "Muntatge"
+        ],
+        "respuestaCorrecta": "Tornejat"
+      },
+      {
+        "id": "132",
+        "enunciado": "Quin d'aquests processos NO és un procés de mecanitzat?",
+        "respuestas": [
+          "Fresar",
+          "Trepar",
+          "Tornejar",
+          "Cargolar"
+        ],
+        "respuestaCorrecta": "Cargolar"
+      },
+      {
+        "id": "133",
+        "enunciado": "Què s'ha de respectar en el muntatge de peces per garantir-ne un bon funcionament?",
+        "respuestas": [
+          "La velocitat dels motors",
+          "La tolerància entre peces",
+          "La fixació del rodament",
+          "La data de fabricació"
+        ],
+        "respuestaCorrecta": "La tolerància entre peces"
+      },
+      {
+        "id": "134",
+        "enunciado": "Quin element es fa servir per permetre el moviment axial giratori d'un eix?",
+        "respuestas": [
+          "Rodament",
+          "Passador",
+          "Femella",
+          "Engranatge"
+        ],
+        "respuestaCorrecta": "Rodament"
+      },
+      {
+        "id": "135",
+        "enunciado": "Tot seguit ha de fixar una tapa amb diversos cargols PZ2. Quina eina ha d'utilitzar en aquest cas?",
+        "respuestas": [
+          "Clau Allen",
+          "Tornavis Pozidriv",
+          "Tornavis pla",
+          "Clau anglesa"
+        ],
+        "respuestaCorrecta": "Tornavis Pozidriv"
+      },
+      {
+        "id": "136",
+        "enunciado": "En una altra part del sistema, en Jordi ha d'unir dues peces de manera permanent. Sap que, en aquest cas, no n'hi ha prou amb cargols o passadors. Quin procés utilitzarà?",
+        "respuestas": [
+          "Soldadura",
+          "Ajust",
+          "Empernat",
+          "Tornejat"
+        ],
+        "respuestaCorrecta": "Soldadura"
+      },
+      {
+        "id": "137",
+        "enunciado": "Saps quina és la funció principal d'un engranatge?",
+        "respuestas": [
+          "Subministrar energia",
+          "Transmetre moviment i força",
+          "Evitar les vibracions",
+          "Dissipar la calor"
+        ],
+        "respuestaCorrecta": "Transmetre moviment i força"
+      },
+      {
+        "id": "138",
+        "enunciado": "Sempre hem de fer proves de moviment. És important comprovar la funcionalitat. Per què?",
+        "respuestas": [
+          "Per assegurar que el sistema s'ajusta correctament",
+          "Perquè és obligatori per llei",
+          "Per assegurar l'estètica del producte",
+          "Per calcular el cost de la peça"
+        ],
+        "respuestaCorrecta": "Per assegurar que el sistema s'ajusta correctament"
+      },
+      {
+        "id": "139",
+        "enunciado": "Abans de donar la feina per acabada, en Jordi anota totes les operacions en un document per facilitar el manteniment futur. Quin és aquest document?",
+        "respuestas": [
+          "Pla de manteniment",
+          "Llibre de control de qualitat",
+          "Registre de muntatge",
+          "Informe de disseny"
+        ],
+        "respuestaCorrecta": "Pla de manteniment"
+      },
+      {
+        "id": "140",
+        "enunciado": "No oblidis que, durant tot el procés, has de respectar de manera obligatòria...",
+        "respuestas": [
+          "Dur l'equip de protecció individual que correspongui",
+          "Mantenir net i endreçat l'espai de treball",
+          "Seguir les normes de seguretat",
+          "Totes les respostes són correctes"
+        ],
+        "respuestaCorrecta": "Totes les respostes són correctes"
+      }
+    ]
+  }
+]
+

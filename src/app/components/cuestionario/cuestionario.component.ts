@@ -1,7 +1,5 @@
 import { Component, Input } from '@angular/core';
 import { Question } from '../../models/question.model';
-import { DataService } from '../../services/data.service';
-import { Tema } from '../../models/tema.model';
 
 @Component({
   selector: 'app-cuestionario',
@@ -11,6 +9,7 @@ import { Tema } from '../../models/tema.model';
 export class CuestionarioComponent {
 
   @Input() questions: Question[] = [];
+  @Input() enunciadoTema = "";
 
   selectedAnswers: { [key: string]: string } = {};
 

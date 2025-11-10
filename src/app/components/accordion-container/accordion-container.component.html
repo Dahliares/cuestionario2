@@ -1,5 +1,20 @@
 <h1>Examen Octubre 2025</h1>
 
-<div class="accordion" *ngFor="let tema of temas">
-  <app-accordion title={{tema.tema}}> <app-cuestionario [questions]="tema.preguntas" [enunciadoTema]="tema.enunciadoTema"> </app-cuestionario></app-accordion>
+<button (click)="corregirCuestionarios()" class="btn-corregir" [disabled]="isCorregido">
+  {{ isCorregido ? 'Corregido' : 'Corregir' }}
+</button><div *ngIf="isCorregido" class="resultado">
+  <h3>Total de aciertos: {{ totalAciertos }} / 80</h3>
 </div>
+
+<div class="accordion" *ngFor="let tema of temas">
+  <app-accordion [title]="tema.tema">
+    <app-cuestionario
+      [questions]="tema.preguntas"
+      [enunciadoTema]="tema.enunciadoTema"
+      [isCorregido]="isCorregido"
+      (onAciertos)="actualizarAciertos($event)"
+    ></app-cuestionario>
+  </app-accordion>
+</div>
+
+

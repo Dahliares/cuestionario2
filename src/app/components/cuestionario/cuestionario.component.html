@@ -1,4 +1,5 @@
-<div class="enunciadoTema">{{enunciadoTema}}</div>
+<div class="enunciado">{{ enunciadoTema }}</div>
+
 <div class="cuestionario-container" *ngFor="let question of questions">
   <div class="pregunta">
     <div class="enunciado">
@@ -9,13 +10,7 @@
       class="respuesta"
       *ngFor="let option of question.respuestas"
       (click)="selectAnswer(question.id, option)"
-      [style.background-color]="
-        selectedAnswers[question.id] === option
-          ? option === question.respuestaCorrecta
-            ? 'darkturquoise'
-            : 'red'
-          : 'white'
-      "
+      [style.background-color]="getColor(question, option)"
     >
       {{ option }}
     </div>

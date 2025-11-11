@@ -20,15 +20,25 @@ background-color: lightblue;
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.enunciado{
-  font-weight: 500;
-  
+.enunciado {
+  font-weight: bold;
+  margin-bottom: 10px;
 }
 
-.respuesta{
-    margin: 10px 20px;
-    border-radius: 20px;
-    border: solid 2px black;
-    padding: 10px;
+.respuesta {
+  border: 1px solid #ccc;
+  margin: 4px 0;
+  padding: 8px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s;
 }
 
+.respuesta:hover {
+  opacity: 0.85;
+}
+
+.enunciadoTema{
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding: 5px 15px;
+}

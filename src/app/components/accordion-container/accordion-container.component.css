@@ -7,3 +7,46 @@ h1{
   color: blueviolet;
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.botonera {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  margin: 15px 0;
+}
+
+.btn-empezar {
+  padding: 10px 20px;
+  background-color: seagreen;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.btn-corregir {
+  padding: 10px 20px;
+  background-color: cornflowerblue;
+  border: none;
+  color: white;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.btn-corregir:disabled {
+  background-color: gray;
+  cursor: not-allowed;
+}
+
+.timer {
+  font-weight: bold;
+  font-size: 18px;
+  color: crimson;
+}
+
+.resultado {
+  margin-top: 20px;
+  font-size: 18px;
+  font-weight: bold;
+}
+

@@ -7,6 +7,7 @@ import { CuestionarioComponent } from './components/cuestionario/cuestionario.co
 import { HttpClientModule } from '@angular/common/http';
 import { AccordionComponent } from './components/accordion/accordion.component';
 import { AccordionContainerComponent } from './components/accordion-container/accordion-container.component';
+import { CommonModule } from '@angular/common';
 
 @NgModule({
   declarations: [
@@ -18,7 +19,8 @@ import { AccordionContainerComponent } from './components/accordion-container/ac
   imports: [
     BrowserModule,
     AppRoutingModule,
-    HttpClientModule
+    HttpClientModule,
+    CommonModule
   ],
   providers: [
     provideClientHydration()
